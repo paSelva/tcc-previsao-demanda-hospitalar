@@ -1,0 +1,103 @@
+modelo,variavel,valor,peso,tipo
+Gradient Boosting,ano,0.0,0.0,consulta
+Gradient Boosting,dias_uteis,0.0,0.0,consulta
+Gradient Boosting,especialidade,0.09612273435694633,0.0026781168774964686,consulta
+Gradient Boosting,faixa,0.003290021001173275,9.166469128770932e-05,consulta
+Gradient Boosting,idade_media_lag1,0.032602156701232586,0.0009083427212976066,consulta
+Gradient Boosting,lag_1,7.018381217571837,0.1955421401318579,consulta
+Gradient Boosting,lag_12,4.370974876526803,0.12178161250043067,consulta
+Gradient Boosting,lag_2,0.6068739977051553,0.016908377676112977,consulta
+Gradient Boosting,lag_3,0.9912346920843637,0.027617216428459945,consulta
+Gradient Boosting,media_3m,7.707436809515947,0.21474021457974196,consulta
+Gradient Boosting,media_6m,15.00361602336669,0.4180222042627636,consulta
+Gradient Boosting,mes,0.0,0.0,consulta
+Gradient Boosting,n_municipios_lag1,0.001967671175112044,5.482213358457235e-05,consulta
+Gradient Boosting,prop_feminino_lag1,0.014009177597628467,0.0003903157272319414,consulta
+Gradient Boosting,prop_mun_ni_lag1,0.03331654029639367,0.0009282464701454384,consulta
+Gradient Boosting,prop_natal_lag1,0.012085732649317263,0.000336725799589238,consulta
+Gradient Boosting,trimestre,0.0,0.0,consulta
+Poisson,ano,0.0,0.0,consulta
+Poisson,dias_uteis,0.0,0.0,consulta
+Poisson,especialidade,1.3810199176013154,0.005377621868663294,consulta
+Poisson,faixa,0.26457189466183817,0.0010302296067086262,consulta
+Poisson,idade_media_lag1,0.06665089732524725,0.0002595352307769932,consulta
+Poisson,lag_1,0.6497203602388866,0.002529978295899635,consulta
+Poisson,lag_12,9.460197734470666,0.036837532587603826,consulta
+Poisson,lag_2,56.467537947296194,0.2198817432426184,consulta
+Poisson,lag_3,103.45712868207255,0.40285683832580227,consulta
+Poisson,media_3m,66.8400277013874,0.2602716949175874,consulta
+Poisson,media_6m,14.946087514092383,0.05819931055472423,consulta
+Poisson,mes,0.0,0.0,consulta
+Poisson,n_municipios_lag1,3.2007953494743346,0.012463735568959444,consulta
+Poisson,prop_feminino_lag1,0.004383890441385733,1.7070648154276443e-05,consulta
+Poisson,prop_mun_ni_lag1,0.0024318866719984142,9.469643980344731e-06,consulta
+Poisson,prop_natal_lag1,0.06811580530365288,0.0002652395085211811,consulta
+Poisson,trimestre,0.0,0.0,consulta
+Random Forest,ano,9.473903143468002e-16,2.4494549781292855e-17,consulta
+Random Forest,dias_uteis,7.105427357601001e-16,1.837091233596964e-17,consulta
+Random Forest,especialidade,0.05538439689009011,0.001431950323100509,consulta
+Random Forest,faixa,0.015477864981570376,0.0004001764938462562,consulta
+Random Forest,idade_media_lag1,0.02863470395528873,0.0007403434158908363,consulta
+Random Forest,lag_1,1.615036617347231,0.041756385117255324,consulta
+Random Forest,lag_12,0.8671063288934668,0.02241882655661209,consulta
+Random Forest,lag_2,0.13846132928156227,0.0035798845222621773,consulta
+Random Forest,lag_3,0.20625649977888036,0.0053327124259575425,consulta
+Random Forest,media_3m,12.898400479042648,0.3334850566324336,consulta
+Random Forest,media_6m,22.646892472076285,0.5855299834169478,consulta
+Random Forest,mes,7.105427357601003e-16,1.8370912335969646e-17,consulta
+Random Forest,n_municipios_lag1,0.05516428492216197,0.0014262593808624185,consulta
+Random Forest,prop_feminino_lag1,0.019333236383692786,0.0004998561985092398,consulta
+Random Forest,prop_mun_ni_lag1,0.08819735136923636,0.0022803214060526287,consulta
+Random Forest,prop_natal_lag1,0.043250994552013027,0.0011182441102695314,consulta
+Random Forest,trimestre,4.1448326252672507e-16,1.0716365529315623e-17,consulta
+Gradient Boosting,ano,0.0,0.0,internacao
+Gradient Boosting,dias_uteis,0.0,0.0,internacao
+Gradient Boosting,especialidade,0.01632452643316757,0.007798503940859714,internacao
+Gradient Boosting,faixa,0.0010507917579033576,0.0005019810956587841,internacao
+Gradient Boosting,idade_media_lag1,0.036125246908291546,0.017257644902117814,internacao
+Gradient Boosting,lag_1,0.4221109503623422,0.20164958066976682,internacao
+Gradient Boosting,lag_12,0.08037302697952538,0.038395562052272784,internacao
+Gradient Boosting,lag_2,0.019573976218308215,0.009350821373086016,internacao
+Gradient Boosting,lag_3,0.009976414262167587,0.004765902781785423,internacao
+Gradient Boosting,media_3m,0.3087379481522537,0.1474893691535473,internacao
+Gradient Boosting,media_6m,1.161228660610082,0.5547386825021544,internacao
+Gradient Boosting,mes,0.0,0.0,internacao
+Gradient Boosting,n_municipios_lag1,0.018098228392204794,0.0086458315355738,internacao
+Gradient Boosting,prop_feminino_lag1,0.011783946856230063,0.005629391846276063,internacao
+Gradient Boosting,prop_mun_ni_lag1,9.583377401859809e-06,4.5781423884556795e-06,internacao
+Gradient Boosting,prop_natal_lag1,0.00789620200560548,0.0037721500045125754,internacao
+Gradient Boosting,trimestre,0.0,0.0,internacao
+Poisson,ano,0.0,0.0,internacao
+Poisson,dias_uteis,0.0,0.0,internacao
+Poisson,especialidade,0.3638866924174951,0.03175131703940053,internacao
+Poisson,faixa,0.022858239753696327,0.00199451981208903,internacao
+Poisson,idade_media_lag1,0.04695717440562447,0.00409729776574738,internacao
+Poisson,lag_1,0.946866955206657,0.08261987458009329,internacao
+Poisson,lag_12,0.04309446690360624,0.0037602531497097674,internacao
+Poisson,lag_2,2.458726381845626,0.21453876299919694,internacao
+Poisson,lag_3,3.130952624241576,0.2731945725939875,internacao
+Poisson,media_3m,3.2522639967633498,0.2837797243175477,internacao
+Poisson,media_6m,1.061493235413316,0.09262171152474603,internacao
+Poisson,mes,0.0,0.0,internacao
+Poisson,n_municipios_lag1,0.12591215763020683,0.010986598079395608,internacao
+Poisson,prop_feminino_lag1,0.0006858306597206431,5.9842877373342524e-05,internacao
+Poisson,prop_mun_ni_lag1,9.350759059882178e-06,8.159103414771964e-07,internacao
+Poisson,prop_natal_lag1,0.0068156800610139874,0.0005947093503713174,internacao
+Poisson,trimestre,0.0,0.0,internacao
+Random Forest,ano,0.0,0.0,internacao
+Random Forest,dias_uteis,1.4802973661668754e-17,6.9335073301643295e-18,internacao
+Random Forest,especialidade,0.03286993177130299,0.015395819656726921,internacao
+Random Forest,faixa,0.00749070306532783,0.003508541310589621,internacao
+Random Forest,idade_media_lag1,0.019555114194447488,0.009159343974278037,internacao
+Random Forest,lag_1,0.04975723379809487,0.023305597453106584,internacao
+Random Forest,lag_12,0.05057821180302127,0.023690132151685462,internacao
+Random Forest,lag_2,0.003029738647155304,0.0014190875157015818,internacao
+Random Forest,lag_3,0.018082460569266105,0.008469573463409133,internacao
+Random Forest,media_3m,0.20989369927875337,0.09831129445787899,internacao
+Random Forest,media_6m,1.7177472261863167,0.8045689505597381,internacao
+Random Forest,mes,0.0,0.0,internacao
+Random Forest,n_municipios_lag1,0.0047416852951575016,0.002220939555978427,internacao
+Random Forest,prop_feminino_lag1,0.01655324987563876,0.007753312406950858,internacao
+Random Forest,prop_mun_ni_lag1,0.00010541423494203617,4.9374564015260066e-05,internacao
+Random Forest,prop_natal_lag1,0.004586030326669214,0.002148032929941211,internacao
+Random Forest,trimestre,3.7007434154171884e-18,1.7333768325410824e-18,internacao
