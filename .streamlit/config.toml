@@ -1,0 +1,8 @@
+# Paleta da interface. Sem isto o Streamlit usa o vermelho
+# padrão nos controles, que colide com a semântica de alerta da interface.
+[theme]
+primaryColor = "#1E40AF"
+font = "sans serif"
+
+[server]
+headless = true

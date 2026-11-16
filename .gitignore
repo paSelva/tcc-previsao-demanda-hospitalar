@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+*.iml
+# Bases originais e microdados padronizados não são redistribuídos.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/painel.csv.gz
