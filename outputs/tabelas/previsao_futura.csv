@@ -1,0 +1,2881 @@
+tipo,periodo,especialidade,faixa,estrato,modelo,predito
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,0-14,alto,Baseline,55.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,15-29,medio,Baseline,1.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,ANESTESIOLOGIA,0-14,medio,Baseline,9.0
+consulta,2026-07-01,ANESTESIOLOGIA,15-29,medio,Baseline,29.0
+consulta,2026-07-01,ANESTESIOLOGIA,30-44,alto,Baseline,68.0
+consulta,2026-07-01,ANESTESIOLOGIA,45-59,alto,Baseline,93.0
+consulta,2026-07-01,ANESTESIOLOGIA,60-74,alto,Baseline,94.0
+consulta,2026-07-01,ANESTESIOLOGIA,75+,medio,Baseline,19.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,15-29,baixo,Baseline,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,75+,baixo,Baseline,0.0
+consulta,2026-07-01,CARDIOLOGIA,0-14,medio,Baseline,4.0
+consulta,2026-07-01,CARDIOLOGIA,15-29,alto,Baseline,61.0
+consulta,2026-07-01,CARDIOLOGIA,30-44,alto,Baseline,124.0
+consulta,2026-07-01,CARDIOLOGIA,45-59,alto,Baseline,314.0
+consulta,2026-07-01,CARDIOLOGIA,60-74,alto,Baseline,428.0
+consulta,2026-07-01,CARDIOLOGIA,75+,alto,Baseline,176.0
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,0-14,alto,Baseline,147.0
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,15-29,medio,Baseline,12.0
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,30-44,baixo,Baseline,1.0
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,15-29,medio,Baseline,16.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,30-44,alto,Baseline,93.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,45-59,alto,Baseline,100.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,60-74,medio,Baseline,11.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA CARDIACA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA CARDIACA,15-29,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA CARDIACA,30-44,baixo,Baseline,2.0
+consulta,2026-07-01,CIRURGIA CARDIACA,45-59,medio,Baseline,2.0
+consulta,2026-07-01,CIRURGIA CARDIACA,60-74,medio,Baseline,5.0
+consulta,2026-07-01,CIRURGIA CARDIACA,75+,baixo,Baseline,2.0
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,15-29,medio,Baseline,4.0
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,30-44,medio,Baseline,12.0
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,45-59,alto,Baseline,23.0
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,60-74,alto,Baseline,21.0
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,75+,medio,Baseline,17.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,15-29,medio,Baseline,4.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,30-44,medio,Baseline,8.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,45-59,medio,Baseline,19.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,60-74,medio,Baseline,16.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,75+,medio,Baseline,3.0
+consulta,2026-07-01,CIRURGIA GERAL,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA GERAL,15-29,medio,Baseline,8.0
+consulta,2026-07-01,CIRURGIA GERAL,30-44,alto,Baseline,28.0
+consulta,2026-07-01,CIRURGIA GERAL,45-59,alto,Baseline,57.0
+consulta,2026-07-01,CIRURGIA GERAL,60-74,alto,Baseline,58.0
+consulta,2026-07-01,CIRURGIA GERAL,75+,medio,Baseline,17.0
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,15-29,medio,Baseline,9.0
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,30-44,medio,Baseline,20.0
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,45-59,alto,Baseline,30.0
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,60-74,alto,Baseline,39.0
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,75+,medio,Baseline,20.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,0-14,alto,Baseline,42.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,15-29,medio,Baseline,2.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,75+,baixo,Baseline,0.0
+consulta,2026-07-01,CIRURGIA PLASTICA,0-14,medio,Baseline,2.0
+consulta,2026-07-01,CIRURGIA PLASTICA,15-29,medio,Baseline,10.0
+consulta,2026-07-01,CIRURGIA PLASTICA,30-44,alto,Baseline,21.0
+consulta,2026-07-01,CIRURGIA PLASTICA,45-59,alto,Baseline,21.0
+consulta,2026-07-01,CIRURGIA PLASTICA,60-74,medio,Baseline,9.0
+consulta,2026-07-01,CIRURGIA PLASTICA,75+,medio,Baseline,3.0
+consulta,2026-07-01,CIRURGIA TORACICA,0-14,medio,Baseline,0.0
+consulta,2026-07-01,CIRURGIA TORACICA,15-29,medio,Baseline,20.0
+consulta,2026-07-01,CIRURGIA TORACICA,30-44,medio,Baseline,8.0
+consulta,2026-07-01,CIRURGIA TORACICA,45-59,medio,Baseline,24.0
+consulta,2026-07-01,CIRURGIA TORACICA,60-74,medio,Baseline,28.0
+consulta,2026-07-01,CIRURGIA TORACICA,75+,medio,Baseline,8.0
+consulta,2026-07-01,CIRURGIA VASCULAR,0-14,baixo,Baseline,1.0
+consulta,2026-07-01,CIRURGIA VASCULAR,15-29,medio,Baseline,2.0
+consulta,2026-07-01,CIRURGIA VASCULAR,30-44,medio,Baseline,20.0
+consulta,2026-07-01,CIRURGIA VASCULAR,45-59,alto,Baseline,40.0
+consulta,2026-07-01,CIRURGIA VASCULAR,60-74,alto,Baseline,57.0
+consulta,2026-07-01,CIRURGIA VASCULAR,75+,medio,Baseline,24.0
+consulta,2026-07-01,CLINICA GERAL,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,CLINICA GERAL,15-29,baixo,Baseline,0.0
+consulta,2026-07-01,CLINICA GERAL,30-44,medio,Baseline,0.0
+consulta,2026-07-01,CLINICA GERAL,45-59,medio,Baseline,2.0
+consulta,2026-07-01,CLINICA GERAL,60-74,medio,Baseline,3.0
+consulta,2026-07-01,CLINICA GERAL,75+,medio,Baseline,12.0
+consulta,2026-07-01,CONSULTA FARMACEUTICA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,CONSULTA FARMACEUTICA,15-29,medio,Baseline,1.0
+consulta,2026-07-01,CONSULTA FARMACEUTICA,30-44,medio,Baseline,4.0
+consulta,2026-07-01,CONSULTA FARMACEUTICA,45-59,medio,Baseline,5.0
+consulta,2026-07-01,CONSULTA FARMACEUTICA,60-74,medio,Baseline,4.0
+consulta,2026-07-01,CONSULTA FARMACEUTICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,DERMATOLOGIA,0-14,alto,Baseline,47.0
+consulta,2026-07-01,DERMATOLOGIA,15-29,alto,Baseline,102.0
+consulta,2026-07-01,DERMATOLOGIA,30-44,alto,Baseline,139.0
+consulta,2026-07-01,DERMATOLOGIA,45-59,alto,Baseline,191.0
+consulta,2026-07-01,DERMATOLOGIA,60-74,alto,Baseline,172.0
+consulta,2026-07-01,DERMATOLOGIA,75+,alto,Baseline,69.0
+consulta,2026-07-01,ENDOCRINOLOGIA,0-14,medio,Baseline,12.0
+consulta,2026-07-01,ENDOCRINOLOGIA,15-29,alto,Baseline,132.0
+consulta,2026-07-01,ENDOCRINOLOGIA,30-44,alto,Baseline,186.0
+consulta,2026-07-01,ENDOCRINOLOGIA,45-59,alto,Baseline,228.0
+consulta,2026-07-01,ENDOCRINOLOGIA,60-74,alto,Baseline,195.0
+consulta,2026-07-01,ENDOCRINOLOGIA,75+,alto,Baseline,37.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,0-14,alto,Baseline,203.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,15-29,alto,Baseline,36.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,15-29,baixo,Baseline,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,30-44,baixo,Baseline,1.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,75+,baixo,Baseline,0.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,0-14,alto,Baseline,56.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,15-29,alto,Baseline,42.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,30-44,alto,Baseline,106.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,45-59,alto,Baseline,171.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,60-74,alto,Baseline,86.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,75+,medio,Baseline,17.0
+consulta,2026-07-01,FISIOTERAPIA,0-14,alto,Baseline,56.0
+consulta,2026-07-01,FISIOTERAPIA,15-29,alto,Baseline,63.0
+consulta,2026-07-01,FISIOTERAPIA,30-44,alto,Baseline,170.0
+consulta,2026-07-01,FISIOTERAPIA,45-59,alto,Baseline,439.0
+consulta,2026-07-01,FISIOTERAPIA,60-74,alto,Baseline,247.0
+consulta,2026-07-01,FISIOTERAPIA,75+,alto,Baseline,56.0
+consulta,2026-07-01,FONOAUDIOLOGIA,0-14,alto,Baseline,52.0
+consulta,2026-07-01,FONOAUDIOLOGIA,15-29,medio,Baseline,13.0
+consulta,2026-07-01,FONOAUDIOLOGIA,30-44,alto,Baseline,45.0
+consulta,2026-07-01,FONOAUDIOLOGIA,45-59,alto,Baseline,72.0
+consulta,2026-07-01,FONOAUDIOLOGIA,60-74,alto,Baseline,43.0
+consulta,2026-07-01,FONOAUDIOLOGIA,75+,medio,Baseline,19.0
+consulta,2026-07-01,GASTROENTEROLOGIA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA,15-29,alto,Baseline,49.0
+consulta,2026-07-01,GASTROENTEROLOGIA,30-44,alto,Baseline,48.0
+consulta,2026-07-01,GASTROENTEROLOGIA,45-59,alto,Baseline,57.0
+consulta,2026-07-01,GASTROENTEROLOGIA,60-74,alto,Baseline,61.0
+consulta,2026-07-01,GASTROENTEROLOGIA,75+,medio,Baseline,14.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,0-14,alto,Baseline,248.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,15-29,medio,Baseline,9.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,GERIATRIA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,GERIATRIA,15-29,baixo,Baseline,0.0
+consulta,2026-07-01,GERIATRIA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,GERIATRIA,45-59,baixo,Baseline,1.0
+consulta,2026-07-01,GERIATRIA,60-74,alto,Baseline,45.0
+consulta,2026-07-01,GERIATRIA,75+,alto,Baseline,71.0
+consulta,2026-07-01,HEMATOLOGIA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,HEMATOLOGIA,15-29,alto,Baseline,50.0
+consulta,2026-07-01,HEMATOLOGIA,30-44,alto,Baseline,100.0
+consulta,2026-07-01,HEMATOLOGIA,45-59,alto,Baseline,77.0
+consulta,2026-07-01,HEMATOLOGIA,60-74,alto,Baseline,92.0
+consulta,2026-07-01,HEMATOLOGIA,75+,alto,Baseline,65.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,0-14,alto,Baseline,53.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,15-29,medio,Baseline,6.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,HEPATOLOGIA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,HEPATOLOGIA,15-29,medio,Baseline,18.0
+consulta,2026-07-01,HEPATOLOGIA,30-44,alto,Baseline,37.0
+consulta,2026-07-01,HEPATOLOGIA,45-59,alto,Baseline,101.0
+consulta,2026-07-01,HEPATOLOGIA,60-74,alto,Baseline,120.0
+consulta,2026-07-01,HEPATOLOGIA,75+,alto,Baseline,45.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,0-14,alto,Baseline,83.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,15-29,baixo,Baseline,5.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,MASTOLOGIA,0-14,baixo,Baseline,1.0
+consulta,2026-07-01,MASTOLOGIA,15-29,medio,Baseline,12.0
+consulta,2026-07-01,MASTOLOGIA,30-44,alto,Baseline,50.0
+consulta,2026-07-01,MASTOLOGIA,45-59,alto,Baseline,67.0
+consulta,2026-07-01,MASTOLOGIA,60-74,medio,Baseline,22.0
+consulta,2026-07-01,MASTOLOGIA,75+,medio,Baseline,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,15-29,medio,Baseline,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,30-44,medio,Baseline,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,45-59,medio,Baseline,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,60-74,medio,Baseline,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,NEFROLOGIA,0-14,medio,Baseline,5.0
+consulta,2026-07-01,NEFROLOGIA,15-29,alto,Baseline,99.0
+consulta,2026-07-01,NEFROLOGIA,30-44,alto,Baseline,164.0
+consulta,2026-07-01,NEFROLOGIA,45-59,alto,Baseline,262.0
+consulta,2026-07-01,NEFROLOGIA,60-74,alto,Baseline,161.0
+consulta,2026-07-01,NEFROLOGIA,75+,alto,Baseline,81.0
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,15-29,baixo,Baseline,1.0
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,30-44,baixo,Baseline,5.0
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,45-59,baixo,Baseline,1.0
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,60-74,baixo,Baseline,3.0
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,0-14,alto,Baseline,144.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,15-29,medio,Baseline,16.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,NEUROCIRURGIA,0-14,medio,Baseline,10.0
+consulta,2026-07-01,NEUROCIRURGIA,15-29,medio,Baseline,24.0
+consulta,2026-07-01,NEUROCIRURGIA,30-44,alto,Baseline,59.0
+consulta,2026-07-01,NEUROCIRURGIA,45-59,alto,Baseline,92.0
+consulta,2026-07-01,NEUROCIRURGIA,60-74,alto,Baseline,38.0
+consulta,2026-07-01,NEUROCIRURGIA,75+,medio,Baseline,6.0
+consulta,2026-07-01,NEUROLOGIA,0-14,medio,Baseline,21.0
+consulta,2026-07-01,NEUROLOGIA,15-29,alto,Baseline,177.0
+consulta,2026-07-01,NEUROLOGIA,30-44,alto,Baseline,239.0
+consulta,2026-07-01,NEUROLOGIA,45-59,alto,Baseline,291.0
+consulta,2026-07-01,NEUROLOGIA,60-74,alto,Baseline,202.0
+consulta,2026-07-01,NEUROLOGIA,75+,alto,Baseline,75.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,0-14,alto,Baseline,76.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,15-29,medio,Baseline,1.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,NEUROPSICOLOGIA,0-14,baixo,Baseline,1.0
+consulta,2026-07-01,NEUROPSICOLOGIA,15-29,medio,Baseline,0.0
+consulta,2026-07-01,NEUROPSICOLOGIA,30-44,medio,Baseline,6.0
+consulta,2026-07-01,NEUROPSICOLOGIA,45-59,medio,Baseline,11.0
+consulta,2026-07-01,NEUROPSICOLOGIA,60-74,medio,Baseline,17.0
+consulta,2026-07-01,NEUROPSICOLOGIA,75+,medio,Baseline,8.0
+consulta,2026-07-01,NUTRICAO CLINICA,0-14,baixo,Baseline,2.0
+consulta,2026-07-01,NUTRICAO CLINICA,15-29,medio,Baseline,16.0
+consulta,2026-07-01,NUTRICAO CLINICA,30-44,alto,Baseline,80.0
+consulta,2026-07-01,NUTRICAO CLINICA,45-59,alto,Baseline,94.0
+consulta,2026-07-01,NUTRICAO CLINICA,60-74,alto,Baseline,45.0
+consulta,2026-07-01,NUTRICAO CLINICA,75+,medio,Baseline,9.0
+consulta,2026-07-01,NUTRICAO INFANTIL,0-14,alto,Baseline,82.0
+consulta,2026-07-01,NUTRICAO INFANTIL,15-29,medio,Baseline,9.0
+consulta,2026-07-01,NUTRICAO INFANTIL,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,NUTRICAO INFANTIL,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,NUTRICAO INFANTIL,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,NUTRICAO INFANTIL,75+,baixo,Baseline,0.0
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,0-14,medio,Baseline,2.0
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,15-29,medio,Baseline,22.0
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,30-44,medio,Baseline,8.0
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,45-59,medio,Baseline,6.0
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,60-74,medio,Baseline,2.0
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,75+,medio,Baseline,3.0
+consulta,2026-07-01,ODONTOLOGIA CLINICA,0-14,medio,Baseline,1.0
+consulta,2026-07-01,ODONTOLOGIA CLINICA,15-29,medio,Baseline,9.0
+consulta,2026-07-01,ODONTOLOGIA CLINICA,30-44,medio,Baseline,42.0
+consulta,2026-07-01,ODONTOLOGIA CLINICA,45-59,medio,Baseline,48.0
+consulta,2026-07-01,ODONTOLOGIA CLINICA,60-74,medio,Baseline,13.0
+consulta,2026-07-01,ODONTOLOGIA CLINICA,75+,baixo,Baseline,1.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,0-14,medio,Baseline,20.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,15-29,baixo,Baseline,2.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,OFTALMOLOGIA,0-14,alto,Baseline,103.0
+consulta,2026-07-01,OFTALMOLOGIA,15-29,alto,Baseline,130.0
+consulta,2026-07-01,OFTALMOLOGIA,30-44,alto,Baseline,184.0
+consulta,2026-07-01,OFTALMOLOGIA,45-59,alto,Baseline,481.0
+consulta,2026-07-01,OFTALMOLOGIA,60-74,alto,Baseline,649.0
+consulta,2026-07-01,OFTALMOLOGIA,75+,alto,Baseline,275.0
+consulta,2026-07-01,ONCOLOGIA CLINICA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,ONCOLOGIA CLINICA,15-29,medio,Baseline,16.0
+consulta,2026-07-01,ONCOLOGIA CLINICA,30-44,alto,Baseline,124.0
+consulta,2026-07-01,ONCOLOGIA CLINICA,45-59,alto,Baseline,258.0
+consulta,2026-07-01,ONCOLOGIA CLINICA,60-74,alto,Baseline,392.0
+consulta,2026-07-01,ONCOLOGIA CLINICA,75+,alto,Baseline,192.0
+consulta,2026-07-01,ORTOPEDIA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,ORTOPEDIA,15-29,medio,Baseline,0.0
+consulta,2026-07-01,ORTOPEDIA,30-44,medio,Baseline,1.0
+consulta,2026-07-01,ORTOPEDIA,45-59,medio,Baseline,8.0
+consulta,2026-07-01,ORTOPEDIA,60-74,medio,Baseline,5.0
+consulta,2026-07-01,ORTOPEDIA,75+,medio,Baseline,1.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,0-14,alto,Baseline,30.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,15-29,medio,Baseline,4.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,0-14,medio,Baseline,19.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,15-29,alto,Baseline,76.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,30-44,alto,Baseline,104.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,45-59,alto,Baseline,126.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,60-74,alto,Baseline,86.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,75+,alto,Baseline,30.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,0-14,alto,Baseline,32.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,15-29,medio,Baseline,1.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,60-74,baixo,Baseline,1.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,PEDIATRIA,0-14,alto,Baseline,394.0
+consulta,2026-07-01,PEDIATRIA,15-29,medio,Baseline,4.0
+consulta,2026-07-01,PEDIATRIA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,PEDIATRIA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,PEDIATRIA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,PEDIATRIA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,PNEUMOLOGIA,0-14,baixo,Baseline,1.0
+consulta,2026-07-01,PNEUMOLOGIA,15-29,alto,Baseline,43.0
+consulta,2026-07-01,PNEUMOLOGIA,30-44,alto,Baseline,38.0
+consulta,2026-07-01,PNEUMOLOGIA,45-59,alto,Baseline,83.0
+consulta,2026-07-01,PNEUMOLOGIA,60-74,alto,Baseline,109.0
+consulta,2026-07-01,PNEUMOLOGIA,75+,alto,Baseline,37.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,0-14,alto,Baseline,116.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,15-29,medio,Baseline,7.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,15-29,medio,Baseline,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,30-44,medio,Baseline,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,45-59,medio,Baseline,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,60-74,medio,Baseline,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,75+,baixo,Baseline,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,15-29,medio,Baseline,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,30-44,medio,Baseline,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,45-59,medio,Baseline,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,60-74,medio,Baseline,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,75+,baixo,Baseline,0.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,15-29,medio,Baseline,6.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,30-44,medio,Baseline,10.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,45-59,medio,Baseline,3.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,60-74,medio,Baseline,0.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,75+,medio,Baseline,0.0
+consulta,2026-07-01,PROCTOLOGIA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,PROCTOLOGIA,15-29,medio,Baseline,6.0
+consulta,2026-07-01,PROCTOLOGIA,30-44,alto,Baseline,19.0
+consulta,2026-07-01,PROCTOLOGIA,45-59,alto,Baseline,39.0
+consulta,2026-07-01,PROCTOLOGIA,60-74,alto,Baseline,30.0
+consulta,2026-07-01,PROCTOLOGIA,75+,medio,Baseline,9.0
+consulta,2026-07-01,PSICOLOGIA,0-14,medio,Baseline,1.0
+consulta,2026-07-01,PSICOLOGIA,15-29,alto,Baseline,51.0
+consulta,2026-07-01,PSICOLOGIA,30-44,alto,Baseline,65.0
+consulta,2026-07-01,PSICOLOGIA,45-59,alto,Baseline,82.0
+consulta,2026-07-01,PSICOLOGIA,60-74,medio,Baseline,18.0
+consulta,2026-07-01,PSICOLOGIA,75+,medio,Baseline,3.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,0-14,medio,Baseline,16.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,15-29,medio,Baseline,7.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,75+,baixo,Baseline,0.0
+consulta,2026-07-01,PSIQUIATRIA,0-14,medio,Baseline,5.0
+consulta,2026-07-01,PSIQUIATRIA,15-29,alto,Baseline,136.0
+consulta,2026-07-01,PSIQUIATRIA,30-44,alto,Baseline,178.0
+consulta,2026-07-01,PSIQUIATRIA,45-59,alto,Baseline,194.0
+consulta,2026-07-01,PSIQUIATRIA,60-74,alto,Baseline,92.0
+consulta,2026-07-01,PSIQUIATRIA,75+,medio,Baseline,23.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,0-14,alto,Baseline,43.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,15-29,medio,Baseline,6.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,30-44,baixo,Baseline,0.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,15-29,baixo,Baseline,0.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,30-44,baixo,Baseline,3.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,60-74,medio,Baseline,4.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,75+,baixo,Baseline,6.0
+consulta,2026-07-01,REUMATOLOGIA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,REUMATOLOGIA,15-29,alto,Baseline,44.0
+consulta,2026-07-01,REUMATOLOGIA,30-44,alto,Baseline,120.0
+consulta,2026-07-01,REUMATOLOGIA,45-59,alto,Baseline,145.0
+consulta,2026-07-01,REUMATOLOGIA,60-74,alto,Baseline,81.0
+consulta,2026-07-01,REUMATOLOGIA,75+,medio,Baseline,15.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,0-14,alto,Baseline,92.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,15-29,alto,Baseline,38.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,30-44,baixo,Baseline,1.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,SERVICO SOCIAL,0-14,medio,Baseline,40.0
+consulta,2026-07-01,SERVICO SOCIAL,15-29,medio,Baseline,32.0
+consulta,2026-07-01,SERVICO SOCIAL,30-44,medio,Baseline,57.0
+consulta,2026-07-01,SERVICO SOCIAL,45-59,medio,Baseline,46.0
+consulta,2026-07-01,SERVICO SOCIAL,60-74,medio,Baseline,10.0
+consulta,2026-07-01,SERVICO SOCIAL,75+,baixo,Baseline,1.0
+consulta,2026-07-01,TERAPIA OCUPACIONAL,0-14,medio,Baseline,27.0
+consulta,2026-07-01,TERAPIA OCUPACIONAL,15-29,medio,Baseline,10.0
+consulta,2026-07-01,TERAPIA OCUPACIONAL,30-44,alto,Baseline,18.0
+consulta,2026-07-01,TERAPIA OCUPACIONAL,45-59,alto,Baseline,68.0
+consulta,2026-07-01,TERAPIA OCUPACIONAL,60-74,alto,Baseline,34.0
+consulta,2026-07-01,TERAPIA OCUPACIONAL,75+,medio,Baseline,12.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,15-29,baixo,Baseline,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,30-44,medio,Baseline,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,45-59,medio,Baseline,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,60-74,medio,Baseline,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,75+,baixo,Baseline,0.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,0-14,baixo,Baseline,0.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,15-29,baixo,Baseline,1.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,30-44,medio,Baseline,4.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,45-59,medio,Baseline,2.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,60-74,medio,Baseline,1.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,75+,baixo,Baseline,0.0
+consulta,2026-07-01,UROLOGIA,0-14,medio,Baseline,42.0
+consulta,2026-07-01,UROLOGIA,15-29,alto,Baseline,49.0
+consulta,2026-07-01,UROLOGIA,30-44,alto,Baseline,124.0
+consulta,2026-07-01,UROLOGIA,45-59,alto,Baseline,186.0
+consulta,2026-07-01,UROLOGIA,60-74,alto,Baseline,360.0
+consulta,2026-07-01,UROLOGIA,75+,alto,Baseline,117.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,0-14,alto,Poisson,84.1
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,15-29,medio,Poisson,2.5
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.4
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.4
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,75+,baixo,Poisson,0.4
+consulta,2026-07-01,ANESTESIOLOGIA,0-14,medio,Poisson,6.9
+consulta,2026-07-01,ANESTESIOLOGIA,15-29,medio,Poisson,25.1
+consulta,2026-07-01,ANESTESIOLOGIA,30-44,alto,Poisson,63.5
+consulta,2026-07-01,ANESTESIOLOGIA,45-59,alto,Poisson,84.2
+consulta,2026-07-01,ANESTESIOLOGIA,60-74,alto,Poisson,93.4
+consulta,2026-07-01,ANESTESIOLOGIA,75+,medio,Poisson,22.5
+consulta,2026-07-01,ASSISTENTE SOCIAL,0-14,baixo,Poisson,0.1
+consulta,2026-07-01,ASSISTENTE SOCIAL,15-29,baixo,Poisson,0.1
+consulta,2026-07-01,ASSISTENTE SOCIAL,30-44,baixo,Poisson,0.1
+consulta,2026-07-01,ASSISTENTE SOCIAL,45-59,baixo,Poisson,0.1
+consulta,2026-07-01,ASSISTENTE SOCIAL,60-74,baixo,Poisson,0.1
+consulta,2026-07-01,ASSISTENTE SOCIAL,75+,baixo,Poisson,0.1
+consulta,2026-07-01,CARDIOLOGIA,0-14,medio,Poisson,6.1
+consulta,2026-07-01,CARDIOLOGIA,15-29,alto,Poisson,52.4
+consulta,2026-07-01,CARDIOLOGIA,30-44,alto,Poisson,117.6
+consulta,2026-07-01,CARDIOLOGIA,45-59,alto,Poisson,273.8
+consulta,2026-07-01,CARDIOLOGIA,60-74,alto,Poisson,348.1
+consulta,2026-07-01,CARDIOLOGIA,75+,alto,Poisson,165.3
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,0-14,alto,Poisson,130.5
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,15-29,medio,Poisson,9.8
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.9
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.4
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,75+,baixo,Poisson,0.4
+consulta,2026-07-01,CIRURGIA BARIATRICA,0-14,baixo,Poisson,0.6
+consulta,2026-07-01,CIRURGIA BARIATRICA,15-29,medio,Poisson,12.8
+consulta,2026-07-01,CIRURGIA BARIATRICA,30-44,alto,Poisson,102.9
+consulta,2026-07-01,CIRURGIA BARIATRICA,45-59,alto,Poisson,97.7
+consulta,2026-07-01,CIRURGIA BARIATRICA,60-74,medio,Poisson,15.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,75+,baixo,Poisson,0.6
+consulta,2026-07-01,CIRURGIA CARDIACA,0-14,baixo,Poisson,0.4
+consulta,2026-07-01,CIRURGIA CARDIACA,15-29,baixo,Poisson,0.4
+consulta,2026-07-01,CIRURGIA CARDIACA,30-44,baixo,Poisson,1.4
+consulta,2026-07-01,CIRURGIA CARDIACA,45-59,medio,Poisson,1.5
+consulta,2026-07-01,CIRURGIA CARDIACA,60-74,medio,Poisson,2.2
+consulta,2026-07-01,CIRURGIA CARDIACA,75+,baixo,Poisson,1.4
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,0-14,baixo,Poisson,0.6
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,15-29,medio,Poisson,4.5
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,30-44,medio,Poisson,12.8
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,45-59,alto,Poisson,28.4
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,60-74,alto,Poisson,27.0
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,75+,medio,Poisson,15.1
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,0-14,baixo,Poisson,0.6
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,15-29,medio,Poisson,3.9
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,30-44,medio,Poisson,6.9
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,45-59,medio,Poisson,14.8
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,60-74,medio,Poisson,14.6
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,75+,medio,Poisson,3.5
+consulta,2026-07-01,CIRURGIA GERAL,0-14,baixo,Poisson,0.6
+consulta,2026-07-01,CIRURGIA GERAL,15-29,medio,Poisson,9.3
+consulta,2026-07-01,CIRURGIA GERAL,30-44,alto,Poisson,36.5
+consulta,2026-07-01,CIRURGIA GERAL,45-59,alto,Poisson,51.9
+consulta,2026-07-01,CIRURGIA GERAL,60-74,alto,Poisson,55.5
+consulta,2026-07-01,CIRURGIA GERAL,75+,medio,Poisson,15.6
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,0-14,baixo,Poisson,0.7
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,15-29,medio,Poisson,6.4
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,30-44,medio,Poisson,20.2
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,45-59,alto,Poisson,29.7
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,60-74,alto,Poisson,44.6
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,75+,medio,Poisson,19.9
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,0-14,alto,Poisson,56.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,15-29,medio,Poisson,2.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,60-74,baixo,Poisson,0.5
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,75+,baixo,Poisson,0.5
+consulta,2026-07-01,CIRURGIA PLASTICA,0-14,medio,Poisson,2.3
+consulta,2026-07-01,CIRURGIA PLASTICA,15-29,medio,Poisson,12.9
+consulta,2026-07-01,CIRURGIA PLASTICA,30-44,alto,Poisson,23.9
+consulta,2026-07-01,CIRURGIA PLASTICA,45-59,alto,Poisson,19.8
+consulta,2026-07-01,CIRURGIA PLASTICA,60-74,medio,Poisson,8.1
+consulta,2026-07-01,CIRURGIA PLASTICA,75+,medio,Poisson,2.6
+consulta,2026-07-01,CIRURGIA TORACICA,0-14,medio,Poisson,1.3
+consulta,2026-07-01,CIRURGIA TORACICA,15-29,medio,Poisson,15.5
+consulta,2026-07-01,CIRURGIA TORACICA,30-44,medio,Poisson,11.7
+consulta,2026-07-01,CIRURGIA TORACICA,45-59,medio,Poisson,20.5
+consulta,2026-07-01,CIRURGIA TORACICA,60-74,medio,Poisson,26.5
+consulta,2026-07-01,CIRURGIA TORACICA,75+,medio,Poisson,8.6
+consulta,2026-07-01,CIRURGIA VASCULAR,0-14,baixo,Poisson,1.2
+consulta,2026-07-01,CIRURGIA VASCULAR,15-29,medio,Poisson,3.9
+consulta,2026-07-01,CIRURGIA VASCULAR,30-44,medio,Poisson,19.7
+consulta,2026-07-01,CIRURGIA VASCULAR,45-59,alto,Poisson,41.9
+consulta,2026-07-01,CIRURGIA VASCULAR,60-74,alto,Poisson,53.4
+consulta,2026-07-01,CIRURGIA VASCULAR,75+,medio,Poisson,22.9
+consulta,2026-07-01,CLINICA GERAL,0-14,baixo,Poisson,0.6
+consulta,2026-07-01,CLINICA GERAL,15-29,baixo,Poisson,0.6
+consulta,2026-07-01,CLINICA GERAL,30-44,medio,Poisson,1.2
+consulta,2026-07-01,CLINICA GERAL,45-59,medio,Poisson,3.3
+consulta,2026-07-01,CLINICA GERAL,60-74,medio,Poisson,4.9
+consulta,2026-07-01,CLINICA GERAL,75+,medio,Poisson,9.2
+consulta,2026-07-01,CONSULTA FARMACEUTICA,0-14,baixo,Poisson,0.5
+consulta,2026-07-01,CONSULTA FARMACEUTICA,15-29,medio,Poisson,2.4
+consulta,2026-07-01,CONSULTA FARMACEUTICA,30-44,medio,Poisson,5.3
+consulta,2026-07-01,CONSULTA FARMACEUTICA,45-59,medio,Poisson,6.7
+consulta,2026-07-01,CONSULTA FARMACEUTICA,60-74,medio,Poisson,1.9
+consulta,2026-07-01,CONSULTA FARMACEUTICA,75+,baixo,Poisson,0.8
+consulta,2026-07-01,DERMATOLOGIA,0-14,alto,Poisson,49.2
+consulta,2026-07-01,DERMATOLOGIA,15-29,alto,Poisson,107.9
+consulta,2026-07-01,DERMATOLOGIA,30-44,alto,Poisson,136.6
+consulta,2026-07-01,DERMATOLOGIA,45-59,alto,Poisson,182.3
+consulta,2026-07-01,DERMATOLOGIA,60-74,alto,Poisson,162.2
+consulta,2026-07-01,DERMATOLOGIA,75+,alto,Poisson,62.1
+consulta,2026-07-01,ENDOCRINOLOGIA,0-14,medio,Poisson,9.8
+consulta,2026-07-01,ENDOCRINOLOGIA,15-29,alto,Poisson,127.9
+consulta,2026-07-01,ENDOCRINOLOGIA,30-44,alto,Poisson,150.7
+consulta,2026-07-01,ENDOCRINOLOGIA,45-59,alto,Poisson,202.2
+consulta,2026-07-01,ENDOCRINOLOGIA,60-74,alto,Poisson,180.5
+consulta,2026-07-01,ENDOCRINOLOGIA,75+,alto,Poisson,37.4
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,0-14,alto,Poisson,178.1
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,15-29,alto,Poisson,25.6
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.5
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,75+,baixo,Poisson,0.5
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,0-14,baixo,Poisson,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,15-29,baixo,Poisson,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,30-44,baixo,Poisson,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,45-59,baixo,Poisson,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,60-74,baixo,Poisson,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,75+,baixo,Poisson,0.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,0-14,alto,Poisson,79.1
+consulta,2026-07-01,ENFERMAGEM CLINICA,15-29,alto,Poisson,46.2
+consulta,2026-07-01,ENFERMAGEM CLINICA,30-44,alto,Poisson,128.9
+consulta,2026-07-01,ENFERMAGEM CLINICA,45-59,alto,Poisson,185.9
+consulta,2026-07-01,ENFERMAGEM CLINICA,60-74,alto,Poisson,124.4
+consulta,2026-07-01,ENFERMAGEM CLINICA,75+,medio,Poisson,18.5
+consulta,2026-07-01,FISIOTERAPIA,0-14,alto,Poisson,47.6
+consulta,2026-07-01,FISIOTERAPIA,15-29,alto,Poisson,55.0
+consulta,2026-07-01,FISIOTERAPIA,30-44,alto,Poisson,147.9
+consulta,2026-07-01,FISIOTERAPIA,45-59,alto,Poisson,393.1
+consulta,2026-07-01,FISIOTERAPIA,60-74,alto,Poisson,251.0
+consulta,2026-07-01,FISIOTERAPIA,75+,alto,Poisson,37.4
+consulta,2026-07-01,FONOAUDIOLOGIA,0-14,alto,Poisson,62.3
+consulta,2026-07-01,FONOAUDIOLOGIA,15-29,medio,Poisson,10.6
+consulta,2026-07-01,FONOAUDIOLOGIA,30-44,alto,Poisson,35.9
+consulta,2026-07-01,FONOAUDIOLOGIA,45-59,alto,Poisson,57.6
+consulta,2026-07-01,FONOAUDIOLOGIA,60-74,alto,Poisson,36.8
+consulta,2026-07-01,FONOAUDIOLOGIA,75+,medio,Poisson,15.9
+consulta,2026-07-01,GASTROENTEROLOGIA,0-14,baixo,Poisson,0.5
+consulta,2026-07-01,GASTROENTEROLOGIA,15-29,alto,Poisson,48.1
+consulta,2026-07-01,GASTROENTEROLOGIA,30-44,alto,Poisson,52.3
+consulta,2026-07-01,GASTROENTEROLOGIA,45-59,alto,Poisson,55.1
+consulta,2026-07-01,GASTROENTEROLOGIA,60-74,alto,Poisson,51.7
+consulta,2026-07-01,GASTROENTEROLOGIA,75+,medio,Poisson,10.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,0-14,alto,Poisson,215.2
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,15-29,medio,Poisson,8.4
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,60-74,baixo,Poisson,0.5
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,75+,baixo,Poisson,0.5
+consulta,2026-07-01,GERIATRIA,0-14,baixo,Poisson,0.5
+consulta,2026-07-01,GERIATRIA,15-29,baixo,Poisson,0.5
+consulta,2026-07-01,GERIATRIA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,GERIATRIA,45-59,baixo,Poisson,0.7
+consulta,2026-07-01,GERIATRIA,60-74,alto,Poisson,38.6
+consulta,2026-07-01,GERIATRIA,75+,alto,Poisson,73.7
+consulta,2026-07-01,HEMATOLOGIA,0-14,baixo,Poisson,0.5
+consulta,2026-07-01,HEMATOLOGIA,15-29,alto,Poisson,48.9
+consulta,2026-07-01,HEMATOLOGIA,30-44,alto,Poisson,88.1
+consulta,2026-07-01,HEMATOLOGIA,45-59,alto,Poisson,69.9
+consulta,2026-07-01,HEMATOLOGIA,60-74,alto,Poisson,90.1
+consulta,2026-07-01,HEMATOLOGIA,75+,alto,Poisson,53.3
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,0-14,alto,Poisson,55.3
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,15-29,medio,Poisson,5.5
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.4
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,75+,baixo,Poisson,0.4
+consulta,2026-07-01,HEPATOLOGIA,0-14,baixo,Poisson,0.6
+consulta,2026-07-01,HEPATOLOGIA,15-29,medio,Poisson,21.0
+consulta,2026-07-01,HEPATOLOGIA,30-44,alto,Poisson,41.7
+consulta,2026-07-01,HEPATOLOGIA,45-59,alto,Poisson,85.2
+consulta,2026-07-01,HEPATOLOGIA,60-74,alto,Poisson,121.4
+consulta,2026-07-01,HEPATOLOGIA,75+,alto,Poisson,45.7
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,0-14,alto,Poisson,65.8
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,15-29,baixo,Poisson,2.4
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.4
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.4
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.4
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,75+,baixo,Poisson,0.4
+consulta,2026-07-01,MASTOLOGIA,0-14,baixo,Poisson,1.2
+consulta,2026-07-01,MASTOLOGIA,15-29,medio,Poisson,16.8
+consulta,2026-07-01,MASTOLOGIA,30-44,alto,Poisson,46.2
+consulta,2026-07-01,MASTOLOGIA,45-59,alto,Poisson,58.4
+consulta,2026-07-01,MASTOLOGIA,60-74,medio,Poisson,20.5
+consulta,2026-07-01,MASTOLOGIA,75+,medio,Poisson,2.1
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,0-14,baixo,Poisson,0.5
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,15-29,medio,Poisson,0.6
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,30-44,medio,Poisson,0.6
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,45-59,medio,Poisson,0.5
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,60-74,medio,Poisson,0.6
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,75+,baixo,Poisson,0.4
+consulta,2026-07-01,NEFROLOGIA,0-14,medio,Poisson,4.1
+consulta,2026-07-01,NEFROLOGIA,15-29,alto,Poisson,91.6
+consulta,2026-07-01,NEFROLOGIA,30-44,alto,Poisson,171.5
+consulta,2026-07-01,NEFROLOGIA,45-59,alto,Poisson,218.6
+consulta,2026-07-01,NEFROLOGIA,60-74,alto,Poisson,147.7
+consulta,2026-07-01,NEFROLOGIA,75+,alto,Poisson,69.2
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,0-14,baixo,Poisson,0.4
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,15-29,baixo,Poisson,0.8
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,30-44,baixo,Poisson,2.1
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,45-59,baixo,Poisson,1.5
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,60-74,baixo,Poisson,1.5
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,75+,baixo,Poisson,0.7
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,0-14,alto,Poisson,128.6
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,15-29,medio,Poisson,13.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,30-44,baixo,Poisson,0.6
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,60-74,baixo,Poisson,0.5
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,75+,baixo,Poisson,0.5
+consulta,2026-07-01,NEUROCIRURGIA,0-14,medio,Poisson,6.7
+consulta,2026-07-01,NEUROCIRURGIA,15-29,medio,Poisson,18.9
+consulta,2026-07-01,NEUROCIRURGIA,30-44,alto,Poisson,45.6
+consulta,2026-07-01,NEUROCIRURGIA,45-59,alto,Poisson,83.5
+consulta,2026-07-01,NEUROCIRURGIA,60-74,alto,Poisson,44.5
+consulta,2026-07-01,NEUROCIRURGIA,75+,medio,Poisson,8.7
+consulta,2026-07-01,NEUROLOGIA,0-14,medio,Poisson,22.1
+consulta,2026-07-01,NEUROLOGIA,15-29,alto,Poisson,151.7
+consulta,2026-07-01,NEUROLOGIA,30-44,alto,Poisson,213.0
+consulta,2026-07-01,NEUROLOGIA,45-59,alto,Poisson,256.1
+consulta,2026-07-01,NEUROLOGIA,60-74,alto,Poisson,196.7
+consulta,2026-07-01,NEUROLOGIA,75+,alto,Poisson,74.5
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,0-14,alto,Poisson,73.2
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,15-29,medio,Poisson,2.7
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,60-74,baixo,Poisson,0.4
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,75+,baixo,Poisson,0.4
+consulta,2026-07-01,NEUROPSICOLOGIA,0-14,baixo,Poisson,1.0
+consulta,2026-07-01,NEUROPSICOLOGIA,15-29,medio,Poisson,1.6
+consulta,2026-07-01,NEUROPSICOLOGIA,30-44,medio,Poisson,5.8
+consulta,2026-07-01,NEUROPSICOLOGIA,45-59,medio,Poisson,10.6
+consulta,2026-07-01,NEUROPSICOLOGIA,60-74,medio,Poisson,14.9
+consulta,2026-07-01,NEUROPSICOLOGIA,75+,medio,Poisson,6.9
+consulta,2026-07-01,NUTRICAO CLINICA,0-14,baixo,Poisson,1.7
+consulta,2026-07-01,NUTRICAO CLINICA,15-29,medio,Poisson,13.9
+consulta,2026-07-01,NUTRICAO CLINICA,30-44,alto,Poisson,88.3
+consulta,2026-07-01,NUTRICAO CLINICA,45-59,alto,Poisson,100.2
+consulta,2026-07-01,NUTRICAO CLINICA,60-74,alto,Poisson,47.2
+consulta,2026-07-01,NUTRICAO CLINICA,75+,medio,Poisson,10.8
+consulta,2026-07-01,NUTRICAO INFANTIL,0-14,alto,Poisson,62.1
+consulta,2026-07-01,NUTRICAO INFANTIL,15-29,medio,Poisson,5.6
+consulta,2026-07-01,NUTRICAO INFANTIL,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,NUTRICAO INFANTIL,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,NUTRICAO INFANTIL,60-74,baixo,Poisson,0.4
+consulta,2026-07-01,NUTRICAO INFANTIL,75+,baixo,Poisson,0.4
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,0-14,medio,Poisson,1.4
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,15-29,medio,Poisson,19.4
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,30-44,medio,Poisson,13.4
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,45-59,medio,Poisson,7.7
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,60-74,medio,Poisson,4.2
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,75+,medio,Poisson,2.4
+consulta,2026-07-01,ODONTOLOGIA CLINICA,0-14,medio,Poisson,2.1
+consulta,2026-07-01,ODONTOLOGIA CLINICA,15-29,medio,Poisson,6.6
+consulta,2026-07-01,ODONTOLOGIA CLINICA,30-44,medio,Poisson,33.6
+consulta,2026-07-01,ODONTOLOGIA CLINICA,45-59,medio,Poisson,40.8
+consulta,2026-07-01,ODONTOLOGIA CLINICA,60-74,medio,Poisson,11.1
+consulta,2026-07-01,ODONTOLOGIA CLINICA,75+,baixo,Poisson,1.2
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,0-14,medio,Poisson,11.3
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,15-29,baixo,Poisson,1.9
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.6
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.5
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,75+,baixo,Poisson,0.5
+consulta,2026-07-01,OFTALMOLOGIA,0-14,alto,Poisson,98.4
+consulta,2026-07-01,OFTALMOLOGIA,15-29,alto,Poisson,135.0
+consulta,2026-07-01,OFTALMOLOGIA,30-44,alto,Poisson,192.5
+consulta,2026-07-01,OFTALMOLOGIA,45-59,alto,Poisson,448.8
+consulta,2026-07-01,OFTALMOLOGIA,60-74,alto,Poisson,567.9
+consulta,2026-07-01,OFTALMOLOGIA,75+,alto,Poisson,262.6
+consulta,2026-07-01,ONCOLOGIA CLINICA,0-14,baixo,Poisson,0.6
+consulta,2026-07-01,ONCOLOGIA CLINICA,15-29,medio,Poisson,17.6
+consulta,2026-07-01,ONCOLOGIA CLINICA,30-44,alto,Poisson,109.3
+consulta,2026-07-01,ONCOLOGIA CLINICA,45-59,alto,Poisson,244.8
+consulta,2026-07-01,ONCOLOGIA CLINICA,60-74,alto,Poisson,384.4
+consulta,2026-07-01,ONCOLOGIA CLINICA,75+,alto,Poisson,185.4
+consulta,2026-07-01,ORTOPEDIA,0-14,baixo,Poisson,0.5
+consulta,2026-07-01,ORTOPEDIA,15-29,medio,Poisson,0.9
+consulta,2026-07-01,ORTOPEDIA,30-44,medio,Poisson,3.6
+consulta,2026-07-01,ORTOPEDIA,45-59,medio,Poisson,8.1
+consulta,2026-07-01,ORTOPEDIA,60-74,medio,Poisson,5.1
+consulta,2026-07-01,ORTOPEDIA,75+,medio,Poisson,1.5
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,0-14,alto,Poisson,35.1
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,15-29,medio,Poisson,3.3
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,60-74,baixo,Poisson,0.4
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,75+,baixo,Poisson,0.4
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,0-14,medio,Poisson,21.3
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,15-29,alto,Poisson,76.2
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,30-44,alto,Poisson,98.3
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,45-59,alto,Poisson,113.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,60-74,alto,Poisson,92.3
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,75+,alto,Poisson,27.7
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,0-14,alto,Poisson,43.3
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,15-29,medio,Poisson,1.8
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.4
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.4
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.7
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,75+,baixo,Poisson,0.4
+consulta,2026-07-01,PEDIATRIA,0-14,alto,Poisson,361.1
+consulta,2026-07-01,PEDIATRIA,15-29,medio,Poisson,4.4
+consulta,2026-07-01,PEDIATRIA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,PEDIATRIA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,PEDIATRIA,60-74,baixo,Poisson,0.5
+consulta,2026-07-01,PEDIATRIA,75+,baixo,Poisson,0.5
+consulta,2026-07-01,PNEUMOLOGIA,0-14,baixo,Poisson,0.8
+consulta,2026-07-01,PNEUMOLOGIA,15-29,alto,Poisson,38.4
+consulta,2026-07-01,PNEUMOLOGIA,30-44,alto,Poisson,43.4
+consulta,2026-07-01,PNEUMOLOGIA,45-59,alto,Poisson,75.0
+consulta,2026-07-01,PNEUMOLOGIA,60-74,alto,Poisson,102.0
+consulta,2026-07-01,PNEUMOLOGIA,75+,alto,Poisson,40.6
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,0-14,alto,Poisson,84.3
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,15-29,medio,Poisson,4.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.4
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.4
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,75+,baixo,Poisson,0.4
+consulta,2026-07-01,POS-TRANSPLANTE,0-14,baixo,Poisson,0.4
+consulta,2026-07-01,POS-TRANSPLANTE,15-29,medio,Poisson,0.5
+consulta,2026-07-01,POS-TRANSPLANTE,30-44,medio,Poisson,0.6
+consulta,2026-07-01,POS-TRANSPLANTE,45-59,medio,Poisson,0.6
+consulta,2026-07-01,POS-TRANSPLANTE,60-74,medio,Poisson,0.4
+consulta,2026-07-01,POS-TRANSPLANTE,75+,baixo,Poisson,0.4
+consulta,2026-07-01,PRE-TRANSPLANTE,0-14,baixo,Poisson,0.3
+consulta,2026-07-01,PRE-TRANSPLANTE,15-29,medio,Poisson,0.4
+consulta,2026-07-01,PRE-TRANSPLANTE,30-44,medio,Poisson,0.4
+consulta,2026-07-01,PRE-TRANSPLANTE,45-59,medio,Poisson,0.4
+consulta,2026-07-01,PRE-TRANSPLANTE,60-74,medio,Poisson,0.4
+consulta,2026-07-01,PRE-TRANSPLANTE,75+,baixo,Poisson,0.3
+consulta,2026-07-01,PROCEDIMENTOS ECI,0-14,baixo,Poisson,0.7
+consulta,2026-07-01,PROCEDIMENTOS ECI,15-29,medio,Poisson,5.9
+consulta,2026-07-01,PROCEDIMENTOS ECI,30-44,medio,Poisson,13.1
+consulta,2026-07-01,PROCEDIMENTOS ECI,45-59,medio,Poisson,5.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,60-74,medio,Poisson,1.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,75+,medio,Poisson,0.6
+consulta,2026-07-01,PROCTOLOGIA,0-14,baixo,Poisson,0.8
+consulta,2026-07-01,PROCTOLOGIA,15-29,medio,Poisson,9.8
+consulta,2026-07-01,PROCTOLOGIA,30-44,alto,Poisson,26.9
+consulta,2026-07-01,PROCTOLOGIA,45-59,alto,Poisson,37.4
+consulta,2026-07-01,PROCTOLOGIA,60-74,alto,Poisson,31.4
+consulta,2026-07-01,PROCTOLOGIA,75+,medio,Poisson,8.4
+consulta,2026-07-01,PSICOLOGIA,0-14,medio,Poisson,1.7
+consulta,2026-07-01,PSICOLOGIA,15-29,alto,Poisson,47.0
+consulta,2026-07-01,PSICOLOGIA,30-44,alto,Poisson,59.8
+consulta,2026-07-01,PSICOLOGIA,45-59,alto,Poisson,74.9
+consulta,2026-07-01,PSICOLOGIA,60-74,medio,Poisson,21.5
+consulta,2026-07-01,PSICOLOGIA,75+,medio,Poisson,2.5
+consulta,2026-07-01,PSICOLOGIA INFANTIL,0-14,medio,Poisson,15.7
+consulta,2026-07-01,PSICOLOGIA INFANTIL,15-29,medio,Poisson,3.8
+consulta,2026-07-01,PSICOLOGIA INFANTIL,30-44,baixo,Poisson,0.4
+consulta,2026-07-01,PSICOLOGIA INFANTIL,45-59,baixo,Poisson,0.4
+consulta,2026-07-01,PSICOLOGIA INFANTIL,60-74,baixo,Poisson,0.4
+consulta,2026-07-01,PSICOLOGIA INFANTIL,75+,baixo,Poisson,0.4
+consulta,2026-07-01,PSIQUIATRIA,0-14,medio,Poisson,4.1
+consulta,2026-07-01,PSIQUIATRIA,15-29,alto,Poisson,129.6
+consulta,2026-07-01,PSIQUIATRIA,30-44,alto,Poisson,170.0
+consulta,2026-07-01,PSIQUIATRIA,45-59,alto,Poisson,173.1
+consulta,2026-07-01,PSIQUIATRIA,60-74,alto,Poisson,92.2
+consulta,2026-07-01,PSIQUIATRIA,75+,medio,Poisson,15.5
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,0-14,alto,Poisson,55.7
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,15-29,medio,Poisson,6.2
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,30-44,baixo,Poisson,0.5
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,60-74,baixo,Poisson,0.5
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,75+,baixo,Poisson,0.5
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,0-14,baixo,Poisson,0.6
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,15-29,baixo,Poisson,1.2
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,30-44,baixo,Poisson,3.3
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,45-59,baixo,Poisson,2.8
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,60-74,medio,Poisson,4.1
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,75+,baixo,Poisson,2.8
+consulta,2026-07-01,REUMATOLOGIA,0-14,baixo,Poisson,0.6
+consulta,2026-07-01,REUMATOLOGIA,15-29,alto,Poisson,48.1
+consulta,2026-07-01,REUMATOLOGIA,30-44,alto,Poisson,99.3
+consulta,2026-07-01,REUMATOLOGIA,45-59,alto,Poisson,115.0
+consulta,2026-07-01,REUMATOLOGIA,60-74,alto,Poisson,64.7
+consulta,2026-07-01,REUMATOLOGIA,75+,medio,Poisson,13.6
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,0-14,alto,Poisson,87.3
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,15-29,alto,Poisson,38.3
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.8
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.5
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.5
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,75+,baixo,Poisson,0.5
+consulta,2026-07-01,SERVICO SOCIAL,0-14,medio,Poisson,35.6
+consulta,2026-07-01,SERVICO SOCIAL,15-29,medio,Poisson,18.9
+consulta,2026-07-01,SERVICO SOCIAL,30-44,medio,Poisson,39.7
+consulta,2026-07-01,SERVICO SOCIAL,45-59,medio,Poisson,36.6
+consulta,2026-07-01,SERVICO SOCIAL,60-74,medio,Poisson,9.5
+consulta,2026-07-01,SERVICO SOCIAL,75+,baixo,Poisson,1.3
+consulta,2026-07-01,TERAPIA OCUPACIONAL,0-14,medio,Poisson,28.4
+consulta,2026-07-01,TERAPIA OCUPACIONAL,15-29,medio,Poisson,11.2
+consulta,2026-07-01,TERAPIA OCUPACIONAL,30-44,alto,Poisson,16.9
+consulta,2026-07-01,TERAPIA OCUPACIONAL,45-59,alto,Poisson,71.0
+consulta,2026-07-01,TERAPIA OCUPACIONAL,60-74,alto,Poisson,37.0
+consulta,2026-07-01,TERAPIA OCUPACIONAL,75+,medio,Poisson,5.1
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,0-14,baixo,Poisson,0.3
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,15-29,baixo,Poisson,0.2
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,30-44,medio,Poisson,0.2
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,45-59,medio,Poisson,0.2
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,60-74,medio,Poisson,0.2
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,75+,baixo,Poisson,0.2
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,0-14,baixo,Poisson,0.4
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,15-29,baixo,Poisson,1.2
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,30-44,medio,Poisson,2.2
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,45-59,medio,Poisson,1.5
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,60-74,medio,Poisson,1.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,75+,baixo,Poisson,0.5
+consulta,2026-07-01,UROLOGIA,0-14,medio,Poisson,32.8
+consulta,2026-07-01,UROLOGIA,15-29,alto,Poisson,52.2
+consulta,2026-07-01,UROLOGIA,30-44,alto,Poisson,119.1
+consulta,2026-07-01,UROLOGIA,45-59,alto,Poisson,191.9
+consulta,2026-07-01,UROLOGIA,60-74,alto,Poisson,326.2
+consulta,2026-07-01,UROLOGIA,75+,alto,Poisson,133.2
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,0-14,alto,Random Forest,96.4
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,15-29,medio,Random Forest,3.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,ANESTESIOLOGIA,0-14,medio,Random Forest,8.9
+consulta,2026-07-01,ANESTESIOLOGIA,15-29,medio,Random Forest,23.2
+consulta,2026-07-01,ANESTESIOLOGIA,30-44,alto,Random Forest,64.4
+consulta,2026-07-01,ANESTESIOLOGIA,45-59,alto,Random Forest,77.7
+consulta,2026-07-01,ANESTESIOLOGIA,60-74,alto,Random Forest,92.7
+consulta,2026-07-01,ANESTESIOLOGIA,75+,medio,Random Forest,20.6
+consulta,2026-07-01,ASSISTENTE SOCIAL,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,15-29,baixo,Random Forest,0.2
+consulta,2026-07-01,ASSISTENTE SOCIAL,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,45-59,baixo,Random Forest,0.3
+consulta,2026-07-01,ASSISTENTE SOCIAL,60-74,baixo,Random Forest,0.1
+consulta,2026-07-01,ASSISTENTE SOCIAL,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,CARDIOLOGIA,0-14,medio,Random Forest,10.4
+consulta,2026-07-01,CARDIOLOGIA,15-29,alto,Random Forest,54.2
+consulta,2026-07-01,CARDIOLOGIA,30-44,alto,Random Forest,123.1
+consulta,2026-07-01,CARDIOLOGIA,45-59,alto,Random Forest,331.1
+consulta,2026-07-01,CARDIOLOGIA,60-74,alto,Random Forest,385.0
+consulta,2026-07-01,CARDIOLOGIA,75+,alto,Random Forest,181.5
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,0-14,alto,Random Forest,135.4
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,15-29,medio,Random Forest,12.1
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.3
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.1
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.1
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,0-14,baixo,Random Forest,0.1
+consulta,2026-07-01,CIRURGIA BARIATRICA,15-29,medio,Random Forest,11.9
+consulta,2026-07-01,CIRURGIA BARIATRICA,30-44,alto,Random Forest,107.9
+consulta,2026-07-01,CIRURGIA BARIATRICA,45-59,alto,Random Forest,97.2
+consulta,2026-07-01,CIRURGIA BARIATRICA,60-74,medio,Random Forest,18.2
+consulta,2026-07-01,CIRURGIA BARIATRICA,75+,baixo,Random Forest,0.2
+consulta,2026-07-01,CIRURGIA CARDIACA,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,CIRURGIA CARDIACA,15-29,baixo,Random Forest,0.0
+consulta,2026-07-01,CIRURGIA CARDIACA,30-44,baixo,Random Forest,1.4
+consulta,2026-07-01,CIRURGIA CARDIACA,45-59,medio,Random Forest,1.4
+consulta,2026-07-01,CIRURGIA CARDIACA,60-74,medio,Random Forest,2.6
+consulta,2026-07-01,CIRURGIA CARDIACA,75+,baixo,Random Forest,2.2
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,0-14,baixo,Random Forest,0.1
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,15-29,medio,Random Forest,4.5
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,30-44,medio,Random Forest,15.3
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,45-59,alto,Random Forest,30.5
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,60-74,alto,Random Forest,30.4
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,75+,medio,Random Forest,16.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,15-29,medio,Random Forest,4.9
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,30-44,medio,Random Forest,6.2
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,45-59,medio,Random Forest,13.5
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,60-74,medio,Random Forest,15.8
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,75+,medio,Random Forest,3.1
+consulta,2026-07-01,CIRURGIA GERAL,0-14,baixo,Random Forest,0.2
+consulta,2026-07-01,CIRURGIA GERAL,15-29,medio,Random Forest,10.8
+consulta,2026-07-01,CIRURGIA GERAL,30-44,alto,Random Forest,41.5
+consulta,2026-07-01,CIRURGIA GERAL,45-59,alto,Random Forest,51.4
+consulta,2026-07-01,CIRURGIA GERAL,60-74,alto,Random Forest,58.9
+consulta,2026-07-01,CIRURGIA GERAL,75+,medio,Random Forest,18.8
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,0-14,baixo,Random Forest,0.4
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,15-29,medio,Random Forest,6.7
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,30-44,medio,Random Forest,19.2
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,45-59,alto,Random Forest,31.2
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,60-74,alto,Random Forest,48.0
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,75+,medio,Random Forest,20.6
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,0-14,alto,Random Forest,58.3
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,15-29,medio,Random Forest,2.9
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,CIRURGIA PLASTICA,0-14,medio,Random Forest,1.7
+consulta,2026-07-01,CIRURGIA PLASTICA,15-29,medio,Random Forest,12.9
+consulta,2026-07-01,CIRURGIA PLASTICA,30-44,alto,Random Forest,25.9
+consulta,2026-07-01,CIRURGIA PLASTICA,45-59,alto,Random Forest,19.9
+consulta,2026-07-01,CIRURGIA PLASTICA,60-74,medio,Random Forest,6.7
+consulta,2026-07-01,CIRURGIA PLASTICA,75+,medio,Random Forest,1.6
+consulta,2026-07-01,CIRURGIA TORACICA,0-14,medio,Random Forest,1.1
+consulta,2026-07-01,CIRURGIA TORACICA,15-29,medio,Random Forest,19.4
+consulta,2026-07-01,CIRURGIA TORACICA,30-44,medio,Random Forest,15.3
+consulta,2026-07-01,CIRURGIA TORACICA,45-59,medio,Random Forest,19.4
+consulta,2026-07-01,CIRURGIA TORACICA,60-74,medio,Random Forest,27.4
+consulta,2026-07-01,CIRURGIA TORACICA,75+,medio,Random Forest,8.8
+consulta,2026-07-01,CIRURGIA VASCULAR,0-14,baixo,Random Forest,0.7
+consulta,2026-07-01,CIRURGIA VASCULAR,15-29,medio,Random Forest,5.2
+consulta,2026-07-01,CIRURGIA VASCULAR,30-44,medio,Random Forest,21.8
+consulta,2026-07-01,CIRURGIA VASCULAR,45-59,alto,Random Forest,51.3
+consulta,2026-07-01,CIRURGIA VASCULAR,60-74,alto,Random Forest,52.1
+consulta,2026-07-01,CIRURGIA VASCULAR,75+,medio,Random Forest,22.8
+consulta,2026-07-01,CLINICA GERAL,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,CLINICA GERAL,15-29,baixo,Random Forest,0.2
+consulta,2026-07-01,CLINICA GERAL,30-44,medio,Random Forest,1.2
+consulta,2026-07-01,CLINICA GERAL,45-59,medio,Random Forest,3.4
+consulta,2026-07-01,CLINICA GERAL,60-74,medio,Random Forest,5.3
+consulta,2026-07-01,CLINICA GERAL,75+,medio,Random Forest,8.2
+consulta,2026-07-01,CONSULTA FARMACEUTICA,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,CONSULTA FARMACEUTICA,15-29,medio,Random Forest,2.3
+consulta,2026-07-01,CONSULTA FARMACEUTICA,30-44,medio,Random Forest,6.1
+consulta,2026-07-01,CONSULTA FARMACEUTICA,45-59,medio,Random Forest,8.1
+consulta,2026-07-01,CONSULTA FARMACEUTICA,60-74,medio,Random Forest,2.6
+consulta,2026-07-01,CONSULTA FARMACEUTICA,75+,baixo,Random Forest,1.3
+consulta,2026-07-01,DERMATOLOGIA,0-14,alto,Random Forest,51.9
+consulta,2026-07-01,DERMATOLOGIA,15-29,alto,Random Forest,120.4
+consulta,2026-07-01,DERMATOLOGIA,30-44,alto,Random Forest,153.4
+consulta,2026-07-01,DERMATOLOGIA,45-59,alto,Random Forest,188.1
+consulta,2026-07-01,DERMATOLOGIA,60-74,alto,Random Forest,187.3
+consulta,2026-07-01,DERMATOLOGIA,75+,alto,Random Forest,62.0
+consulta,2026-07-01,ENDOCRINOLOGIA,0-14,medio,Random Forest,10.5
+consulta,2026-07-01,ENDOCRINOLOGIA,15-29,alto,Random Forest,124.6
+consulta,2026-07-01,ENDOCRINOLOGIA,30-44,alto,Random Forest,158.4
+consulta,2026-07-01,ENDOCRINOLOGIA,45-59,alto,Random Forest,236.5
+consulta,2026-07-01,ENDOCRINOLOGIA,60-74,alto,Random Forest,190.6
+consulta,2026-07-01,ENDOCRINOLOGIA,75+,alto,Random Forest,48.4
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,0-14,alto,Random Forest,188.7
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,15-29,alto,Random Forest,26.5
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,15-29,baixo,Random Forest,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,30-44,baixo,Random Forest,0.3
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,45-59,baixo,Random Forest,0.2
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,0-14,alto,Random Forest,87.9
+consulta,2026-07-01,ENFERMAGEM CLINICA,15-29,alto,Random Forest,50.9
+consulta,2026-07-01,ENFERMAGEM CLINICA,30-44,alto,Random Forest,149.3
+consulta,2026-07-01,ENFERMAGEM CLINICA,45-59,alto,Random Forest,197.5
+consulta,2026-07-01,ENFERMAGEM CLINICA,60-74,alto,Random Forest,146.9
+consulta,2026-07-01,ENFERMAGEM CLINICA,75+,medio,Random Forest,23.8
+consulta,2026-07-01,FISIOTERAPIA,0-14,alto,Random Forest,55.5
+consulta,2026-07-01,FISIOTERAPIA,15-29,alto,Random Forest,54.3
+consulta,2026-07-01,FISIOTERAPIA,30-44,alto,Random Forest,158.8
+consulta,2026-07-01,FISIOTERAPIA,45-59,alto,Random Forest,426.9
+consulta,2026-07-01,FISIOTERAPIA,60-74,alto,Random Forest,261.9
+consulta,2026-07-01,FISIOTERAPIA,75+,alto,Random Forest,47.5
+consulta,2026-07-01,FONOAUDIOLOGIA,0-14,alto,Random Forest,57.9
+consulta,2026-07-01,FONOAUDIOLOGIA,15-29,medio,Random Forest,13.2
+consulta,2026-07-01,FONOAUDIOLOGIA,30-44,alto,Random Forest,37.6
+consulta,2026-07-01,FONOAUDIOLOGIA,45-59,alto,Random Forest,57.5
+consulta,2026-07-01,FONOAUDIOLOGIA,60-74,alto,Random Forest,42.6
+consulta,2026-07-01,FONOAUDIOLOGIA,75+,medio,Random Forest,18.5
+consulta,2026-07-01,GASTROENTEROLOGIA,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA,15-29,alto,Random Forest,55.8
+consulta,2026-07-01,GASTROENTEROLOGIA,30-44,alto,Random Forest,59.0
+consulta,2026-07-01,GASTROENTEROLOGIA,45-59,alto,Random Forest,60.1
+consulta,2026-07-01,GASTROENTEROLOGIA,60-74,alto,Random Forest,54.9
+consulta,2026-07-01,GASTROENTEROLOGIA,75+,medio,Random Forest,10.8
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,0-14,alto,Random Forest,252.8
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,15-29,medio,Random Forest,12.6
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.2
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,GERIATRIA,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,GERIATRIA,15-29,baixo,Random Forest,0.0
+consulta,2026-07-01,GERIATRIA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,GERIATRIA,45-59,baixo,Random Forest,0.3
+consulta,2026-07-01,GERIATRIA,60-74,alto,Random Forest,49.4
+consulta,2026-07-01,GERIATRIA,75+,alto,Random Forest,86.5
+consulta,2026-07-01,HEMATOLOGIA,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,HEMATOLOGIA,15-29,alto,Random Forest,54.7
+consulta,2026-07-01,HEMATOLOGIA,30-44,alto,Random Forest,99.7
+consulta,2026-07-01,HEMATOLOGIA,45-59,alto,Random Forest,72.0
+consulta,2026-07-01,HEMATOLOGIA,60-74,alto,Random Forest,100.7
+consulta,2026-07-01,HEMATOLOGIA,75+,alto,Random Forest,54.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,0-14,alto,Random Forest,70.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,15-29,medio,Random Forest,7.2
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.2
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.3
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.2
+consulta,2026-07-01,HEPATOLOGIA,0-14,baixo,Random Forest,0.2
+consulta,2026-07-01,HEPATOLOGIA,15-29,medio,Random Forest,24.4
+consulta,2026-07-01,HEPATOLOGIA,30-44,alto,Random Forest,50.7
+consulta,2026-07-01,HEPATOLOGIA,45-59,alto,Random Forest,97.2
+consulta,2026-07-01,HEPATOLOGIA,60-74,alto,Random Forest,133.6
+consulta,2026-07-01,HEPATOLOGIA,75+,alto,Random Forest,52.8
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,0-14,alto,Random Forest,80.2
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,15-29,baixo,Random Forest,2.3
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,MASTOLOGIA,0-14,baixo,Random Forest,0.9
+consulta,2026-07-01,MASTOLOGIA,15-29,medio,Random Forest,18.4
+consulta,2026-07-01,MASTOLOGIA,30-44,alto,Random Forest,48.9
+consulta,2026-07-01,MASTOLOGIA,45-59,alto,Random Forest,60.4
+consulta,2026-07-01,MASTOLOGIA,60-74,medio,Random Forest,20.9
+consulta,2026-07-01,MASTOLOGIA,75+,medio,Random Forest,2.1
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,15-29,medio,Random Forest,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,30-44,medio,Random Forest,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,45-59,medio,Random Forest,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,60-74,medio,Random Forest,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,75+,baixo,Random Forest,0.1
+consulta,2026-07-01,NEFROLOGIA,0-14,medio,Random Forest,4.3
+consulta,2026-07-01,NEFROLOGIA,15-29,alto,Random Forest,97.0
+consulta,2026-07-01,NEFROLOGIA,30-44,alto,Random Forest,194.4
+consulta,2026-07-01,NEFROLOGIA,45-59,alto,Random Forest,242.1
+consulta,2026-07-01,NEFROLOGIA,60-74,alto,Random Forest,163.0
+consulta,2026-07-01,NEFROLOGIA,75+,alto,Random Forest,75.9
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,0-14,baixo,Random Forest,0.5
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,15-29,baixo,Random Forest,0.8
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,30-44,baixo,Random Forest,3.3
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,45-59,baixo,Random Forest,2.9
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,60-74,baixo,Random Forest,1.7
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,75+,baixo,Random Forest,0.8
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,0-14,alto,Random Forest,147.3
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,15-29,medio,Random Forest,14.3
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.2
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.2
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.1
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,75+,baixo,Random Forest,0.1
+consulta,2026-07-01,NEUROCIRURGIA,0-14,medio,Random Forest,8.7
+consulta,2026-07-01,NEUROCIRURGIA,15-29,medio,Random Forest,22.3
+consulta,2026-07-01,NEUROCIRURGIA,30-44,alto,Random Forest,48.2
+consulta,2026-07-01,NEUROCIRURGIA,45-59,alto,Random Forest,99.8
+consulta,2026-07-01,NEUROCIRURGIA,60-74,alto,Random Forest,49.3
+consulta,2026-07-01,NEUROCIRURGIA,75+,medio,Random Forest,10.7
+consulta,2026-07-01,NEUROLOGIA,0-14,medio,Random Forest,24.5
+consulta,2026-07-01,NEUROLOGIA,15-29,alto,Random Forest,169.3
+consulta,2026-07-01,NEUROLOGIA,30-44,alto,Random Forest,228.9
+consulta,2026-07-01,NEUROLOGIA,45-59,alto,Random Forest,266.6
+consulta,2026-07-01,NEUROLOGIA,60-74,alto,Random Forest,195.9
+consulta,2026-07-01,NEUROLOGIA,75+,alto,Random Forest,80.9
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,0-14,alto,Random Forest,89.5
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,15-29,medio,Random Forest,2.6
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,NEUROPSICOLOGIA,0-14,baixo,Random Forest,0.2
+consulta,2026-07-01,NEUROPSICOLOGIA,15-29,medio,Random Forest,2.4
+consulta,2026-07-01,NEUROPSICOLOGIA,30-44,medio,Random Forest,5.6
+consulta,2026-07-01,NEUROPSICOLOGIA,45-59,medio,Random Forest,13.9
+consulta,2026-07-01,NEUROPSICOLOGIA,60-74,medio,Random Forest,17.3
+consulta,2026-07-01,NEUROPSICOLOGIA,75+,medio,Random Forest,8.7
+consulta,2026-07-01,NUTRICAO CLINICA,0-14,baixo,Random Forest,2.0
+consulta,2026-07-01,NUTRICAO CLINICA,15-29,medio,Random Forest,14.7
+consulta,2026-07-01,NUTRICAO CLINICA,30-44,alto,Random Forest,82.9
+consulta,2026-07-01,NUTRICAO CLINICA,45-59,alto,Random Forest,96.1
+consulta,2026-07-01,NUTRICAO CLINICA,60-74,alto,Random Forest,49.3
+consulta,2026-07-01,NUTRICAO CLINICA,75+,medio,Random Forest,11.7
+consulta,2026-07-01,NUTRICAO INFANTIL,0-14,alto,Random Forest,80.3
+consulta,2026-07-01,NUTRICAO INFANTIL,15-29,medio,Random Forest,6.2
+consulta,2026-07-01,NUTRICAO INFANTIL,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,NUTRICAO INFANTIL,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,NUTRICAO INFANTIL,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,NUTRICAO INFANTIL,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,0-14,medio,Random Forest,1.3
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,15-29,medio,Random Forest,20.6
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,30-44,medio,Random Forest,13.6
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,45-59,medio,Random Forest,11.3
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,60-74,medio,Random Forest,4.2
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,75+,medio,Random Forest,1.9
+consulta,2026-07-01,ODONTOLOGIA CLINICA,0-14,medio,Random Forest,3.2
+consulta,2026-07-01,ODONTOLOGIA CLINICA,15-29,medio,Random Forest,6.7
+consulta,2026-07-01,ODONTOLOGIA CLINICA,30-44,medio,Random Forest,29.9
+consulta,2026-07-01,ODONTOLOGIA CLINICA,45-59,medio,Random Forest,30.2
+consulta,2026-07-01,ODONTOLOGIA CLINICA,60-74,medio,Random Forest,11.8
+consulta,2026-07-01,ODONTOLOGIA CLINICA,75+,baixo,Random Forest,1.1
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,0-14,medio,Random Forest,19.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,15-29,baixo,Random Forest,0.9
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.2
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,OFTALMOLOGIA,0-14,alto,Random Forest,102.1
+consulta,2026-07-01,OFTALMOLOGIA,15-29,alto,Random Forest,139.2
+consulta,2026-07-01,OFTALMOLOGIA,30-44,alto,Random Forest,202.6
+consulta,2026-07-01,OFTALMOLOGIA,45-59,alto,Random Forest,459.6
+consulta,2026-07-01,OFTALMOLOGIA,60-74,alto,Random Forest,687.7
+consulta,2026-07-01,OFTALMOLOGIA,75+,alto,Random Forest,263.5
+consulta,2026-07-01,ONCOLOGIA CLINICA,0-14,baixo,Random Forest,0.1
+consulta,2026-07-01,ONCOLOGIA CLINICA,15-29,medio,Random Forest,24.3
+consulta,2026-07-01,ONCOLOGIA CLINICA,30-44,alto,Random Forest,117.4
+consulta,2026-07-01,ONCOLOGIA CLINICA,45-59,alto,Random Forest,257.0
+consulta,2026-07-01,ONCOLOGIA CLINICA,60-74,alto,Random Forest,411.9
+consulta,2026-07-01,ONCOLOGIA CLINICA,75+,alto,Random Forest,191.2
+consulta,2026-07-01,ORTOPEDIA,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,ORTOPEDIA,15-29,medio,Random Forest,1.2
+consulta,2026-07-01,ORTOPEDIA,30-44,medio,Random Forest,4.4
+consulta,2026-07-01,ORTOPEDIA,45-59,medio,Random Forest,7.7
+consulta,2026-07-01,ORTOPEDIA,60-74,medio,Random Forest,7.0
+consulta,2026-07-01,ORTOPEDIA,75+,medio,Random Forest,0.9
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,0-14,alto,Random Forest,48.6
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,15-29,medio,Random Forest,3.9
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,45-59,baixo,Random Forest,0.2
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,0-14,medio,Random Forest,26.1
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,15-29,alto,Random Forest,83.8
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,30-44,alto,Random Forest,110.6
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,45-59,alto,Random Forest,131.6
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,60-74,alto,Random Forest,104.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,75+,alto,Random Forest,29.1
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,0-14,alto,Random Forest,54.4
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,15-29,medio,Random Forest,4.1
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.1
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.2
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.5
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.2
+consulta,2026-07-01,PEDIATRIA,0-14,alto,Random Forest,433.2
+consulta,2026-07-01,PEDIATRIA,15-29,medio,Random Forest,6.2
+consulta,2026-07-01,PEDIATRIA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,PEDIATRIA,45-59,baixo,Random Forest,0.1
+consulta,2026-07-01,PEDIATRIA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,PEDIATRIA,75+,baixo,Random Forest,0.1
+consulta,2026-07-01,PNEUMOLOGIA,0-14,baixo,Random Forest,0.2
+consulta,2026-07-01,PNEUMOLOGIA,15-29,alto,Random Forest,41.1
+consulta,2026-07-01,PNEUMOLOGIA,30-44,alto,Random Forest,50.3
+consulta,2026-07-01,PNEUMOLOGIA,45-59,alto,Random Forest,84.3
+consulta,2026-07-01,PNEUMOLOGIA,60-74,alto,Random Forest,104.2
+consulta,2026-07-01,PNEUMOLOGIA,75+,alto,Random Forest,45.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,0-14,alto,Random Forest,95.6
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,15-29,medio,Random Forest,4.7
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.3
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,15-29,medio,Random Forest,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,30-44,medio,Random Forest,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,45-59,medio,Random Forest,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,60-74,medio,Random Forest,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,15-29,medio,Random Forest,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,30-44,medio,Random Forest,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,45-59,medio,Random Forest,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,60-74,medio,Random Forest,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,0-14,baixo,Random Forest,0.3
+consulta,2026-07-01,PROCEDIMENTOS ECI,15-29,medio,Random Forest,5.1
+consulta,2026-07-01,PROCEDIMENTOS ECI,30-44,medio,Random Forest,6.7
+consulta,2026-07-01,PROCEDIMENTOS ECI,45-59,medio,Random Forest,4.9
+consulta,2026-07-01,PROCEDIMENTOS ECI,60-74,medio,Random Forest,0.4
+consulta,2026-07-01,PROCEDIMENTOS ECI,75+,medio,Random Forest,0.2
+consulta,2026-07-01,PROCTOLOGIA,0-14,baixo,Random Forest,1.4
+consulta,2026-07-01,PROCTOLOGIA,15-29,medio,Random Forest,13.0
+consulta,2026-07-01,PROCTOLOGIA,30-44,alto,Random Forest,30.8
+consulta,2026-07-01,PROCTOLOGIA,45-59,alto,Random Forest,45.2
+consulta,2026-07-01,PROCTOLOGIA,60-74,alto,Random Forest,35.3
+consulta,2026-07-01,PROCTOLOGIA,75+,medio,Random Forest,9.7
+consulta,2026-07-01,PSICOLOGIA,0-14,medio,Random Forest,1.2
+consulta,2026-07-01,PSICOLOGIA,15-29,alto,Random Forest,50.5
+consulta,2026-07-01,PSICOLOGIA,30-44,alto,Random Forest,70.3
+consulta,2026-07-01,PSICOLOGIA,45-59,alto,Random Forest,93.6
+consulta,2026-07-01,PSICOLOGIA,60-74,medio,Random Forest,27.1
+consulta,2026-07-01,PSICOLOGIA,75+,medio,Random Forest,3.7
+consulta,2026-07-01,PSICOLOGIA INFANTIL,0-14,medio,Random Forest,17.4
+consulta,2026-07-01,PSICOLOGIA INFANTIL,15-29,medio,Random Forest,6.7
+consulta,2026-07-01,PSICOLOGIA INFANTIL,30-44,baixo,Random Forest,0.2
+consulta,2026-07-01,PSICOLOGIA INFANTIL,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,PSIQUIATRIA,0-14,medio,Random Forest,4.9
+consulta,2026-07-01,PSIQUIATRIA,15-29,alto,Random Forest,149.3
+consulta,2026-07-01,PSIQUIATRIA,30-44,alto,Random Forest,188.0
+consulta,2026-07-01,PSIQUIATRIA,45-59,alto,Random Forest,191.7
+consulta,2026-07-01,PSIQUIATRIA,60-74,alto,Random Forest,97.7
+consulta,2026-07-01,PSIQUIATRIA,75+,medio,Random Forest,18.1
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,0-14,alto,Random Forest,68.6
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,15-29,medio,Random Forest,8.4
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,0-14,baixo,Random Forest,0.8
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,15-29,baixo,Random Forest,2.1
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,30-44,baixo,Random Forest,4.3
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,45-59,baixo,Random Forest,4.3
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,60-74,medio,Random Forest,5.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,75+,baixo,Random Forest,4.7
+consulta,2026-07-01,REUMATOLOGIA,0-14,baixo,Random Forest,0.2
+consulta,2026-07-01,REUMATOLOGIA,15-29,alto,Random Forest,53.2
+consulta,2026-07-01,REUMATOLOGIA,30-44,alto,Random Forest,101.7
+consulta,2026-07-01,REUMATOLOGIA,45-59,alto,Random Forest,120.1
+consulta,2026-07-01,REUMATOLOGIA,60-74,alto,Random Forest,70.5
+consulta,2026-07-01,REUMATOLOGIA,75+,medio,Random Forest,15.5
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,0-14,alto,Random Forest,92.2
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,15-29,alto,Random Forest,44.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.3
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.1
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.1
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.1
+consulta,2026-07-01,SERVICO SOCIAL,0-14,medio,Random Forest,43.9
+consulta,2026-07-01,SERVICO SOCIAL,15-29,medio,Random Forest,27.2
+consulta,2026-07-01,SERVICO SOCIAL,30-44,medio,Random Forest,36.1
+consulta,2026-07-01,SERVICO SOCIAL,45-59,medio,Random Forest,29.0
+consulta,2026-07-01,SERVICO SOCIAL,60-74,medio,Random Forest,8.3
+consulta,2026-07-01,SERVICO SOCIAL,75+,baixo,Random Forest,0.6
+consulta,2026-07-01,TERAPIA OCUPACIONAL,0-14,medio,Random Forest,29.0
+consulta,2026-07-01,TERAPIA OCUPACIONAL,15-29,medio,Random Forest,15.7
+consulta,2026-07-01,TERAPIA OCUPACIONAL,30-44,alto,Random Forest,16.4
+consulta,2026-07-01,TERAPIA OCUPACIONAL,45-59,alto,Random Forest,70.2
+consulta,2026-07-01,TERAPIA OCUPACIONAL,60-74,alto,Random Forest,40.4
+consulta,2026-07-01,TERAPIA OCUPACIONAL,75+,medio,Random Forest,11.2
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,15-29,baixo,Random Forest,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,30-44,medio,Random Forest,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,45-59,medio,Random Forest,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,60-74,medio,Random Forest,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,75+,baixo,Random Forest,0.1
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,0-14,baixo,Random Forest,0.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,15-29,baixo,Random Forest,1.1
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,30-44,medio,Random Forest,2.5
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,45-59,medio,Random Forest,1.7
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,60-74,medio,Random Forest,1.6
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,75+,baixo,Random Forest,0.0
+consulta,2026-07-01,UROLOGIA,0-14,medio,Random Forest,36.1
+consulta,2026-07-01,UROLOGIA,15-29,alto,Random Forest,53.9
+consulta,2026-07-01,UROLOGIA,30-44,alto,Random Forest,116.0
+consulta,2026-07-01,UROLOGIA,45-59,alto,Random Forest,196.4
+consulta,2026-07-01,UROLOGIA,60-74,alto,Random Forest,373.0
+consulta,2026-07-01,UROLOGIA,75+,alto,Random Forest,144.2
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,92.2
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,2.5
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ALERGOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ANESTESIOLOGIA,0-14,medio,Gradient Boosting,8.2
+consulta,2026-07-01,ANESTESIOLOGIA,15-29,medio,Gradient Boosting,25.1
+consulta,2026-07-01,ANESTESIOLOGIA,30-44,alto,Gradient Boosting,62.1
+consulta,2026-07-01,ANESTESIOLOGIA,45-59,alto,Gradient Boosting,83.7
+consulta,2026-07-01,ANESTESIOLOGIA,60-74,alto,Gradient Boosting,90.5
+consulta,2026-07-01,ANESTESIOLOGIA,75+,medio,Gradient Boosting,22.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,15-29,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ASSISTENTE SOCIAL,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CARDIOLOGIA,0-14,medio,Gradient Boosting,6.8
+consulta,2026-07-01,CARDIOLOGIA,15-29,alto,Gradient Boosting,58.9
+consulta,2026-07-01,CARDIOLOGIA,30-44,alto,Gradient Boosting,122.9
+consulta,2026-07-01,CARDIOLOGIA,45-59,alto,Gradient Boosting,324.3
+consulta,2026-07-01,CARDIOLOGIA,60-74,alto,Gradient Boosting,379.2
+consulta,2026-07-01,CARDIOLOGIA,75+,alto,Gradient Boosting,175.1
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,137.4
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,11.2
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.5
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CARDIOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA BARIATRICA,15-29,medio,Gradient Boosting,13.9
+consulta,2026-07-01,CIRURGIA BARIATRICA,30-44,alto,Gradient Boosting,97.3
+consulta,2026-07-01,CIRURGIA BARIATRICA,45-59,alto,Gradient Boosting,90.4
+consulta,2026-07-01,CIRURGIA BARIATRICA,60-74,medio,Gradient Boosting,14.9
+consulta,2026-07-01,CIRURGIA BARIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA CARDIACA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA CARDIACA,15-29,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA CARDIACA,30-44,baixo,Gradient Boosting,0.7
+consulta,2026-07-01,CIRURGIA CARDIACA,45-59,medio,Gradient Boosting,1.0
+consulta,2026-07-01,CIRURGIA CARDIACA,60-74,medio,Gradient Boosting,3.2
+consulta,2026-07-01,CIRURGIA CARDIACA,75+,baixo,Gradient Boosting,2.2
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,15-29,medio,Gradient Boosting,3.6
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,30-44,medio,Gradient Boosting,13.2
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,45-59,alto,Gradient Boosting,29.2
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,60-74,alto,Gradient Boosting,32.5
+consulta,2026-07-01,CIRURGIA DE CABECA E PESCOCO,75+,medio,Gradient Boosting,16.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,15-29,medio,Gradient Boosting,4.5
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,30-44,medio,Gradient Boosting,5.6
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,45-59,medio,Gradient Boosting,16.2
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,60-74,medio,Gradient Boosting,15.5
+consulta,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,75+,medio,Gradient Boosting,3.1
+consulta,2026-07-01,CIRURGIA GERAL,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA GERAL,15-29,medio,Gradient Boosting,9.2
+consulta,2026-07-01,CIRURGIA GERAL,30-44,alto,Gradient Boosting,36.1
+consulta,2026-07-01,CIRURGIA GERAL,45-59,alto,Gradient Boosting,57.6
+consulta,2026-07-01,CIRURGIA GERAL,60-74,alto,Gradient Boosting,60.3
+consulta,2026-07-01,CIRURGIA GERAL,75+,medio,Gradient Boosting,17.5
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,15-29,medio,Gradient Boosting,6.8
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,30-44,medio,Gradient Boosting,20.6
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,45-59,alto,Gradient Boosting,30.4
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,60-74,alto,Gradient Boosting,51.6
+consulta,2026-07-01,CIRURGIA ONCOLOGICA,75+,medio,Gradient Boosting,21.5
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,0-14,alto,Gradient Boosting,65.9
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,15-29,medio,Gradient Boosting,1.4
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA PEDIATRICA GERAL,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CIRURGIA PLASTICA,0-14,medio,Gradient Boosting,0.8
+consulta,2026-07-01,CIRURGIA PLASTICA,15-29,medio,Gradient Boosting,11.9
+consulta,2026-07-01,CIRURGIA PLASTICA,30-44,alto,Gradient Boosting,26.9
+consulta,2026-07-01,CIRURGIA PLASTICA,45-59,alto,Gradient Boosting,20.4
+consulta,2026-07-01,CIRURGIA PLASTICA,60-74,medio,Gradient Boosting,8.2
+consulta,2026-07-01,CIRURGIA PLASTICA,75+,medio,Gradient Boosting,0.7
+consulta,2026-07-01,CIRURGIA TORACICA,0-14,medio,Gradient Boosting,0.7
+consulta,2026-07-01,CIRURGIA TORACICA,15-29,medio,Gradient Boosting,18.3
+consulta,2026-07-01,CIRURGIA TORACICA,30-44,medio,Gradient Boosting,13.6
+consulta,2026-07-01,CIRURGIA TORACICA,45-59,medio,Gradient Boosting,21.4
+consulta,2026-07-01,CIRURGIA TORACICA,60-74,medio,Gradient Boosting,26.5
+consulta,2026-07-01,CIRURGIA TORACICA,75+,medio,Gradient Boosting,9.3
+consulta,2026-07-01,CIRURGIA VASCULAR,0-14,baixo,Gradient Boosting,0.7
+consulta,2026-07-01,CIRURGIA VASCULAR,15-29,medio,Gradient Boosting,5.3
+consulta,2026-07-01,CIRURGIA VASCULAR,30-44,medio,Gradient Boosting,22.7
+consulta,2026-07-01,CIRURGIA VASCULAR,45-59,alto,Gradient Boosting,43.7
+consulta,2026-07-01,CIRURGIA VASCULAR,60-74,alto,Gradient Boosting,54.8
+consulta,2026-07-01,CIRURGIA VASCULAR,75+,medio,Gradient Boosting,25.3
+consulta,2026-07-01,CLINICA GERAL,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CLINICA GERAL,15-29,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CLINICA GERAL,30-44,medio,Gradient Boosting,0.1
+consulta,2026-07-01,CLINICA GERAL,45-59,medio,Gradient Boosting,2.7
+consulta,2026-07-01,CLINICA GERAL,60-74,medio,Gradient Boosting,5.2
+consulta,2026-07-01,CLINICA GERAL,75+,medio,Gradient Boosting,6.9
+consulta,2026-07-01,CONSULTA FARMACEUTICA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,CONSULTA FARMACEUTICA,15-29,medio,Gradient Boosting,2.4
+consulta,2026-07-01,CONSULTA FARMACEUTICA,30-44,medio,Gradient Boosting,6.5
+consulta,2026-07-01,CONSULTA FARMACEUTICA,45-59,medio,Gradient Boosting,7.8
+consulta,2026-07-01,CONSULTA FARMACEUTICA,60-74,medio,Gradient Boosting,2.4
+consulta,2026-07-01,CONSULTA FARMACEUTICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,DERMATOLOGIA,0-14,alto,Gradient Boosting,53.0
+consulta,2026-07-01,DERMATOLOGIA,15-29,alto,Gradient Boosting,110.2
+consulta,2026-07-01,DERMATOLOGIA,30-44,alto,Gradient Boosting,150.6
+consulta,2026-07-01,DERMATOLOGIA,45-59,alto,Gradient Boosting,190.2
+consulta,2026-07-01,DERMATOLOGIA,60-74,alto,Gradient Boosting,176.8
+consulta,2026-07-01,DERMATOLOGIA,75+,alto,Gradient Boosting,66.8
+consulta,2026-07-01,ENDOCRINOLOGIA,0-14,medio,Gradient Boosting,9.4
+consulta,2026-07-01,ENDOCRINOLOGIA,15-29,alto,Gradient Boosting,123.4
+consulta,2026-07-01,ENDOCRINOLOGIA,30-44,alto,Gradient Boosting,152.4
+consulta,2026-07-01,ENDOCRINOLOGIA,45-59,alto,Gradient Boosting,228.1
+consulta,2026-07-01,ENDOCRINOLOGIA,60-74,alto,Gradient Boosting,184.1
+consulta,2026-07-01,ENDOCRINOLOGIA,75+,alto,Gradient Boosting,44.1
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,184.8
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,15-29,alto,Gradient Boosting,28.6
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,15-29,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,30-44,baixo,Gradient Boosting,0.6
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ENFERMAGEM - TELECONSULTAS,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,0-14,alto,Gradient Boosting,86.0
+consulta,2026-07-01,ENFERMAGEM CLINICA,15-29,alto,Gradient Boosting,38.8
+consulta,2026-07-01,ENFERMAGEM CLINICA,30-44,alto,Gradient Boosting,137.6
+consulta,2026-07-01,ENFERMAGEM CLINICA,45-59,alto,Gradient Boosting,237.3
+consulta,2026-07-01,ENFERMAGEM CLINICA,60-74,alto,Gradient Boosting,128.2
+consulta,2026-07-01,ENFERMAGEM CLINICA,75+,medio,Gradient Boosting,9.9
+consulta,2026-07-01,FISIOTERAPIA,0-14,alto,Gradient Boosting,56.8
+consulta,2026-07-01,FISIOTERAPIA,15-29,alto,Gradient Boosting,62.0
+consulta,2026-07-01,FISIOTERAPIA,30-44,alto,Gradient Boosting,148.7
+consulta,2026-07-01,FISIOTERAPIA,45-59,alto,Gradient Boosting,393.8
+consulta,2026-07-01,FISIOTERAPIA,60-74,alto,Gradient Boosting,282.0
+consulta,2026-07-01,FISIOTERAPIA,75+,alto,Gradient Boosting,46.4
+consulta,2026-07-01,FONOAUDIOLOGIA,0-14,alto,Gradient Boosting,58.6
+consulta,2026-07-01,FONOAUDIOLOGIA,15-29,medio,Gradient Boosting,11.4
+consulta,2026-07-01,FONOAUDIOLOGIA,30-44,alto,Gradient Boosting,37.4
+consulta,2026-07-01,FONOAUDIOLOGIA,45-59,alto,Gradient Boosting,60.1
+consulta,2026-07-01,FONOAUDIOLOGIA,60-74,alto,Gradient Boosting,43.0
+consulta,2026-07-01,FONOAUDIOLOGIA,75+,medio,Gradient Boosting,20.1
+consulta,2026-07-01,GASTROENTEROLOGIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA,15-29,alto,Gradient Boosting,56.5
+consulta,2026-07-01,GASTROENTEROLOGIA,30-44,alto,Gradient Boosting,57.8
+consulta,2026-07-01,GASTROENTEROLOGIA,45-59,alto,Gradient Boosting,57.6
+consulta,2026-07-01,GASTROENTEROLOGIA,60-74,alto,Gradient Boosting,59.5
+consulta,2026-07-01,GASTROENTEROLOGIA,75+,medio,Gradient Boosting,11.5
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,269.9
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,11.5
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,GERIATRIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,GERIATRIA,15-29,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,GERIATRIA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,GERIATRIA,45-59,baixo,Gradient Boosting,0.5
+consulta,2026-07-01,GERIATRIA,60-74,alto,Gradient Boosting,48.7
+consulta,2026-07-01,GERIATRIA,75+,alto,Gradient Boosting,78.4
+consulta,2026-07-01,HEMATOLOGIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,HEMATOLOGIA,15-29,alto,Gradient Boosting,56.5
+consulta,2026-07-01,HEMATOLOGIA,30-44,alto,Gradient Boosting,92.9
+consulta,2026-07-01,HEMATOLOGIA,45-59,alto,Gradient Boosting,76.4
+consulta,2026-07-01,HEMATOLOGIA,60-74,alto,Gradient Boosting,96.0
+consulta,2026-07-01,HEMATOLOGIA,75+,alto,Gradient Boosting,56.2
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,67.6
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,5.8
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,HEMATOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,HEPATOLOGIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,HEPATOLOGIA,15-29,medio,Gradient Boosting,23.6
+consulta,2026-07-01,HEPATOLOGIA,30-44,alto,Gradient Boosting,50.4
+consulta,2026-07-01,HEPATOLOGIA,45-59,alto,Gradient Boosting,94.1
+consulta,2026-07-01,HEPATOLOGIA,60-74,alto,Gradient Boosting,123.6
+consulta,2026-07-01,HEPATOLOGIA,75+,alto,Gradient Boosting,51.9
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,76.1
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,15-29,baixo,Gradient Boosting,3.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,INFECTOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,MASTOLOGIA,0-14,baixo,Gradient Boosting,0.8
+consulta,2026-07-01,MASTOLOGIA,15-29,medio,Gradient Boosting,17.8
+consulta,2026-07-01,MASTOLOGIA,30-44,alto,Gradient Boosting,48.0
+consulta,2026-07-01,MASTOLOGIA,45-59,alto,Gradient Boosting,64.4
+consulta,2026-07-01,MASTOLOGIA,60-74,medio,Gradient Boosting,22.4
+consulta,2026-07-01,MASTOLOGIA,75+,medio,Gradient Boosting,2.2
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,15-29,medio,Gradient Boosting,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,30-44,medio,Gradient Boosting,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,45-59,medio,Gradient Boosting,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,60-74,medio,Gradient Boosting,0.0
+consulta,2026-07-01,MEDICINA INTERVENCIONISTA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEFROLOGIA,0-14,medio,Gradient Boosting,5.9
+consulta,2026-07-01,NEFROLOGIA,15-29,alto,Gradient Boosting,96.5
+consulta,2026-07-01,NEFROLOGIA,30-44,alto,Gradient Boosting,183.3
+consulta,2026-07-01,NEFROLOGIA,45-59,alto,Gradient Boosting,227.5
+consulta,2026-07-01,NEFROLOGIA,60-74,alto,Gradient Boosting,152.6
+consulta,2026-07-01,NEFROLOGIA,75+,alto,Gradient Boosting,72.8
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,15-29,baixo,Gradient Boosting,0.6
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,30-44,baixo,Gradient Boosting,2.9
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,45-59,baixo,Gradient Boosting,3.4
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,60-74,baixo,Gradient Boosting,1.0
+consulta,2026-07-01,NEFROLOGIA IRC DOENCA MIN E OSSEA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,140.6
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,14.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEFROLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEUROCIRURGIA,0-14,medio,Gradient Boosting,7.6
+consulta,2026-07-01,NEUROCIRURGIA,15-29,medio,Gradient Boosting,22.7
+consulta,2026-07-01,NEUROCIRURGIA,30-44,alto,Gradient Boosting,49.5
+consulta,2026-07-01,NEUROCIRURGIA,45-59,alto,Gradient Boosting,94.9
+consulta,2026-07-01,NEUROCIRURGIA,60-74,alto,Gradient Boosting,48.6
+consulta,2026-07-01,NEUROCIRURGIA,75+,medio,Gradient Boosting,9.2
+consulta,2026-07-01,NEUROLOGIA,0-14,medio,Gradient Boosting,25.1
+consulta,2026-07-01,NEUROLOGIA,15-29,alto,Gradient Boosting,160.1
+consulta,2026-07-01,NEUROLOGIA,30-44,alto,Gradient Boosting,239.3
+consulta,2026-07-01,NEUROLOGIA,45-59,alto,Gradient Boosting,263.5
+consulta,2026-07-01,NEUROLOGIA,60-74,alto,Gradient Boosting,190.8
+consulta,2026-07-01,NEUROLOGIA,75+,alto,Gradient Boosting,75.8
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,87.9
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,2.9
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEUROLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEUROPSICOLOGIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NEUROPSICOLOGIA,15-29,medio,Gradient Boosting,1.3
+consulta,2026-07-01,NEUROPSICOLOGIA,30-44,medio,Gradient Boosting,4.2
+consulta,2026-07-01,NEUROPSICOLOGIA,45-59,medio,Gradient Boosting,13.0
+consulta,2026-07-01,NEUROPSICOLOGIA,60-74,medio,Gradient Boosting,17.3
+consulta,2026-07-01,NEUROPSICOLOGIA,75+,medio,Gradient Boosting,6.5
+consulta,2026-07-01,NUTRICAO CLINICA,0-14,baixo,Gradient Boosting,1.8
+consulta,2026-07-01,NUTRICAO CLINICA,15-29,medio,Gradient Boosting,15.1
+consulta,2026-07-01,NUTRICAO CLINICA,30-44,alto,Gradient Boosting,79.5
+consulta,2026-07-01,NUTRICAO CLINICA,45-59,alto,Gradient Boosting,94.6
+consulta,2026-07-01,NUTRICAO CLINICA,60-74,alto,Gradient Boosting,47.4
+consulta,2026-07-01,NUTRICAO CLINICA,75+,medio,Gradient Boosting,10.6
+consulta,2026-07-01,NUTRICAO INFANTIL,0-14,alto,Gradient Boosting,69.1
+consulta,2026-07-01,NUTRICAO INFANTIL,15-29,medio,Gradient Boosting,6.1
+consulta,2026-07-01,NUTRICAO INFANTIL,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NUTRICAO INFANTIL,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NUTRICAO INFANTIL,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,NUTRICAO INFANTIL,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,0-14,medio,Gradient Boosting,0.7
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,15-29,medio,Gradient Boosting,18.5
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,30-44,medio,Gradient Boosting,12.4
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,45-59,medio,Gradient Boosting,8.4
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,60-74,medio,Gradient Boosting,4.5
+consulta,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,75+,medio,Gradient Boosting,0.4
+consulta,2026-07-01,ODONTOLOGIA CLINICA,0-14,medio,Gradient Boosting,1.6
+consulta,2026-07-01,ODONTOLOGIA CLINICA,15-29,medio,Gradient Boosting,5.2
+consulta,2026-07-01,ODONTOLOGIA CLINICA,30-44,medio,Gradient Boosting,29.0
+consulta,2026-07-01,ODONTOLOGIA CLINICA,45-59,medio,Gradient Boosting,33.0
+consulta,2026-07-01,ODONTOLOGIA CLINICA,60-74,medio,Gradient Boosting,11.0
+consulta,2026-07-01,ODONTOLOGIA CLINICA,75+,baixo,Gradient Boosting,0.9
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,0-14,medio,Gradient Boosting,18.6
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,15-29,baixo,Gradient Boosting,0.7
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ODONTOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,OFTALMOLOGIA,0-14,alto,Gradient Boosting,100.1
+consulta,2026-07-01,OFTALMOLOGIA,15-29,alto,Gradient Boosting,131.2
+consulta,2026-07-01,OFTALMOLOGIA,30-44,alto,Gradient Boosting,193.7
+consulta,2026-07-01,OFTALMOLOGIA,45-59,alto,Gradient Boosting,474.2
+consulta,2026-07-01,OFTALMOLOGIA,60-74,alto,Gradient Boosting,642.9
+consulta,2026-07-01,OFTALMOLOGIA,75+,alto,Gradient Boosting,274.3
+consulta,2026-07-01,ONCOLOGIA CLINICA,0-14,baixo,Gradient Boosting,1.5
+consulta,2026-07-01,ONCOLOGIA CLINICA,15-29,medio,Gradient Boosting,23.8
+consulta,2026-07-01,ONCOLOGIA CLINICA,30-44,alto,Gradient Boosting,112.8
+consulta,2026-07-01,ONCOLOGIA CLINICA,45-59,alto,Gradient Boosting,253.0
+consulta,2026-07-01,ONCOLOGIA CLINICA,60-74,alto,Gradient Boosting,423.4
+consulta,2026-07-01,ONCOLOGIA CLINICA,75+,alto,Gradient Boosting,184.9
+consulta,2026-07-01,ORTOPEDIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ORTOPEDIA,15-29,medio,Gradient Boosting,0.0
+consulta,2026-07-01,ORTOPEDIA,30-44,medio,Gradient Boosting,6.0
+consulta,2026-07-01,ORTOPEDIA,45-59,medio,Gradient Boosting,11.1
+consulta,2026-07-01,ORTOPEDIA,60-74,medio,Gradient Boosting,8.5
+consulta,2026-07-01,ORTOPEDIA,75+,medio,Gradient Boosting,1.2
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,0-14,alto,Gradient Boosting,42.4
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,15-29,medio,Gradient Boosting,2.8
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,ORTOPEDIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,0-14,medio,Gradient Boosting,25.4
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,15-29,alto,Gradient Boosting,80.5
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,30-44,alto,Gradient Boosting,102.9
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,45-59,alto,Gradient Boosting,128.7
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,60-74,alto,Gradient Boosting,97.7
+consulta,2026-07-01,OTORRINOLARINGOLOGIA,75+,alto,Gradient Boosting,30.4
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,56.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,2.4
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.1
+consulta,2026-07-01,OTORRINOLARINGOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PEDIATRIA,0-14,alto,Gradient Boosting,409.7
+consulta,2026-07-01,PEDIATRIA,15-29,medio,Gradient Boosting,5.8
+consulta,2026-07-01,PEDIATRIA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PEDIATRIA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PEDIATRIA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PEDIATRIA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PNEUMOLOGIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PNEUMOLOGIA,15-29,alto,Gradient Boosting,38.5
+consulta,2026-07-01,PNEUMOLOGIA,30-44,alto,Gradient Boosting,49.3
+consulta,2026-07-01,PNEUMOLOGIA,45-59,alto,Gradient Boosting,76.5
+consulta,2026-07-01,PNEUMOLOGIA,60-74,alto,Gradient Boosting,103.4
+consulta,2026-07-01,PNEUMOLOGIA,75+,alto,Gradient Boosting,40.1
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,96.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,4.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PNEUMOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,15-29,medio,Gradient Boosting,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,30-44,medio,Gradient Boosting,0.7
+consulta,2026-07-01,POS-TRANSPLANTE,45-59,medio,Gradient Boosting,0.3
+consulta,2026-07-01,POS-TRANSPLANTE,60-74,medio,Gradient Boosting,0.0
+consulta,2026-07-01,POS-TRANSPLANTE,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,15-29,medio,Gradient Boosting,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,30-44,medio,Gradient Boosting,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,45-59,medio,Gradient Boosting,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,60-74,medio,Gradient Boosting,0.0
+consulta,2026-07-01,PRE-TRANSPLANTE,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,15-29,medio,Gradient Boosting,2.6
+consulta,2026-07-01,PROCEDIMENTOS ECI,30-44,medio,Gradient Boosting,8.7
+consulta,2026-07-01,PROCEDIMENTOS ECI,45-59,medio,Gradient Boosting,4.3
+consulta,2026-07-01,PROCEDIMENTOS ECI,60-74,medio,Gradient Boosting,0.0
+consulta,2026-07-01,PROCEDIMENTOS ECI,75+,medio,Gradient Boosting,0.0
+consulta,2026-07-01,PROCTOLOGIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PROCTOLOGIA,15-29,medio,Gradient Boosting,10.9
+consulta,2026-07-01,PROCTOLOGIA,30-44,alto,Gradient Boosting,31.3
+consulta,2026-07-01,PROCTOLOGIA,45-59,alto,Gradient Boosting,44.5
+consulta,2026-07-01,PROCTOLOGIA,60-74,alto,Gradient Boosting,36.8
+consulta,2026-07-01,PROCTOLOGIA,75+,medio,Gradient Boosting,9.4
+consulta,2026-07-01,PSICOLOGIA,0-14,medio,Gradient Boosting,0.8
+consulta,2026-07-01,PSICOLOGIA,15-29,alto,Gradient Boosting,49.4
+consulta,2026-07-01,PSICOLOGIA,30-44,alto,Gradient Boosting,69.0
+consulta,2026-07-01,PSICOLOGIA,45-59,alto,Gradient Boosting,84.4
+consulta,2026-07-01,PSICOLOGIA,60-74,medio,Gradient Boosting,26.4
+consulta,2026-07-01,PSICOLOGIA,75+,medio,Gradient Boosting,2.8
+consulta,2026-07-01,PSICOLOGIA INFANTIL,0-14,medio,Gradient Boosting,19.4
+consulta,2026-07-01,PSICOLOGIA INFANTIL,15-29,medio,Gradient Boosting,6.7
+consulta,2026-07-01,PSICOLOGIA INFANTIL,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PSICOLOGIA INFANTIL,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PSIQUIATRIA,0-14,medio,Gradient Boosting,3.7
+consulta,2026-07-01,PSIQUIATRIA,15-29,alto,Gradient Boosting,143.6
+consulta,2026-07-01,PSIQUIATRIA,30-44,alto,Gradient Boosting,183.1
+consulta,2026-07-01,PSIQUIATRIA,45-59,alto,Gradient Boosting,184.8
+consulta,2026-07-01,PSIQUIATRIA,60-74,alto,Gradient Boosting,100.2
+consulta,2026-07-01,PSIQUIATRIA,75+,medio,Gradient Boosting,19.7
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,0-14,alto,Gradient Boosting,62.1
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,15-29,medio,Gradient Boosting,7.8
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,PSIQUIATRIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,15-29,baixo,Gradient Boosting,0.8
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,30-44,baixo,Gradient Boosting,2.6
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,45-59,baixo,Gradient Boosting,3.3
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,60-74,medio,Gradient Boosting,5.0
+consulta,2026-07-01,RADIOLOGIA E DIAGNOSTICO POR IMAGEM,75+,baixo,Gradient Boosting,3.8
+consulta,2026-07-01,REUMATOLOGIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,REUMATOLOGIA,15-29,alto,Gradient Boosting,55.8
+consulta,2026-07-01,REUMATOLOGIA,30-44,alto,Gradient Boosting,102.3
+consulta,2026-07-01,REUMATOLOGIA,45-59,alto,Gradient Boosting,121.5
+consulta,2026-07-01,REUMATOLOGIA,60-74,alto,Gradient Boosting,72.7
+consulta,2026-07-01,REUMATOLOGIA,75+,medio,Gradient Boosting,15.3
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,92.5
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,15-29,alto,Gradient Boosting,43.4
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,REUMATOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,SERVICO SOCIAL,0-14,medio,Gradient Boosting,48.5
+consulta,2026-07-01,SERVICO SOCIAL,15-29,medio,Gradient Boosting,21.8
+consulta,2026-07-01,SERVICO SOCIAL,30-44,medio,Gradient Boosting,35.1
+consulta,2026-07-01,SERVICO SOCIAL,45-59,medio,Gradient Boosting,32.1
+consulta,2026-07-01,SERVICO SOCIAL,60-74,medio,Gradient Boosting,8.2
+consulta,2026-07-01,SERVICO SOCIAL,75+,baixo,Gradient Boosting,0.9
+consulta,2026-07-01,TERAPIA OCUPACIONAL,0-14,medio,Gradient Boosting,28.9
+consulta,2026-07-01,TERAPIA OCUPACIONAL,15-29,medio,Gradient Boosting,13.2
+consulta,2026-07-01,TERAPIA OCUPACIONAL,30-44,alto,Gradient Boosting,18.8
+consulta,2026-07-01,TERAPIA OCUPACIONAL,45-59,alto,Gradient Boosting,71.2
+consulta,2026-07-01,TERAPIA OCUPACIONAL,60-74,alto,Gradient Boosting,43.4
+consulta,2026-07-01,TERAPIA OCUPACIONAL,75+,medio,Gradient Boosting,8.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,15-29,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,30-44,medio,Gradient Boosting,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,45-59,medio,Gradient Boosting,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,60-74,medio,Gradient Boosting,0.0
+consulta,2026-07-01,TRANSPLANTE RENAL UROLOGIA,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,0-14,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,15-29,baixo,Gradient Boosting,0.1
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,30-44,medio,Gradient Boosting,1.1
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,45-59,medio,Gradient Boosting,0.8
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,60-74,medio,Gradient Boosting,0.3
+consulta,2026-07-01,TX RENAL - PROCEDIMENTOS,75+,baixo,Gradient Boosting,0.0
+consulta,2026-07-01,UROLOGIA,0-14,medio,Gradient Boosting,34.5
+consulta,2026-07-01,UROLOGIA,15-29,alto,Gradient Boosting,51.2
+consulta,2026-07-01,UROLOGIA,30-44,alto,Gradient Boosting,117.4
+consulta,2026-07-01,UROLOGIA,45-59,alto,Gradient Boosting,195.7
+consulta,2026-07-01,UROLOGIA,60-74,alto,Gradient Boosting,356.0
+consulta,2026-07-01,UROLOGIA,75+,alto,Gradient Boosting,134.5
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,15-29,baixo,Baseline,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,CARDIOLOGIA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,CARDIOLOGIA,15-29,alto,Baseline,1.0
+internacao,2026-07-01,CARDIOLOGIA,30-44,alto,Baseline,7.0
+internacao,2026-07-01,CARDIOLOGIA,45-59,alto,Baseline,19.0
+internacao,2026-07-01,CARDIOLOGIA,60-74,alto,Baseline,34.0
+internacao,2026-07-01,CARDIOLOGIA,75+,alto,Baseline,7.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA BARIATRICA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA BARIATRICA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA BARIATRICA,30-44,alto,Baseline,6.0
+internacao,2026-07-01,CIRURGIA BARIATRICA,45-59,alto,Baseline,5.0
+internacao,2026-07-01,CIRURGIA BARIATRICA,60-74,medio,Baseline,1.0
+internacao,2026-07-01,CIRURGIA BARIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,15-29,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,45-59,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,15-29,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,30-44,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,45-59,medio,Baseline,1.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,60-74,medio,Baseline,2.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,75+,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,15-29,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,30-44,alto,Baseline,4.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,45-59,alto,Baseline,2.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,60-74,alto,Baseline,5.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,75+,alto,Baseline,4.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,15-29,medio,Baseline,1.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,30-44,alto,Baseline,3.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,45-59,alto,Baseline,9.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,60-74,alto,Baseline,8.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,75+,alto,Baseline,3.0
+internacao,2026-07-01,CIRURGIA GERAL,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA GERAL,15-29,alto,Baseline,1.0
+internacao,2026-07-01,CIRURGIA GERAL,30-44,alto,Baseline,9.0
+internacao,2026-07-01,CIRURGIA GERAL,45-59,alto,Baseline,13.0
+internacao,2026-07-01,CIRURGIA GERAL,60-74,alto,Baseline,4.0
+internacao,2026-07-01,CIRURGIA GERAL,75+,alto,Baseline,2.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,15-29,medio,Baseline,1.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,30-44,alto,Baseline,5.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,45-59,alto,Baseline,11.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,60-74,alto,Baseline,7.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,75+,alto,Baseline,6.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,0-14,alto,Baseline,6.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,15-29,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,75+,baixo,Baseline,0.0
+internacao,2026-07-01,CIRURGIA PLASTICA,0-14,medio,Baseline,1.0
+internacao,2026-07-01,CIRURGIA PLASTICA,15-29,alto,Baseline,3.0
+internacao,2026-07-01,CIRURGIA PLASTICA,30-44,alto,Baseline,6.0
+internacao,2026-07-01,CIRURGIA PLASTICA,45-59,alto,Baseline,4.0
+internacao,2026-07-01,CIRURGIA PLASTICA,60-74,alto,Baseline,0.0
+internacao,2026-07-01,CIRURGIA PLASTICA,75+,medio,Baseline,3.0
+internacao,2026-07-01,CIRURGIA TORACICA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA TORACICA,15-29,alto,Baseline,3.0
+internacao,2026-07-01,CIRURGIA TORACICA,30-44,medio,Baseline,1.0
+internacao,2026-07-01,CIRURGIA TORACICA,45-59,alto,Baseline,1.0
+internacao,2026-07-01,CIRURGIA TORACICA,60-74,alto,Baseline,2.0
+internacao,2026-07-01,CIRURGIA TORACICA,75+,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA VASCULAR,0-14,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA VASCULAR,15-29,medio,Baseline,0.0
+internacao,2026-07-01,CIRURGIA VASCULAR,30-44,alto,Baseline,5.0
+internacao,2026-07-01,CIRURGIA VASCULAR,45-59,alto,Baseline,9.0
+internacao,2026-07-01,CIRURGIA VASCULAR,60-74,alto,Baseline,7.0
+internacao,2026-07-01,CIRURGIA VASCULAR,75+,alto,Baseline,6.0
+internacao,2026-07-01,CLINICA GERAL,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,CLINICA GERAL,15-29,alto,Baseline,5.0
+internacao,2026-07-01,CLINICA GERAL,30-44,alto,Baseline,11.0
+internacao,2026-07-01,CLINICA GERAL,45-59,alto,Baseline,23.0
+internacao,2026-07-01,CLINICA GERAL,60-74,alto,Baseline,20.0
+internacao,2026-07-01,CLINICA GERAL,75+,alto,Baseline,13.0
+internacao,2026-07-01,DERMATOLOGIA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,DERMATOLOGIA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,DERMATOLOGIA,30-44,medio,Baseline,2.0
+internacao,2026-07-01,DERMATOLOGIA,45-59,medio,Baseline,0.0
+internacao,2026-07-01,DERMATOLOGIA,60-74,medio,Baseline,1.0
+internacao,2026-07-01,DERMATOLOGIA,75+,medio,Baseline,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA,15-29,medio,Baseline,1.0
+internacao,2026-07-01,ENDOCRINOLOGIA,30-44,medio,Baseline,1.0
+internacao,2026-07-01,ENDOCRINOLOGIA,45-59,medio,Baseline,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA,60-74,medio,Baseline,1.0
+internacao,2026-07-01,ENDOCRINOLOGIA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA,15-29,alto,Baseline,1.0
+internacao,2026-07-01,GASTROENTEROLOGIA,30-44,alto,Baseline,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA,45-59,alto,Baseline,6.0
+internacao,2026-07-01,GASTROENTEROLOGIA,60-74,alto,Baseline,22.0
+internacao,2026-07-01,GASTROENTEROLOGIA,75+,alto,Baseline,6.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,0-14,alto,Baseline,11.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,15-29,medio,Baseline,1.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,GERIATRIA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,GERIATRIA,15-29,baixo,Baseline,0.0
+internacao,2026-07-01,GERIATRIA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,GERIATRIA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,GERIATRIA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,GERIATRIA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,HEMATOLOGIA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,HEMATOLOGIA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,HEMATOLOGIA,30-44,medio,Baseline,2.0
+internacao,2026-07-01,HEMATOLOGIA,45-59,medio,Baseline,2.0
+internacao,2026-07-01,HEMATOLOGIA,60-74,medio,Baseline,1.0
+internacao,2026-07-01,HEMATOLOGIA,75+,medio,Baseline,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,15-29,baixo,Baseline,1.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,0-14,medio,Baseline,1.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,15-29,baixo,Baseline,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,MASTOLOGIA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,MASTOLOGIA,15-29,alto,Baseline,3.0
+internacao,2026-07-01,MASTOLOGIA,30-44,alto,Baseline,0.0
+internacao,2026-07-01,MASTOLOGIA,45-59,medio,Baseline,4.0
+internacao,2026-07-01,MASTOLOGIA,60-74,medio,Baseline,0.0
+internacao,2026-07-01,MASTOLOGIA,75+,medio,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTENSIVA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTENSIVA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTENSIVA,30-44,medio,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTENSIVA,45-59,medio,Baseline,1.0
+internacao,2026-07-01,MEDICINA INTENSIVA,60-74,alto,Baseline,3.0
+internacao,2026-07-01,MEDICINA INTENSIVA,75+,medio,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,30-44,medio,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,45-59,medio,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,60-74,medio,Baseline,0.0
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,75+,medio,Baseline,0.0
+internacao,2026-07-01,NEFROLOGIA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,NEFROLOGIA,15-29,alto,Baseline,6.0
+internacao,2026-07-01,NEFROLOGIA,30-44,alto,Baseline,8.0
+internacao,2026-07-01,NEFROLOGIA,45-59,alto,Baseline,5.0
+internacao,2026-07-01,NEFROLOGIA,60-74,alto,Baseline,2.0
+internacao,2026-07-01,NEFROLOGIA,75+,medio,Baseline,2.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,0-14,alto,Baseline,2.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,15-29,medio,Baseline,1.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,NEUROCIRURGIA,0-14,medio,Baseline,2.0
+internacao,2026-07-01,NEUROCIRURGIA,15-29,alto,Baseline,4.0
+internacao,2026-07-01,NEUROCIRURGIA,30-44,alto,Baseline,5.0
+internacao,2026-07-01,NEUROCIRURGIA,45-59,alto,Baseline,3.0
+internacao,2026-07-01,NEUROCIRURGIA,60-74,alto,Baseline,2.0
+internacao,2026-07-01,NEUROCIRURGIA,75+,medio,Baseline,0.0
+internacao,2026-07-01,NEUROLOGIA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,NEUROLOGIA,15-29,alto,Baseline,1.0
+internacao,2026-07-01,NEUROLOGIA,30-44,alto,Baseline,1.0
+internacao,2026-07-01,NEUROLOGIA,45-59,alto,Baseline,0.0
+internacao,2026-07-01,NEUROLOGIA,60-74,alto,Baseline,5.0
+internacao,2026-07-01,NEUROLOGIA,75+,medio,Baseline,1.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,0-14,medio,Baseline,1.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,0-14,medio,Baseline,0.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,15-29,alto,Baseline,6.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,30-44,alto,Baseline,2.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,45-59,alto,Baseline,0.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,60-74,medio,Baseline,1.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,75+,medio,Baseline,1.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,15-29,baixo,Baseline,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,60-74,medio,Baseline,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,OFTALMOLOGIA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,OFTALMOLOGIA,15-29,medio,Baseline,1.0
+internacao,2026-07-01,OFTALMOLOGIA,30-44,medio,Baseline,0.0
+internacao,2026-07-01,OFTALMOLOGIA,45-59,alto,Baseline,2.0
+internacao,2026-07-01,OFTALMOLOGIA,60-74,alto,Baseline,2.0
+internacao,2026-07-01,OFTALMOLOGIA,75+,medio,Baseline,2.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,0-14,medio,Baseline,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,15-29,baixo,Baseline,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,75+,baixo,Baseline,0.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,15-29,medio,Baseline,3.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,30-44,alto,Baseline,4.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,45-59,alto,Baseline,6.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,60-74,alto,Baseline,15.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,75+,alto,Baseline,4.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,30-44,medio,Baseline,1.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,45-59,medio,Baseline,0.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,60-74,alto,Baseline,2.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,75+,medio,Baseline,1.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,0-14,alto,Baseline,0.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,15-29,alto,Baseline,7.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,30-44,alto,Baseline,5.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,45-59,alto,Baseline,4.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,60-74,alto,Baseline,4.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,75+,medio,Baseline,0.0
+internacao,2026-07-01,PEDIATRIA,0-14,alto,Baseline,40.0
+internacao,2026-07-01,PEDIATRIA,15-29,alto,Baseline,2.0
+internacao,2026-07-01,PEDIATRIA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,PEDIATRIA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,PEDIATRIA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,PEDIATRIA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,PNEUMOLOGIA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,PNEUMOLOGIA,15-29,medio,Baseline,1.0
+internacao,2026-07-01,PNEUMOLOGIA,30-44,medio,Baseline,0.0
+internacao,2026-07-01,PNEUMOLOGIA,45-59,alto,Baseline,1.0
+internacao,2026-07-01,PNEUMOLOGIA,60-74,alto,Baseline,2.0
+internacao,2026-07-01,PNEUMOLOGIA,75+,medio,Baseline,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,0-14,medio,Baseline,1.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,15-29,baixo,Baseline,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,POS-TRANSPLANTE,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,POS-TRANSPLANTE,15-29,alto,Baseline,2.0
+internacao,2026-07-01,POS-TRANSPLANTE,30-44,alto,Baseline,5.0
+internacao,2026-07-01,POS-TRANSPLANTE,45-59,alto,Baseline,12.0
+internacao,2026-07-01,POS-TRANSPLANTE,60-74,alto,Baseline,8.0
+internacao,2026-07-01,POS-TRANSPLANTE,75+,medio,Baseline,1.0
+internacao,2026-07-01,PRE-TRANSPLANTE,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,PRE-TRANSPLANTE,15-29,medio,Baseline,1.0
+internacao,2026-07-01,PRE-TRANSPLANTE,30-44,alto,Baseline,0.0
+internacao,2026-07-01,PRE-TRANSPLANTE,45-59,alto,Baseline,4.0
+internacao,2026-07-01,PRE-TRANSPLANTE,60-74,medio,Baseline,0.0
+internacao,2026-07-01,PRE-TRANSPLANTE,75+,baixo,Baseline,0.0
+internacao,2026-07-01,PROCTOLOGIA,0-14,medio,Baseline,0.0
+internacao,2026-07-01,PROCTOLOGIA,15-29,medio,Baseline,5.0
+internacao,2026-07-01,PROCTOLOGIA,30-44,alto,Baseline,1.0
+internacao,2026-07-01,PROCTOLOGIA,45-59,alto,Baseline,1.0
+internacao,2026-07-01,PROCTOLOGIA,60-74,alto,Baseline,3.0
+internacao,2026-07-01,PROCTOLOGIA,75+,medio,Baseline,0.0
+internacao,2026-07-01,PSIQUIATRIA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,PSIQUIATRIA,15-29,alto,Baseline,2.0
+internacao,2026-07-01,PSIQUIATRIA,30-44,alto,Baseline,1.0
+internacao,2026-07-01,PSIQUIATRIA,45-59,medio,Baseline,4.0
+internacao,2026-07-01,PSIQUIATRIA,60-74,medio,Baseline,1.0
+internacao,2026-07-01,PSIQUIATRIA,75+,medio,Baseline,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,15-29,baixo,Baseline,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,REUMATOLOGIA,0-14,baixo,Baseline,0.0
+internacao,2026-07-01,REUMATOLOGIA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,REUMATOLOGIA,30-44,medio,Baseline,1.0
+internacao,2026-07-01,REUMATOLOGIA,45-59,medio,Baseline,1.0
+internacao,2026-07-01,REUMATOLOGIA,60-74,medio,Baseline,0.0
+internacao,2026-07-01,REUMATOLOGIA,75+,medio,Baseline,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,0-14,alto,Baseline,2.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,15-29,medio,Baseline,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,30-44,baixo,Baseline,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,45-59,baixo,Baseline,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,60-74,baixo,Baseline,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,75+,baixo,Baseline,0.0
+internacao,2026-07-01,UROLOGIA,0-14,alto,Baseline,8.0
+internacao,2026-07-01,UROLOGIA,15-29,alto,Baseline,4.0
+internacao,2026-07-01,UROLOGIA,30-44,alto,Baseline,8.0
+internacao,2026-07-01,UROLOGIA,45-59,alto,Baseline,14.0
+internacao,2026-07-01,UROLOGIA,60-74,alto,Baseline,24.0
+internacao,2026-07-01,UROLOGIA,75+,alto,Baseline,7.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,0-14,medio,Poisson,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,15-29,baixo,Poisson,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,75+,baixo,Poisson,0.0
+internacao,2026-07-01,CARDIOLOGIA,0-14,medio,Poisson,0.3
+internacao,2026-07-01,CARDIOLOGIA,15-29,alto,Poisson,1.6
+internacao,2026-07-01,CARDIOLOGIA,30-44,alto,Poisson,6.3
+internacao,2026-07-01,CARDIOLOGIA,45-59,alto,Poisson,14.7
+internacao,2026-07-01,CARDIOLOGIA,60-74,alto,Poisson,23.7
+internacao,2026-07-01,CARDIOLOGIA,75+,alto,Poisson,7.3
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,0-14,medio,Poisson,0.2
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,15-29,medio,Poisson,0.1
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.1
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.1
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.1
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,75+,baixo,Poisson,0.1
+internacao,2026-07-01,CIRURGIA BARIATRICA,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,CIRURGIA BARIATRICA,15-29,medio,Poisson,0.8
+internacao,2026-07-01,CIRURGIA BARIATRICA,30-44,alto,Poisson,8.2
+internacao,2026-07-01,CIRURGIA BARIATRICA,45-59,alto,Poisson,5.8
+internacao,2026-07-01,CIRURGIA BARIATRICA,60-74,medio,Poisson,1.6
+internacao,2026-07-01,CIRURGIA BARIATRICA,75+,baixo,Poisson,0.4
+internacao,2026-07-01,CIRURGIA CARDIACA,0-14,baixo,Poisson,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,15-29,baixo,Poisson,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,30-44,baixo,Poisson,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,45-59,medio,Poisson,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,60-74,baixo,Poisson,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,75+,baixo,Poisson,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,0-14,baixo,Poisson,0.2
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,15-29,baixo,Poisson,0.2
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,30-44,medio,Poisson,0.2
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,45-59,medio,Poisson,0.4
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,60-74,medio,Poisson,0.5
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,75+,medio,Poisson,0.2
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,15-29,medio,Poisson,0.5
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,30-44,alto,Poisson,3.3
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,45-59,alto,Poisson,3.3
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,60-74,alto,Poisson,5.1
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,75+,alto,Poisson,3.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,15-29,medio,Poisson,1.4
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,30-44,alto,Poisson,3.3
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,45-59,alto,Poisson,4.6
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,60-74,alto,Poisson,5.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,75+,alto,Poisson,1.8
+internacao,2026-07-01,CIRURGIA GERAL,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,CIRURGIA GERAL,15-29,alto,Poisson,1.4
+internacao,2026-07-01,CIRURGIA GERAL,30-44,alto,Poisson,10.5
+internacao,2026-07-01,CIRURGIA GERAL,45-59,alto,Poisson,11.7
+internacao,2026-07-01,CIRURGIA GERAL,60-74,alto,Poisson,6.2
+internacao,2026-07-01,CIRURGIA GERAL,75+,alto,Poisson,1.4
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,15-29,medio,Poisson,1.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,30-44,alto,Poisson,3.1
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,45-59,alto,Poisson,7.8
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,60-74,alto,Poisson,6.5
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,75+,alto,Poisson,4.4
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,0-14,alto,Poisson,3.4
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,15-29,medio,Poisson,0.5
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,30-44,baixo,Poisson,0.2
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,45-59,baixo,Poisson,0.2
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,60-74,baixo,Poisson,0.3
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,75+,baixo,Poisson,0.3
+internacao,2026-07-01,CIRURGIA PLASTICA,0-14,medio,Poisson,0.9
+internacao,2026-07-01,CIRURGIA PLASTICA,15-29,alto,Poisson,3.1
+internacao,2026-07-01,CIRURGIA PLASTICA,30-44,alto,Poisson,7.3
+internacao,2026-07-01,CIRURGIA PLASTICA,45-59,alto,Poisson,3.4
+internacao,2026-07-01,CIRURGIA PLASTICA,60-74,alto,Poisson,1.3
+internacao,2026-07-01,CIRURGIA PLASTICA,75+,medio,Poisson,1.2
+internacao,2026-07-01,CIRURGIA TORACICA,0-14,medio,Poisson,0.3
+internacao,2026-07-01,CIRURGIA TORACICA,15-29,alto,Poisson,1.9
+internacao,2026-07-01,CIRURGIA TORACICA,30-44,medio,Poisson,1.0
+internacao,2026-07-01,CIRURGIA TORACICA,45-59,alto,Poisson,1.9
+internacao,2026-07-01,CIRURGIA TORACICA,60-74,alto,Poisson,1.8
+internacao,2026-07-01,CIRURGIA TORACICA,75+,medio,Poisson,0.7
+internacao,2026-07-01,CIRURGIA VASCULAR,0-14,medio,Poisson,0.3
+internacao,2026-07-01,CIRURGIA VASCULAR,15-29,medio,Poisson,0.4
+internacao,2026-07-01,CIRURGIA VASCULAR,30-44,alto,Poisson,3.3
+internacao,2026-07-01,CIRURGIA VASCULAR,45-59,alto,Poisson,5.8
+internacao,2026-07-01,CIRURGIA VASCULAR,60-74,alto,Poisson,8.7
+internacao,2026-07-01,CIRURGIA VASCULAR,75+,alto,Poisson,4.5
+internacao,2026-07-01,CLINICA GERAL,0-14,baixo,Poisson,0.4
+internacao,2026-07-01,CLINICA GERAL,15-29,alto,Poisson,5.8
+internacao,2026-07-01,CLINICA GERAL,30-44,alto,Poisson,20.6
+internacao,2026-07-01,CLINICA GERAL,45-59,alto,Poisson,20.8
+internacao,2026-07-01,CLINICA GERAL,60-74,alto,Poisson,28.0
+internacao,2026-07-01,CLINICA GERAL,75+,alto,Poisson,13.1
+internacao,2026-07-01,DERMATOLOGIA,0-14,medio,Poisson,0.3
+internacao,2026-07-01,DERMATOLOGIA,15-29,medio,Poisson,0.3
+internacao,2026-07-01,DERMATOLOGIA,30-44,medio,Poisson,0.8
+internacao,2026-07-01,DERMATOLOGIA,45-59,medio,Poisson,0.3
+internacao,2026-07-01,DERMATOLOGIA,60-74,medio,Poisson,0.5
+internacao,2026-07-01,DERMATOLOGIA,75+,medio,Poisson,0.4
+internacao,2026-07-01,ENDOCRINOLOGIA,0-14,baixo,Poisson,0.1
+internacao,2026-07-01,ENDOCRINOLOGIA,15-29,medio,Poisson,0.4
+internacao,2026-07-01,ENDOCRINOLOGIA,30-44,medio,Poisson,0.3
+internacao,2026-07-01,ENDOCRINOLOGIA,45-59,medio,Poisson,0.2
+internacao,2026-07-01,ENDOCRINOLOGIA,60-74,medio,Poisson,0.3
+internacao,2026-07-01,ENDOCRINOLOGIA,75+,baixo,Poisson,0.2
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,0-14,medio,Poisson,0.1
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,15-29,medio,Poisson,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.1
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.1
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.1
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,75+,baixo,Poisson,0.1
+internacao,2026-07-01,GASTROENTEROLOGIA,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,GASTROENTEROLOGIA,15-29,alto,Poisson,1.1
+internacao,2026-07-01,GASTROENTEROLOGIA,30-44,alto,Poisson,3.4
+internacao,2026-07-01,GASTROENTEROLOGIA,45-59,alto,Poisson,5.4
+internacao,2026-07-01,GASTROENTEROLOGIA,60-74,alto,Poisson,27.0
+internacao,2026-07-01,GASTROENTEROLOGIA,75+,alto,Poisson,4.4
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,0-14,alto,Poisson,7.9
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,15-29,medio,Poisson,0.6
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,30-44,baixo,Poisson,0.3
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,45-59,baixo,Poisson,0.3
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,60-74,baixo,Poisson,0.3
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,75+,baixo,Poisson,0.3
+internacao,2026-07-01,GERIATRIA,0-14,baixo,Poisson,0.0
+internacao,2026-07-01,GERIATRIA,15-29,baixo,Poisson,0.0
+internacao,2026-07-01,GERIATRIA,30-44,baixo,Poisson,0.0
+internacao,2026-07-01,GERIATRIA,45-59,baixo,Poisson,0.0
+internacao,2026-07-01,GERIATRIA,60-74,baixo,Poisson,0.0
+internacao,2026-07-01,GERIATRIA,75+,baixo,Poisson,0.0
+internacao,2026-07-01,HEMATOLOGIA,0-14,baixo,Poisson,0.2
+internacao,2026-07-01,HEMATOLOGIA,15-29,medio,Poisson,0.7
+internacao,2026-07-01,HEMATOLOGIA,30-44,medio,Poisson,1.2
+internacao,2026-07-01,HEMATOLOGIA,45-59,medio,Poisson,1.6
+internacao,2026-07-01,HEMATOLOGIA,60-74,medio,Poisson,0.5
+internacao,2026-07-01,HEMATOLOGIA,75+,medio,Poisson,0.3
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,0-14,medio,Poisson,0.3
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,15-29,baixo,Poisson,0.2
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.1
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.1
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.1
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,75+,baixo,Poisson,0.1
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,0-14,medio,Poisson,0.1
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,15-29,baixo,Poisson,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.1
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,75+,baixo,Poisson,0.1
+internacao,2026-07-01,MASTOLOGIA,0-14,baixo,Poisson,0.4
+internacao,2026-07-01,MASTOLOGIA,15-29,alto,Poisson,2.6
+internacao,2026-07-01,MASTOLOGIA,30-44,alto,Poisson,1.2
+internacao,2026-07-01,MASTOLOGIA,45-59,medio,Poisson,2.2
+internacao,2026-07-01,MASTOLOGIA,60-74,medio,Poisson,0.7
+internacao,2026-07-01,MASTOLOGIA,75+,medio,Poisson,0.3
+internacao,2026-07-01,MEDICINA INTENSIVA,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,MEDICINA INTENSIVA,15-29,medio,Poisson,0.3
+internacao,2026-07-01,MEDICINA INTENSIVA,30-44,medio,Poisson,0.5
+internacao,2026-07-01,MEDICINA INTENSIVA,45-59,medio,Poisson,0.8
+internacao,2026-07-01,MEDICINA INTENSIVA,60-74,alto,Poisson,1.1
+internacao,2026-07-01,MEDICINA INTENSIVA,75+,medio,Poisson,0.6
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,0-14,baixo,Poisson,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,15-29,medio,Poisson,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,30-44,medio,Poisson,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,45-59,medio,Poisson,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,60-74,medio,Poisson,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,75+,medio,Poisson,0.1
+internacao,2026-07-01,NEFROLOGIA,0-14,medio,Poisson,0.3
+internacao,2026-07-01,NEFROLOGIA,15-29,alto,Poisson,4.7
+internacao,2026-07-01,NEFROLOGIA,30-44,alto,Poisson,5.1
+internacao,2026-07-01,NEFROLOGIA,45-59,alto,Poisson,4.0
+internacao,2026-07-01,NEFROLOGIA,60-74,alto,Poisson,1.7
+internacao,2026-07-01,NEFROLOGIA,75+,medio,Poisson,1.3
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,0-14,alto,Poisson,5.9
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,15-29,medio,Poisson,0.5
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,30-44,baixo,Poisson,0.2
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,45-59,baixo,Poisson,0.3
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,60-74,baixo,Poisson,0.3
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,75+,baixo,Poisson,0.3
+internacao,2026-07-01,NEUROCIRURGIA,0-14,medio,Poisson,1.2
+internacao,2026-07-01,NEUROCIRURGIA,15-29,alto,Poisson,2.0
+internacao,2026-07-01,NEUROCIRURGIA,30-44,alto,Poisson,2.9
+internacao,2026-07-01,NEUROCIRURGIA,45-59,alto,Poisson,4.6
+internacao,2026-07-01,NEUROCIRURGIA,60-74,alto,Poisson,3.1
+internacao,2026-07-01,NEUROCIRURGIA,75+,medio,Poisson,1.0
+internacao,2026-07-01,NEUROLOGIA,0-14,medio,Poisson,0.3
+internacao,2026-07-01,NEUROLOGIA,15-29,alto,Poisson,1.1
+internacao,2026-07-01,NEUROLOGIA,30-44,alto,Poisson,1.6
+internacao,2026-07-01,NEUROLOGIA,45-59,alto,Poisson,1.0
+internacao,2026-07-01,NEUROLOGIA,60-74,alto,Poisson,3.0
+internacao,2026-07-01,NEUROLOGIA,75+,medio,Poisson,0.6
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,0-14,medio,Poisson,0.3
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,15-29,medio,Poisson,0.1
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,30-44,baixo,Poisson,0.1
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,45-59,baixo,Poisson,0.1
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,60-74,baixo,Poisson,0.1
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,75+,baixo,Poisson,0.1
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,0-14,medio,Poisson,0.3
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,15-29,alto,Poisson,5.4
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,30-44,alto,Poisson,2.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,45-59,alto,Poisson,1.6
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,60-74,medio,Poisson,1.1
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,75+,medio,Poisson,0.5
+internacao,2026-07-01,ODONTOLOGIA CLINICA,0-14,medio,Poisson,0.1
+internacao,2026-07-01,ODONTOLOGIA CLINICA,15-29,baixo,Poisson,0.1
+internacao,2026-07-01,ODONTOLOGIA CLINICA,30-44,baixo,Poisson,0.1
+internacao,2026-07-01,ODONTOLOGIA CLINICA,45-59,baixo,Poisson,0.1
+internacao,2026-07-01,ODONTOLOGIA CLINICA,60-74,medio,Poisson,0.1
+internacao,2026-07-01,ODONTOLOGIA CLINICA,75+,baixo,Poisson,0.1
+internacao,2026-07-01,OFTALMOLOGIA,0-14,medio,Poisson,0.7
+internacao,2026-07-01,OFTALMOLOGIA,15-29,medio,Poisson,1.1
+internacao,2026-07-01,OFTALMOLOGIA,30-44,medio,Poisson,1.0
+internacao,2026-07-01,OFTALMOLOGIA,45-59,alto,Poisson,1.8
+internacao,2026-07-01,OFTALMOLOGIA,60-74,alto,Poisson,3.0
+internacao,2026-07-01,OFTALMOLOGIA,75+,medio,Poisson,1.1
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,0-14,medio,Poisson,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,15-29,baixo,Poisson,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,30-44,baixo,Poisson,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,45-59,baixo,Poisson,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,60-74,baixo,Poisson,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,75+,baixo,Poisson,0.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,ONCOLOGIA CLINICA,15-29,medio,Poisson,1.4
+internacao,2026-07-01,ONCOLOGIA CLINICA,30-44,alto,Poisson,3.1
+internacao,2026-07-01,ONCOLOGIA CLINICA,45-59,alto,Poisson,6.3
+internacao,2026-07-01,ONCOLOGIA CLINICA,60-74,alto,Poisson,18.1
+internacao,2026-07-01,ONCOLOGIA CLINICA,75+,alto,Poisson,4.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,15-29,medio,Poisson,0.7
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,30-44,medio,Poisson,1.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,45-59,medio,Poisson,0.5
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,60-74,alto,Poisson,1.4
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,75+,medio,Poisson,1.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,0-14,alto,Poisson,0.9
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,15-29,alto,Poisson,8.1
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,30-44,alto,Poisson,11.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,45-59,alto,Poisson,4.2
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,60-74,alto,Poisson,3.6
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,75+,medio,Poisson,0.5
+internacao,2026-07-01,PEDIATRIA,0-14,alto,Poisson,26.0
+internacao,2026-07-01,PEDIATRIA,15-29,alto,Poisson,1.4
+internacao,2026-07-01,PEDIATRIA,30-44,baixo,Poisson,0.3
+internacao,2026-07-01,PEDIATRIA,45-59,baixo,Poisson,0.3
+internacao,2026-07-01,PEDIATRIA,60-74,baixo,Poisson,0.3
+internacao,2026-07-01,PEDIATRIA,75+,baixo,Poisson,0.3
+internacao,2026-07-01,PNEUMOLOGIA,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,PNEUMOLOGIA,15-29,medio,Poisson,1.0
+internacao,2026-07-01,PNEUMOLOGIA,30-44,medio,Poisson,0.6
+internacao,2026-07-01,PNEUMOLOGIA,45-59,alto,Poisson,1.6
+internacao,2026-07-01,PNEUMOLOGIA,60-74,alto,Poisson,1.1
+internacao,2026-07-01,PNEUMOLOGIA,75+,medio,Poisson,0.5
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,0-14,medio,Poisson,0.2
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,15-29,baixo,Poisson,0.1
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.1
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.1
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.1
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,75+,baixo,Poisson,0.1
+internacao,2026-07-01,POS-TRANSPLANTE,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,POS-TRANSPLANTE,15-29,alto,Poisson,3.0
+internacao,2026-07-01,POS-TRANSPLANTE,30-44,alto,Poisson,8.1
+internacao,2026-07-01,POS-TRANSPLANTE,45-59,alto,Poisson,9.1
+internacao,2026-07-01,POS-TRANSPLANTE,60-74,alto,Poisson,5.8
+internacao,2026-07-01,POS-TRANSPLANTE,75+,medio,Poisson,0.9
+internacao,2026-07-01,PRE-TRANSPLANTE,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,PRE-TRANSPLANTE,15-29,medio,Poisson,0.8
+internacao,2026-07-01,PRE-TRANSPLANTE,30-44,alto,Poisson,1.7
+internacao,2026-07-01,PRE-TRANSPLANTE,45-59,alto,Poisson,2.5
+internacao,2026-07-01,PRE-TRANSPLANTE,60-74,medio,Poisson,1.2
+internacao,2026-07-01,PRE-TRANSPLANTE,75+,baixo,Poisson,0.3
+internacao,2026-07-01,PROCTOLOGIA,0-14,medio,Poisson,0.3
+internacao,2026-07-01,PROCTOLOGIA,15-29,medio,Poisson,2.2
+internacao,2026-07-01,PROCTOLOGIA,30-44,alto,Poisson,3.3
+internacao,2026-07-01,PROCTOLOGIA,45-59,alto,Poisson,4.2
+internacao,2026-07-01,PROCTOLOGIA,60-74,alto,Poisson,3.0
+internacao,2026-07-01,PROCTOLOGIA,75+,medio,Poisson,0.5
+internacao,2026-07-01,PSIQUIATRIA,0-14,baixo,Poisson,0.3
+internacao,2026-07-01,PSIQUIATRIA,15-29,alto,Poisson,1.7
+internacao,2026-07-01,PSIQUIATRIA,30-44,alto,Poisson,1.5
+internacao,2026-07-01,PSIQUIATRIA,45-59,medio,Poisson,2.3
+internacao,2026-07-01,PSIQUIATRIA,60-74,medio,Poisson,1.2
+internacao,2026-07-01,PSIQUIATRIA,75+,medio,Poisson,0.3
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,0-14,baixo,Poisson,0.1
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,15-29,baixo,Poisson,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,30-44,baixo,Poisson,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,45-59,baixo,Poisson,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,60-74,baixo,Poisson,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,75+,baixo,Poisson,0.0
+internacao,2026-07-01,REUMATOLOGIA,0-14,baixo,Poisson,0.2
+internacao,2026-07-01,REUMATOLOGIA,15-29,medio,Poisson,0.9
+internacao,2026-07-01,REUMATOLOGIA,30-44,medio,Poisson,0.9
+internacao,2026-07-01,REUMATOLOGIA,45-59,medio,Poisson,0.8
+internacao,2026-07-01,REUMATOLOGIA,60-74,medio,Poisson,0.3
+internacao,2026-07-01,REUMATOLOGIA,75+,medio,Poisson,0.3
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,0-14,alto,Poisson,0.9
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,15-29,medio,Poisson,0.2
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,30-44,baixo,Poisson,0.2
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,45-59,baixo,Poisson,0.2
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,60-74,baixo,Poisson,0.2
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,75+,baixo,Poisson,0.2
+internacao,2026-07-01,UROLOGIA,0-14,alto,Poisson,5.1
+internacao,2026-07-01,UROLOGIA,15-29,alto,Poisson,4.3
+internacao,2026-07-01,UROLOGIA,30-44,alto,Poisson,8.6
+internacao,2026-07-01,UROLOGIA,45-59,alto,Poisson,10.1
+internacao,2026-07-01,UROLOGIA,60-74,alto,Poisson,16.5
+internacao,2026-07-01,UROLOGIA,75+,alto,Poisson,7.1
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,0-14,medio,Random Forest,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,15-29,baixo,Random Forest,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,CARDIOLOGIA,0-14,medio,Random Forest,0.3
+internacao,2026-07-01,CARDIOLOGIA,15-29,alto,Random Forest,2.2
+internacao,2026-07-01,CARDIOLOGIA,30-44,alto,Random Forest,7.0
+internacao,2026-07-01,CARDIOLOGIA,45-59,alto,Random Forest,20.3
+internacao,2026-07-01,CARDIOLOGIA,60-74,alto,Random Forest,22.7
+internacao,2026-07-01,CARDIOLOGIA,75+,alto,Random Forest,7.3
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,0-14,medio,Random Forest,0.5
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,15-29,medio,Random Forest,0.1
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA BARIATRICA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA BARIATRICA,15-29,medio,Random Forest,0.9
+internacao,2026-07-01,CIRURGIA BARIATRICA,30-44,alto,Random Forest,7.6
+internacao,2026-07-01,CIRURGIA BARIATRICA,45-59,alto,Random Forest,6.6
+internacao,2026-07-01,CIRURGIA BARIATRICA,60-74,medio,Random Forest,1.8
+internacao,2026-07-01,CIRURGIA BARIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,0-14,baixo,Random Forest,0.1
+internacao,2026-07-01,CIRURGIA CARDIACA,15-29,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,45-59,medio,Random Forest,0.3
+internacao,2026-07-01,CIRURGIA CARDIACA,60-74,baixo,Random Forest,0.1
+internacao,2026-07-01,CIRURGIA CARDIACA,75+,baixo,Random Forest,0.1
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,15-29,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,30-44,medio,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,45-59,medio,Random Forest,0.5
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,60-74,medio,Random Forest,0.6
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,75+,medio,Random Forest,0.1
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,15-29,medio,Random Forest,0.5
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,30-44,alto,Random Forest,2.7
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,45-59,alto,Random Forest,4.1
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,60-74,alto,Random Forest,5.8
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,75+,alto,Random Forest,4.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,15-29,medio,Random Forest,1.5
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,30-44,alto,Random Forest,4.4
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,45-59,alto,Random Forest,4.6
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,60-74,alto,Random Forest,5.5
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,75+,alto,Random Forest,1.8
+internacao,2026-07-01,CIRURGIA GERAL,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA GERAL,15-29,alto,Random Forest,2.2
+internacao,2026-07-01,CIRURGIA GERAL,30-44,alto,Random Forest,11.0
+internacao,2026-07-01,CIRURGIA GERAL,45-59,alto,Random Forest,14.5
+internacao,2026-07-01,CIRURGIA GERAL,60-74,alto,Random Forest,7.5
+internacao,2026-07-01,CIRURGIA GERAL,75+,alto,Random Forest,2.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,15-29,medio,Random Forest,1.8
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,30-44,alto,Random Forest,2.8
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,45-59,alto,Random Forest,8.5
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,60-74,alto,Random Forest,7.9
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,75+,alto,Random Forest,5.6
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,0-14,alto,Random Forest,2.9
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,15-29,medio,Random Forest,0.7
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA PLASTICA,0-14,medio,Random Forest,0.5
+internacao,2026-07-01,CIRURGIA PLASTICA,15-29,alto,Random Forest,3.5
+internacao,2026-07-01,CIRURGIA PLASTICA,30-44,alto,Random Forest,7.7
+internacao,2026-07-01,CIRURGIA PLASTICA,45-59,alto,Random Forest,3.4
+internacao,2026-07-01,CIRURGIA PLASTICA,60-74,alto,Random Forest,1.9
+internacao,2026-07-01,CIRURGIA PLASTICA,75+,medio,Random Forest,1.0
+internacao,2026-07-01,CIRURGIA TORACICA,0-14,medio,Random Forest,0.0
+internacao,2026-07-01,CIRURGIA TORACICA,15-29,alto,Random Forest,2.7
+internacao,2026-07-01,CIRURGIA TORACICA,30-44,medio,Random Forest,1.3
+internacao,2026-07-01,CIRURGIA TORACICA,45-59,alto,Random Forest,1.6
+internacao,2026-07-01,CIRURGIA TORACICA,60-74,alto,Random Forest,2.2
+internacao,2026-07-01,CIRURGIA TORACICA,75+,medio,Random Forest,0.8
+internacao,2026-07-01,CIRURGIA VASCULAR,0-14,medio,Random Forest,0.3
+internacao,2026-07-01,CIRURGIA VASCULAR,15-29,medio,Random Forest,0.1
+internacao,2026-07-01,CIRURGIA VASCULAR,30-44,alto,Random Forest,3.6
+internacao,2026-07-01,CIRURGIA VASCULAR,45-59,alto,Random Forest,6.0
+internacao,2026-07-01,CIRURGIA VASCULAR,60-74,alto,Random Forest,9.1
+internacao,2026-07-01,CIRURGIA VASCULAR,75+,alto,Random Forest,5.5
+internacao,2026-07-01,CLINICA GERAL,0-14,baixo,Random Forest,2.4
+internacao,2026-07-01,CLINICA GERAL,15-29,alto,Random Forest,5.0
+internacao,2026-07-01,CLINICA GERAL,30-44,alto,Random Forest,14.6
+internacao,2026-07-01,CLINICA GERAL,45-59,alto,Random Forest,18.5
+internacao,2026-07-01,CLINICA GERAL,60-74,alto,Random Forest,20.7
+internacao,2026-07-01,CLINICA GERAL,75+,alto,Random Forest,10.5
+internacao,2026-07-01,DERMATOLOGIA,0-14,medio,Random Forest,0.2
+internacao,2026-07-01,DERMATOLOGIA,15-29,medio,Random Forest,0.5
+internacao,2026-07-01,DERMATOLOGIA,30-44,medio,Random Forest,0.9
+internacao,2026-07-01,DERMATOLOGIA,45-59,medio,Random Forest,0.2
+internacao,2026-07-01,DERMATOLOGIA,60-74,medio,Random Forest,0.4
+internacao,2026-07-01,DERMATOLOGIA,75+,medio,Random Forest,0.4
+internacao,2026-07-01,ENDOCRINOLOGIA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA,15-29,medio,Random Forest,0.8
+internacao,2026-07-01,ENDOCRINOLOGIA,30-44,medio,Random Forest,0.5
+internacao,2026-07-01,ENDOCRINOLOGIA,45-59,medio,Random Forest,0.3
+internacao,2026-07-01,ENDOCRINOLOGIA,60-74,medio,Random Forest,0.3
+internacao,2026-07-01,ENDOCRINOLOGIA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,0-14,medio,Random Forest,0.1
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,15-29,medio,Random Forest,0.1
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA,15-29,alto,Random Forest,1.6
+internacao,2026-07-01,GASTROENTEROLOGIA,30-44,alto,Random Forest,3.3
+internacao,2026-07-01,GASTROENTEROLOGIA,45-59,alto,Random Forest,6.4
+internacao,2026-07-01,GASTROENTEROLOGIA,60-74,alto,Random Forest,25.0
+internacao,2026-07-01,GASTROENTEROLOGIA,75+,alto,Random Forest,7.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,0-14,alto,Random Forest,8.5
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,15-29,medio,Random Forest,0.5
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,GERIATRIA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,GERIATRIA,15-29,baixo,Random Forest,0.0
+internacao,2026-07-01,GERIATRIA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,GERIATRIA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,GERIATRIA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,GERIATRIA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,HEMATOLOGIA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,HEMATOLOGIA,15-29,medio,Random Forest,0.6
+internacao,2026-07-01,HEMATOLOGIA,30-44,medio,Random Forest,1.3
+internacao,2026-07-01,HEMATOLOGIA,45-59,medio,Random Forest,2.5
+internacao,2026-07-01,HEMATOLOGIA,60-74,medio,Random Forest,1.1
+internacao,2026-07-01,HEMATOLOGIA,75+,medio,Random Forest,0.6
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,0-14,medio,Random Forest,0.6
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,15-29,baixo,Random Forest,0.1
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,0-14,medio,Random Forest,0.6
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,15-29,baixo,Random Forest,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,MASTOLOGIA,0-14,baixo,Random Forest,0.1
+internacao,2026-07-01,MASTOLOGIA,15-29,alto,Random Forest,2.3
+internacao,2026-07-01,MASTOLOGIA,30-44,alto,Random Forest,2.1
+internacao,2026-07-01,MASTOLOGIA,45-59,medio,Random Forest,2.1
+internacao,2026-07-01,MASTOLOGIA,60-74,medio,Random Forest,0.8
+internacao,2026-07-01,MASTOLOGIA,75+,medio,Random Forest,0.1
+internacao,2026-07-01,MEDICINA INTENSIVA,0-14,baixo,Random Forest,0.3
+internacao,2026-07-01,MEDICINA INTENSIVA,15-29,medio,Random Forest,0.5
+internacao,2026-07-01,MEDICINA INTENSIVA,30-44,medio,Random Forest,0.6
+internacao,2026-07-01,MEDICINA INTENSIVA,45-59,medio,Random Forest,1.3
+internacao,2026-07-01,MEDICINA INTENSIVA,60-74,alto,Random Forest,1.2
+internacao,2026-07-01,MEDICINA INTENSIVA,75+,medio,Random Forest,0.5
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,0-14,baixo,Random Forest,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,15-29,medio,Random Forest,0.2
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,30-44,medio,Random Forest,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,45-59,medio,Random Forest,0.2
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,60-74,medio,Random Forest,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,75+,medio,Random Forest,0.1
+internacao,2026-07-01,NEFROLOGIA,0-14,medio,Random Forest,0.1
+internacao,2026-07-01,NEFROLOGIA,15-29,alto,Random Forest,4.1
+internacao,2026-07-01,NEFROLOGIA,30-44,alto,Random Forest,6.0
+internacao,2026-07-01,NEFROLOGIA,45-59,alto,Random Forest,3.6
+internacao,2026-07-01,NEFROLOGIA,60-74,alto,Random Forest,2.5
+internacao,2026-07-01,NEFROLOGIA,75+,medio,Random Forest,0.9
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,0-14,alto,Random Forest,6.6
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,15-29,medio,Random Forest,0.3
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,NEUROCIRURGIA,0-14,medio,Random Forest,0.7
+internacao,2026-07-01,NEUROCIRURGIA,15-29,alto,Random Forest,1.3
+internacao,2026-07-01,NEUROCIRURGIA,30-44,alto,Random Forest,3.2
+internacao,2026-07-01,NEUROCIRURGIA,45-59,alto,Random Forest,5.8
+internacao,2026-07-01,NEUROCIRURGIA,60-74,alto,Random Forest,4.0
+internacao,2026-07-01,NEUROCIRURGIA,75+,medio,Random Forest,0.7
+internacao,2026-07-01,NEUROLOGIA,0-14,medio,Random Forest,0.0
+internacao,2026-07-01,NEUROLOGIA,15-29,alto,Random Forest,1.3
+internacao,2026-07-01,NEUROLOGIA,30-44,alto,Random Forest,1.9
+internacao,2026-07-01,NEUROLOGIA,45-59,alto,Random Forest,1.6
+internacao,2026-07-01,NEUROLOGIA,60-74,alto,Random Forest,2.6
+internacao,2026-07-01,NEUROLOGIA,75+,medio,Random Forest,0.9
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,0-14,medio,Random Forest,0.6
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,15-29,medio,Random Forest,0.2
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,0-14,medio,Random Forest,0.4
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,15-29,alto,Random Forest,6.7
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,30-44,alto,Random Forest,2.4
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,45-59,alto,Random Forest,2.8
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,60-74,medio,Random Forest,1.7
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,75+,medio,Random Forest,0.4
+internacao,2026-07-01,ODONTOLOGIA CLINICA,0-14,medio,Random Forest,0.4
+internacao,2026-07-01,ODONTOLOGIA CLINICA,15-29,baixo,Random Forest,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,60-74,medio,Random Forest,0.2
+internacao,2026-07-01,ODONTOLOGIA CLINICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,OFTALMOLOGIA,0-14,medio,Random Forest,1.0
+internacao,2026-07-01,OFTALMOLOGIA,15-29,medio,Random Forest,1.1
+internacao,2026-07-01,OFTALMOLOGIA,30-44,medio,Random Forest,1.3
+internacao,2026-07-01,OFTALMOLOGIA,45-59,alto,Random Forest,2.1
+internacao,2026-07-01,OFTALMOLOGIA,60-74,alto,Random Forest,3.8
+internacao,2026-07-01,OFTALMOLOGIA,75+,medio,Random Forest,0.9
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,0-14,medio,Random Forest,0.2
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,15-29,baixo,Random Forest,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,15-29,medio,Random Forest,1.5
+internacao,2026-07-01,ONCOLOGIA CLINICA,30-44,alto,Random Forest,3.4
+internacao,2026-07-01,ONCOLOGIA CLINICA,45-59,alto,Random Forest,7.6
+internacao,2026-07-01,ONCOLOGIA CLINICA,60-74,alto,Random Forest,14.7
+internacao,2026-07-01,ONCOLOGIA CLINICA,75+,alto,Random Forest,5.7
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,15-29,medio,Random Forest,0.8
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,30-44,medio,Random Forest,1.1
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,45-59,medio,Random Forest,0.8
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,60-74,alto,Random Forest,1.6
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,75+,medio,Random Forest,1.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,0-14,alto,Random Forest,1.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,15-29,alto,Random Forest,9.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,30-44,alto,Random Forest,9.2
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,45-59,alto,Random Forest,5.4
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,60-74,alto,Random Forest,4.5
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,75+,medio,Random Forest,0.4
+internacao,2026-07-01,PEDIATRIA,0-14,alto,Random Forest,33.2
+internacao,2026-07-01,PEDIATRIA,15-29,alto,Random Forest,2.0
+internacao,2026-07-01,PEDIATRIA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,PEDIATRIA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,PEDIATRIA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,PEDIATRIA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,PNEUMOLOGIA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,PNEUMOLOGIA,15-29,medio,Random Forest,0.9
+internacao,2026-07-01,PNEUMOLOGIA,30-44,medio,Random Forest,0.9
+internacao,2026-07-01,PNEUMOLOGIA,45-59,alto,Random Forest,2.2
+internacao,2026-07-01,PNEUMOLOGIA,60-74,alto,Random Forest,1.3
+internacao,2026-07-01,PNEUMOLOGIA,75+,medio,Random Forest,0.6
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,0-14,medio,Random Forest,0.6
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,15-29,baixo,Random Forest,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,POS-TRANSPLANTE,0-14,baixo,Random Forest,0.1
+internacao,2026-07-01,POS-TRANSPLANTE,15-29,alto,Random Forest,2.4
+internacao,2026-07-01,POS-TRANSPLANTE,30-44,alto,Random Forest,8.6
+internacao,2026-07-01,POS-TRANSPLANTE,45-59,alto,Random Forest,11.0
+internacao,2026-07-01,POS-TRANSPLANTE,60-74,alto,Random Forest,7.3
+internacao,2026-07-01,POS-TRANSPLANTE,75+,medio,Random Forest,1.0
+internacao,2026-07-01,PRE-TRANSPLANTE,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,PRE-TRANSPLANTE,15-29,medio,Random Forest,0.8
+internacao,2026-07-01,PRE-TRANSPLANTE,30-44,alto,Random Forest,2.7
+internacao,2026-07-01,PRE-TRANSPLANTE,45-59,alto,Random Forest,2.2
+internacao,2026-07-01,PRE-TRANSPLANTE,60-74,medio,Random Forest,3.2
+internacao,2026-07-01,PRE-TRANSPLANTE,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,PROCTOLOGIA,0-14,medio,Random Forest,0.1
+internacao,2026-07-01,PROCTOLOGIA,15-29,medio,Random Forest,2.6
+internacao,2026-07-01,PROCTOLOGIA,30-44,alto,Random Forest,3.4
+internacao,2026-07-01,PROCTOLOGIA,45-59,alto,Random Forest,4.0
+internacao,2026-07-01,PROCTOLOGIA,60-74,alto,Random Forest,4.8
+internacao,2026-07-01,PROCTOLOGIA,75+,medio,Random Forest,0.3
+internacao,2026-07-01,PSIQUIATRIA,0-14,baixo,Random Forest,0.1
+internacao,2026-07-01,PSIQUIATRIA,15-29,alto,Random Forest,2.5
+internacao,2026-07-01,PSIQUIATRIA,30-44,alto,Random Forest,2.2
+internacao,2026-07-01,PSIQUIATRIA,45-59,medio,Random Forest,1.8
+internacao,2026-07-01,PSIQUIATRIA,60-74,medio,Random Forest,1.3
+internacao,2026-07-01,PSIQUIATRIA,75+,medio,Random Forest,0.2
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,0-14,baixo,Random Forest,0.3
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,15-29,baixo,Random Forest,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,REUMATOLOGIA,0-14,baixo,Random Forest,0.0
+internacao,2026-07-01,REUMATOLOGIA,15-29,medio,Random Forest,1.6
+internacao,2026-07-01,REUMATOLOGIA,30-44,medio,Random Forest,1.6
+internacao,2026-07-01,REUMATOLOGIA,45-59,medio,Random Forest,1.5
+internacao,2026-07-01,REUMATOLOGIA,60-74,medio,Random Forest,0.1
+internacao,2026-07-01,REUMATOLOGIA,75+,medio,Random Forest,0.1
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,0-14,alto,Random Forest,1.1
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,15-29,medio,Random Forest,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,30-44,baixo,Random Forest,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,45-59,baixo,Random Forest,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,60-74,baixo,Random Forest,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,75+,baixo,Random Forest,0.0
+internacao,2026-07-01,UROLOGIA,0-14,alto,Random Forest,3.8
+internacao,2026-07-01,UROLOGIA,15-29,alto,Random Forest,2.8
+internacao,2026-07-01,UROLOGIA,30-44,alto,Random Forest,8.6
+internacao,2026-07-01,UROLOGIA,45-59,alto,Random Forest,12.4
+internacao,2026-07-01,UROLOGIA,60-74,alto,Random Forest,23.0
+internacao,2026-07-01,UROLOGIA,75+,alto,Random Forest,7.4
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,0-14,medio,Gradient Boosting,0.2
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,15-29,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ALERGOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CARDIOLOGIA,0-14,medio,Gradient Boosting,0.4
+internacao,2026-07-01,CARDIOLOGIA,15-29,alto,Gradient Boosting,2.0
+internacao,2026-07-01,CARDIOLOGIA,30-44,alto,Gradient Boosting,7.1
+internacao,2026-07-01,CARDIOLOGIA,45-59,alto,Gradient Boosting,22.5
+internacao,2026-07-01,CARDIOLOGIA,60-74,alto,Gradient Boosting,25.6
+internacao,2026-07-01,CARDIOLOGIA,75+,alto,Gradient Boosting,7.9
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,0-14,medio,Gradient Boosting,0.6
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CARDIOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA BARIATRICA,0-14,baixo,Gradient Boosting,0.1
+internacao,2026-07-01,CIRURGIA BARIATRICA,15-29,medio,Gradient Boosting,0.9
+internacao,2026-07-01,CIRURGIA BARIATRICA,30-44,alto,Gradient Boosting,8.5
+internacao,2026-07-01,CIRURGIA BARIATRICA,45-59,alto,Gradient Boosting,6.3
+internacao,2026-07-01,CIRURGIA BARIATRICA,60-74,medio,Gradient Boosting,2.3
+internacao,2026-07-01,CIRURGIA BARIATRICA,75+,baixo,Gradient Boosting,0.1
+internacao,2026-07-01,CIRURGIA CARDIACA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,15-29,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,45-59,medio,Gradient Boosting,0.1
+internacao,2026-07-01,CIRURGIA CARDIACA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA CARDIACA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,15-29,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,30-44,medio,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,45-59,medio,Gradient Boosting,0.6
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,60-74,medio,Gradient Boosting,0.8
+internacao,2026-07-01,CIRURGIA CARDIOVASCULAR,75+,medio,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,15-29,medio,Gradient Boosting,0.7
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,30-44,alto,Gradient Boosting,2.5
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,45-59,alto,Gradient Boosting,4.0
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,60-74,alto,Gradient Boosting,5.9
+internacao,2026-07-01,CIRURGIA DE CABECA E PESCOCO,75+,alto,Gradient Boosting,3.9
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,0-14,baixo,Gradient Boosting,0.1
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,15-29,medio,Gradient Boosting,1.6
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,30-44,alto,Gradient Boosting,4.0
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,45-59,alto,Gradient Boosting,5.5
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,60-74,alto,Gradient Boosting,5.1
+internacao,2026-07-01,CIRURGIA DO APARELHO DIGESTIVO,75+,alto,Gradient Boosting,1.9
+internacao,2026-07-01,CIRURGIA GERAL,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA GERAL,15-29,alto,Gradient Boosting,1.7
+internacao,2026-07-01,CIRURGIA GERAL,30-44,alto,Gradient Boosting,10.2
+internacao,2026-07-01,CIRURGIA GERAL,45-59,alto,Gradient Boosting,14.0
+internacao,2026-07-01,CIRURGIA GERAL,60-74,alto,Gradient Boosting,7.5
+internacao,2026-07-01,CIRURGIA GERAL,75+,alto,Gradient Boosting,1.7
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,15-29,medio,Gradient Boosting,0.8
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,30-44,alto,Gradient Boosting,2.7
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,45-59,alto,Gradient Boosting,8.4
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,60-74,alto,Gradient Boosting,7.9
+internacao,2026-07-01,CIRURGIA ONCOLOGICA,75+,alto,Gradient Boosting,5.8
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,0-14,alto,Gradient Boosting,3.8
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,15-29,medio,Gradient Boosting,0.8
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA PEDIATRICA GERAL,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA PLASTICA,0-14,medio,Gradient Boosting,0.6
+internacao,2026-07-01,CIRURGIA PLASTICA,15-29,alto,Gradient Boosting,3.1
+internacao,2026-07-01,CIRURGIA PLASTICA,30-44,alto,Gradient Boosting,6.1
+internacao,2026-07-01,CIRURGIA PLASTICA,45-59,alto,Gradient Boosting,3.3
+internacao,2026-07-01,CIRURGIA PLASTICA,60-74,alto,Gradient Boosting,1.3
+internacao,2026-07-01,CIRURGIA PLASTICA,75+,medio,Gradient Boosting,0.9
+internacao,2026-07-01,CIRURGIA TORACICA,0-14,medio,Gradient Boosting,0.0
+internacao,2026-07-01,CIRURGIA TORACICA,15-29,alto,Gradient Boosting,2.1
+internacao,2026-07-01,CIRURGIA TORACICA,30-44,medio,Gradient Boosting,1.2
+internacao,2026-07-01,CIRURGIA TORACICA,45-59,alto,Gradient Boosting,1.8
+internacao,2026-07-01,CIRURGIA TORACICA,60-74,alto,Gradient Boosting,2.4
+internacao,2026-07-01,CIRURGIA TORACICA,75+,medio,Gradient Boosting,0.7
+internacao,2026-07-01,CIRURGIA VASCULAR,0-14,medio,Gradient Boosting,0.1
+internacao,2026-07-01,CIRURGIA VASCULAR,15-29,medio,Gradient Boosting,0.3
+internacao,2026-07-01,CIRURGIA VASCULAR,30-44,alto,Gradient Boosting,3.5
+internacao,2026-07-01,CIRURGIA VASCULAR,45-59,alto,Gradient Boosting,7.3
+internacao,2026-07-01,CIRURGIA VASCULAR,60-74,alto,Gradient Boosting,8.7
+internacao,2026-07-01,CIRURGIA VASCULAR,75+,alto,Gradient Boosting,5.8
+internacao,2026-07-01,CLINICA GERAL,0-14,baixo,Gradient Boosting,1.3
+internacao,2026-07-01,CLINICA GERAL,15-29,alto,Gradient Boosting,6.4
+internacao,2026-07-01,CLINICA GERAL,30-44,alto,Gradient Boosting,16.3
+internacao,2026-07-01,CLINICA GERAL,45-59,alto,Gradient Boosting,21.3
+internacao,2026-07-01,CLINICA GERAL,60-74,alto,Gradient Boosting,21.8
+internacao,2026-07-01,CLINICA GERAL,75+,alto,Gradient Boosting,13.4
+internacao,2026-07-01,DERMATOLOGIA,0-14,medio,Gradient Boosting,0.2
+internacao,2026-07-01,DERMATOLOGIA,15-29,medio,Gradient Boosting,0.2
+internacao,2026-07-01,DERMATOLOGIA,30-44,medio,Gradient Boosting,0.9
+internacao,2026-07-01,DERMATOLOGIA,45-59,medio,Gradient Boosting,0.2
+internacao,2026-07-01,DERMATOLOGIA,60-74,medio,Gradient Boosting,0.8
+internacao,2026-07-01,DERMATOLOGIA,75+,medio,Gradient Boosting,0.4
+internacao,2026-07-01,ENDOCRINOLOGIA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA,15-29,medio,Gradient Boosting,0.6
+internacao,2026-07-01,ENDOCRINOLOGIA,30-44,medio,Gradient Boosting,0.4
+internacao,2026-07-01,ENDOCRINOLOGIA,45-59,medio,Gradient Boosting,0.2
+internacao,2026-07-01,ENDOCRINOLOGIA,60-74,medio,Gradient Boosting,0.7
+internacao,2026-07-01,ENDOCRINOLOGIA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,0-14,medio,Gradient Boosting,0.2
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ENDOCRINOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA,15-29,alto,Gradient Boosting,1.6
+internacao,2026-07-01,GASTROENTEROLOGIA,30-44,alto,Gradient Boosting,3.4
+internacao,2026-07-01,GASTROENTEROLOGIA,45-59,alto,Gradient Boosting,7.0
+internacao,2026-07-01,GASTROENTEROLOGIA,60-74,alto,Gradient Boosting,23.6
+internacao,2026-07-01,GASTROENTEROLOGIA,75+,alto,Gradient Boosting,6.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,8.5
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,0.7
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GASTROENTEROLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GERIATRIA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GERIATRIA,15-29,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GERIATRIA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GERIATRIA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GERIATRIA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,GERIATRIA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,HEMATOLOGIA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,HEMATOLOGIA,15-29,medio,Gradient Boosting,0.8
+internacao,2026-07-01,HEMATOLOGIA,30-44,medio,Gradient Boosting,1.4
+internacao,2026-07-01,HEMATOLOGIA,45-59,medio,Gradient Boosting,2.0
+internacao,2026-07-01,HEMATOLOGIA,60-74,medio,Gradient Boosting,0.6
+internacao,2026-07-01,HEMATOLOGIA,75+,medio,Gradient Boosting,0.2
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,0-14,medio,Gradient Boosting,0.8
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,15-29,baixo,Gradient Boosting,0.2
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,HEMATOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,0-14,medio,Gradient Boosting,0.6
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,15-29,baixo,Gradient Boosting,0.2
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,INFECTOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,MASTOLOGIA,0-14,baixo,Gradient Boosting,0.2
+internacao,2026-07-01,MASTOLOGIA,15-29,alto,Gradient Boosting,2.4
+internacao,2026-07-01,MASTOLOGIA,30-44,alto,Gradient Boosting,1.7
+internacao,2026-07-01,MASTOLOGIA,45-59,medio,Gradient Boosting,2.5
+internacao,2026-07-01,MASTOLOGIA,60-74,medio,Gradient Boosting,0.6
+internacao,2026-07-01,MASTOLOGIA,75+,medio,Gradient Boosting,0.1
+internacao,2026-07-01,MEDICINA INTENSIVA,0-14,baixo,Gradient Boosting,0.2
+internacao,2026-07-01,MEDICINA INTENSIVA,15-29,medio,Gradient Boosting,0.3
+internacao,2026-07-01,MEDICINA INTENSIVA,30-44,medio,Gradient Boosting,0.6
+internacao,2026-07-01,MEDICINA INTENSIVA,45-59,medio,Gradient Boosting,1.0
+internacao,2026-07-01,MEDICINA INTENSIVA,60-74,alto,Gradient Boosting,1.5
+internacao,2026-07-01,MEDICINA INTENSIVA,75+,medio,Gradient Boosting,0.8
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,15-29,medio,Gradient Boosting,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,30-44,medio,Gradient Boosting,0.1
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,45-59,medio,Gradient Boosting,0.0
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,60-74,medio,Gradient Boosting,0.2
+internacao,2026-07-01,MEDICINA INTERVENCIONISTA,75+,medio,Gradient Boosting,0.0
+internacao,2026-07-01,NEFROLOGIA,0-14,medio,Gradient Boosting,0.0
+internacao,2026-07-01,NEFROLOGIA,15-29,alto,Gradient Boosting,4.7
+internacao,2026-07-01,NEFROLOGIA,30-44,alto,Gradient Boosting,5.8
+internacao,2026-07-01,NEFROLOGIA,45-59,alto,Gradient Boosting,3.8
+internacao,2026-07-01,NEFROLOGIA,60-74,alto,Gradient Boosting,2.1
+internacao,2026-07-01,NEFROLOGIA,75+,medio,Gradient Boosting,1.4
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,6.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,0.4
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,NEFROLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,NEUROCIRURGIA,0-14,medio,Gradient Boosting,1.1
+internacao,2026-07-01,NEUROCIRURGIA,15-29,alto,Gradient Boosting,1.6
+internacao,2026-07-01,NEUROCIRURGIA,30-44,alto,Gradient Boosting,3.2
+internacao,2026-07-01,NEUROCIRURGIA,45-59,alto,Gradient Boosting,5.6
+internacao,2026-07-01,NEUROCIRURGIA,60-74,alto,Gradient Boosting,4.7
+internacao,2026-07-01,NEUROCIRURGIA,75+,medio,Gradient Boosting,1.0
+internacao,2026-07-01,NEUROLOGIA,0-14,medio,Gradient Boosting,0.2
+internacao,2026-07-01,NEUROLOGIA,15-29,alto,Gradient Boosting,1.2
+internacao,2026-07-01,NEUROLOGIA,30-44,alto,Gradient Boosting,1.8
+internacao,2026-07-01,NEUROLOGIA,45-59,alto,Gradient Boosting,1.6
+internacao,2026-07-01,NEUROLOGIA,60-74,alto,Gradient Boosting,3.2
+internacao,2026-07-01,NEUROLOGIA,75+,medio,Gradient Boosting,0.7
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,0-14,medio,Gradient Boosting,0.5
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,NEUROLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,0-14,medio,Gradient Boosting,0.0
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,15-29,alto,Gradient Boosting,6.3
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,30-44,alto,Gradient Boosting,2.3
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,45-59,alto,Gradient Boosting,1.7
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,60-74,medio,Gradient Boosting,1.5
+internacao,2026-07-01,ODONTOLOGIA CIRURGIA BUCOMAXILO FACIAL,75+,medio,Gradient Boosting,0.4
+internacao,2026-07-01,ODONTOLOGIA CLINICA,0-14,medio,Gradient Boosting,0.6
+internacao,2026-07-01,ODONTOLOGIA CLINICA,15-29,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,60-74,medio,Gradient Boosting,0.0
+internacao,2026-07-01,ODONTOLOGIA CLINICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,OFTALMOLOGIA,0-14,medio,Gradient Boosting,0.7
+internacao,2026-07-01,OFTALMOLOGIA,15-29,medio,Gradient Boosting,1.1
+internacao,2026-07-01,OFTALMOLOGIA,30-44,medio,Gradient Boosting,1.2
+internacao,2026-07-01,OFTALMOLOGIA,45-59,alto,Gradient Boosting,2.2
+internacao,2026-07-01,OFTALMOLOGIA,60-74,alto,Gradient Boosting,3.6
+internacao,2026-07-01,OFTALMOLOGIA,75+,medio,Gradient Boosting,1.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,0-14,medio,Gradient Boosting,0.2
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,15-29,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ONCO HEMATOLOGIA PEDIATRICO,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,0-14,baixo,Gradient Boosting,0.1
+internacao,2026-07-01,ONCOLOGIA CLINICA,15-29,medio,Gradient Boosting,1.3
+internacao,2026-07-01,ONCOLOGIA CLINICA,30-44,alto,Gradient Boosting,4.0
+internacao,2026-07-01,ONCOLOGIA CLINICA,45-59,alto,Gradient Boosting,7.3
+internacao,2026-07-01,ONCOLOGIA CLINICA,60-74,alto,Gradient Boosting,14.4
+internacao,2026-07-01,ONCOLOGIA CLINICA,75+,alto,Gradient Boosting,4.6
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,15-29,medio,Gradient Boosting,0.8
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,30-44,medio,Gradient Boosting,1.0
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,45-59,medio,Gradient Boosting,0.5
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,60-74,alto,Gradient Boosting,1.5
+internacao,2026-07-01,ONCOLOGIA HEMATOLOGIA,75+,medio,Gradient Boosting,1.2
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,0-14,alto,Gradient Boosting,1.2
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,15-29,alto,Gradient Boosting,8.7
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,30-44,alto,Gradient Boosting,10.2
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,45-59,alto,Gradient Boosting,5.0
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,60-74,alto,Gradient Boosting,4.4
+internacao,2026-07-01,OTORRINOLARINGOLOGIA,75+,medio,Gradient Boosting,0.6
+internacao,2026-07-01,PEDIATRIA,0-14,alto,Gradient Boosting,38.8
+internacao,2026-07-01,PEDIATRIA,15-29,alto,Gradient Boosting,1.7
+internacao,2026-07-01,PEDIATRIA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PEDIATRIA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PEDIATRIA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PEDIATRIA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PNEUMOLOGIA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PNEUMOLOGIA,15-29,medio,Gradient Boosting,1.1
+internacao,2026-07-01,PNEUMOLOGIA,30-44,medio,Gradient Boosting,0.6
+internacao,2026-07-01,PNEUMOLOGIA,45-59,alto,Gradient Boosting,2.2
+internacao,2026-07-01,PNEUMOLOGIA,60-74,alto,Gradient Boosting,1.2
+internacao,2026-07-01,PNEUMOLOGIA,75+,medio,Gradient Boosting,0.7
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,0-14,medio,Gradient Boosting,0.6
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,15-29,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PNEUMOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,POS-TRANSPLANTE,0-14,baixo,Gradient Boosting,0.1
+internacao,2026-07-01,POS-TRANSPLANTE,15-29,alto,Gradient Boosting,3.1
+internacao,2026-07-01,POS-TRANSPLANTE,30-44,alto,Gradient Boosting,8.8
+internacao,2026-07-01,POS-TRANSPLANTE,45-59,alto,Gradient Boosting,9.5
+internacao,2026-07-01,POS-TRANSPLANTE,60-74,alto,Gradient Boosting,6.3
+internacao,2026-07-01,POS-TRANSPLANTE,75+,medio,Gradient Boosting,1.2
+internacao,2026-07-01,PRE-TRANSPLANTE,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PRE-TRANSPLANTE,15-29,medio,Gradient Boosting,0.7
+internacao,2026-07-01,PRE-TRANSPLANTE,30-44,alto,Gradient Boosting,2.4
+internacao,2026-07-01,PRE-TRANSPLANTE,45-59,alto,Gradient Boosting,3.4
+internacao,2026-07-01,PRE-TRANSPLANTE,60-74,medio,Gradient Boosting,1.7
+internacao,2026-07-01,PRE-TRANSPLANTE,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PROCTOLOGIA,0-14,medio,Gradient Boosting,0.0
+internacao,2026-07-01,PROCTOLOGIA,15-29,medio,Gradient Boosting,2.3
+internacao,2026-07-01,PROCTOLOGIA,30-44,alto,Gradient Boosting,3.6
+internacao,2026-07-01,PROCTOLOGIA,45-59,alto,Gradient Boosting,4.3
+internacao,2026-07-01,PROCTOLOGIA,60-74,alto,Gradient Boosting,3.9
+internacao,2026-07-01,PROCTOLOGIA,75+,medio,Gradient Boosting,0.3
+internacao,2026-07-01,PSIQUIATRIA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PSIQUIATRIA,15-29,alto,Gradient Boosting,2.1
+internacao,2026-07-01,PSIQUIATRIA,30-44,alto,Gradient Boosting,1.9
+internacao,2026-07-01,PSIQUIATRIA,45-59,medio,Gradient Boosting,2.2
+internacao,2026-07-01,PSIQUIATRIA,60-74,medio,Gradient Boosting,1.3
+internacao,2026-07-01,PSIQUIATRIA,75+,medio,Gradient Boosting,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,0-14,baixo,Gradient Boosting,0.6
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,15-29,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,PSIQUIATRIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,REUMATOLOGIA,0-14,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,REUMATOLOGIA,15-29,medio,Gradient Boosting,1.7
+internacao,2026-07-01,REUMATOLOGIA,30-44,medio,Gradient Boosting,1.6
+internacao,2026-07-01,REUMATOLOGIA,45-59,medio,Gradient Boosting,1.5
+internacao,2026-07-01,REUMATOLOGIA,60-74,medio,Gradient Boosting,0.1
+internacao,2026-07-01,REUMATOLOGIA,75+,medio,Gradient Boosting,0.2
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,0-14,alto,Gradient Boosting,1.4
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,15-29,medio,Gradient Boosting,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,30-44,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,45-59,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,60-74,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,REUMATOLOGIA PEDIATRICA,75+,baixo,Gradient Boosting,0.0
+internacao,2026-07-01,UROLOGIA,0-14,alto,Gradient Boosting,4.3
+internacao,2026-07-01,UROLOGIA,15-29,alto,Gradient Boosting,3.2
+internacao,2026-07-01,UROLOGIA,30-44,alto,Gradient Boosting,8.7
+internacao,2026-07-01,UROLOGIA,45-59,alto,Gradient Boosting,11.6
+internacao,2026-07-01,UROLOGIA,60-74,alto,Gradient Boosting,21.7
+internacao,2026-07-01,UROLOGIA,75+,alto,Gradient Boosting,8.3
