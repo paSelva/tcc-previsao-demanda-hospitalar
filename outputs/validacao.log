@@ -1,0 +1,282 @@
+
+=== GERAL (especialidade-mês) ===
+       tipo            modelo     MAE     RMSE   N  WAPE_%  ganho_%
+  consulta          Baseline 58.4262 106.4171 420 24.4954   0.0000
+  consulta Gradient Boosting 55.9631  98.5911 420 23.4627   4.2158
+  consulta           Poisson 54.6575 101.1008 420 22.9154   6.4503
+  consulta     Random Forest 51.7828  92.8336 420 21.7101  11.3705
+  consulta       Sazonal 12m 59.9548 100.8158 420 25.1363  -2.6162
+internacao          Baseline  3.5133   5.8235 300 26.8878   0.0000
+internacao Gradient Boosting  3.0785   4.9778 300 23.5598  12.3771
+internacao           Poisson  3.2600   5.6630 300 24.9493   7.2096
+internacao     Random Forest  3.0584   4.8345 300 23.4060  12.9494
+internacao       Sazonal 12m  3.9533   7.1152 300 30.2551 -12.5237
+
+=== POR ORIGEM ===
+       tipo    periodo            modelo     MAE     RMSE  N  WAPE_%   ganho_%
+  consulta 2026-01-01          Baseline 73.8857 124.0332 70 39.0664    0.0000
+  consulta 2026-01-01 Gradient Boosting 70.7650 110.3470 70 37.4164    4.2237
+  consulta 2026-01-01           Poisson 95.2814 154.3303 70 50.3792  -28.9578
+  consulta 2026-01-01     Random Forest 72.1805 112.3531 70 38.1648    2.3079
+  consulta 2026-01-01       Sazonal 12m 54.2286  86.0658 70 28.6729   26.6048
+  consulta 2026-02-01          Baseline 50.9571  81.4588 70 24.3581    0.0000
+  consulta 2026-02-01 Gradient Boosting 39.7520  64.2747 70 19.0019   21.9893
+  consulta 2026-02-01           Poisson 42.6315  78.5544 70 20.3784   16.3384
+  consulta 2026-02-01     Random Forest 47.9176  76.3016 70 22.9052    5.9649
+  consulta 2026-02-01       Sazonal 12m 66.8571 109.3125 70 31.9585  -31.2027
+  consulta 2026-03-01          Baseline 87.9857 152.1852 70 29.8705    0.0000
+  consulta 2026-03-01 Gradient Boosting 83.3586 140.8841 70 28.2996    5.2590
+  consulta 2026-03-01           Poisson 85.9304 144.1549 70 29.1728    2.3359
+  consulta 2026-03-01     Random Forest 73.6062 127.4290 70 24.9888   16.3430
+  consulta 2026-03-01       Sazonal 12m 56.4857  86.4926 70 19.1765   35.8013
+  consulta 2026-04-01          Baseline 72.0429 125.2583 70 32.0353    0.0000
+  consulta 2026-04-01 Gradient Boosting 76.0671 127.3746 70 33.8248   -5.5859
+  consulta 2026-04-01           Poisson 45.5903  76.0132 70 20.2726   36.7179
+  consulta 2026-04-01     Random Forest 65.8778 115.3132 70 29.2939    8.5575
+  consulta 2026-04-01       Sazonal 12m 76.6143 129.8792 70 34.0681   -6.3454
+  consulta 2026-05-01          Baseline 42.9714  77.3096 70 16.3763    0.0000
+  consulta 2026-05-01 Gradient Boosting 40.9881  66.2987 70 15.6205    4.6155
+  consulta 2026-05-01           Poisson 34.2967  57.6655 70 13.0704   20.1873
+  consulta 2026-05-01     Random Forest 27.7596  46.2139 70 10.5791   35.3999
+  consulta 2026-05-01       Sazonal 12m 50.5714  93.1065 70 19.2726  -17.6862
+  consulta 2026-06-01          Baseline 22.7143  33.1835 70  9.0516    0.0000
+  consulta 2026-06-01 Gradient Boosting 24.8476  39.3119 70  9.9017   -9.3917
+  consulta 2026-06-01           Poisson 24.2147  38.1537 70  9.6495   -6.6057
+  consulta 2026-06-01     Random Forest 23.3552  39.9036 70  9.3070   -2.8218
+  consulta 2026-06-01       Sazonal 12m 54.9714  92.7790 70 21.9060 -142.0126
+internacao 2026-01-01          Baseline  3.6800   5.6285 50 29.8701    0.0000
+internacao 2026-01-01 Gradient Boosting  3.4117   5.0871 50 27.6926    7.2901
+internacao 2026-01-01           Poisson  3.5858   6.0853 50 29.1055    2.5598
+internacao 2026-01-01     Random Forest  3.4233   5.0866 50 27.7863    6.9764
+internacao 2026-01-01       Sazonal 12m  3.6000   5.3516 50 29.2208    2.1739
+internacao 2026-02-01          Baseline  3.1600   4.5826 50 25.2396    0.0000
+internacao 2026-02-01 Gradient Boosting  2.6568   4.2849 50 21.2202   15.9250
+internacao 2026-02-01           Poisson  2.9380   5.8932 50 23.4666    7.0249
+internacao 2026-02-01     Random Forest  2.8515   4.5774 50 22.7753    9.7636
+internacao 2026-02-01       Sazonal 12m  4.0200   8.3487 50 32.1086  -27.2152
+internacao 2026-03-01          Baseline  2.5800   4.1976 50 19.0547    0.0000
+internacao 2026-03-01 Gradient Boosting  2.1063   3.5171 50 15.5561   18.3605
+internacao 2026-03-01           Poisson  2.8889   4.1818 50 21.3363  -11.9741
+internacao 2026-03-01     Random Forest  2.3932   4.0277 50 17.6752    7.2394
+internacao 2026-03-01       Sazonal 12m  3.4200   5.4936 50 25.2585  -32.5581
+internacao 2026-04-01          Baseline  3.6200   5.9447 50 30.2676    0.0000
+internacao 2026-04-01 Gradient Boosting  3.4067   5.1422 50 28.4842    5.8921
+internacao 2026-04-01           Poisson  3.0066   5.3209 50 25.1385   16.9456
+internacao 2026-04-01     Random Forest  3.3254   4.9952 50 27.8039    8.1395
+internacao 2026-04-01       Sazonal 12m  4.0600   7.0441 50 33.9465  -12.1547
+internacao 2026-05-01          Baseline  4.6200   7.8956 50 31.6005    0.0000
+internacao 2026-05-01 Gradient Boosting  4.0382   6.9031 50 27.6214   12.5922
+internacao 2026-05-01           Poisson  3.8941   6.5862 50 26.6353   15.7124
+internacao 2026-05-01     Random Forest  3.6473   5.9645 50 24.9471   21.0549
+internacao 2026-05-01       Sazonal 12m  4.7200   8.9487 50 32.2845   -2.1645
+internacao 2026-06-01          Baseline  3.4200   5.9582 50 25.4464    0.0000
+internacao 2026-06-01 Gradient Boosting  2.8512   4.2388 50 21.2139   16.6329
+internacao 2026-06-01           Poisson  3.2468   5.6106 50 24.1578    5.0640
+internacao 2026-06-01     Random Forest  2.7097   4.0814 50 20.1615   20.7690
+internacao 2026-06-01       Sazonal 12m  3.9000   6.7483 50 29.0179  -14.0351
+
+=== ESTRATO (célula) ===
+       tipo estrato            modelo     MAE   N  media_obs
+  consulta    alto          Baseline 28.0179 840   109.6786
+  consulta    alto Gradient Boosting 25.9828 840   109.6786
+  consulta    alto           Poisson 26.1845 840   109.6786
+  consulta    alto     Random Forest 25.0062 840   109.6786
+  consulta    alto       Sazonal 12m 29.2667 840   109.6786
+  consulta   baixo          Baseline  0.2876 852     0.2512
+  consulta   baixo Gradient Boosting  0.7508 852     0.2512
+  consulta   baixo           Poisson  0.6007 852     0.2512
+  consulta   baixo     Random Forest  0.3342 852     0.2512
+  consulta   baixo       Sazonal 12m  0.3110 852     0.2512
+  consulta   medio          Baseline  4.5447 828     9.4614
+  consulta   medio Gradient Boosting  4.3486 828     9.4614
+  consulta   medio           Poisson  4.0252 828     9.4614
+  consulta   medio     Random Forest  4.1393 828     9.4614
+  consulta   medio       Sazonal 12m  6.0048 828     9.4614
+internacao    alto          Baseline  2.5583 600     5.9150
+internacao    alto Gradient Boosting  2.1207 600     5.9150
+internacao    alto           Poisson  2.2353 600     5.9150
+internacao    alto     Random Forest  2.0828 600     5.9150
+internacao    alto       Sazonal 12m  2.8567 600     5.9150
+internacao   baixo          Baseline  0.0212 612     0.0147
+internacao   baixo Gradient Boosting  0.0517 612     0.0147
+internacao   baixo           Poisson  0.1549 612     0.0147
+internacao   baixo     Random Forest  0.0459 612     0.0147
+internacao   baixo       Sazonal 12m  0.0212 612     0.0147
+internacao   medio          Baseline  0.6667 588     0.6156
+internacao   medio Gradient Boosting  0.6163 588     0.6156
+internacao   medio           Poisson  0.6126 588     0.6156
+internacao   medio     Random Forest  0.6460 588     0.6156
+internacao   medio       Sazonal 12m  0.7534 588     0.6156
+
+=== COMPARAÇÃO PAREADA ===
+       tipo          modelo_A          modelo_B  dif_MAE_A_menos_B  IC95_inf  IC95_sup  IC_exclui_zero  A_melhor_em_%  p_wilcoxon
+  consulta     Random Forest Gradient Boosting            -4.1802   -7.0754   -1.5313            True        63.5714      0.0000
+  consulta     Random Forest           Poisson            -2.8747   -5.4363   -0.5687            True        55.9524      0.0125
+  consulta     Random Forest          Baseline            -6.6434  -11.1793   -2.3218            True        53.8095      0.0005
+  consulta     Random Forest       Sazonal 12m            -8.1719  -15.5182   -1.7316            True        60.0000      0.0000
+  consulta Gradient Boosting          Baseline            -2.4631   -5.5977    0.6268           False        45.9524      0.8840
+  consulta           Poisson          Baseline            -3.7687   -7.4172   -0.2935            True        50.9524      0.1861
+  consulta       Sazonal 12m          Baseline             1.5286   -8.2677   12.0032           False        41.6667      0.1513
+internacao     Random Forest Gradient Boosting            -0.0201   -0.1526    0.1058           False        44.6667      0.3166
+internacao     Random Forest           Poisson            -0.2017   -0.6010    0.1177           False        45.0000      0.5198
+internacao     Random Forest          Baseline            -0.4550   -0.9302   -0.0376            True        51.6667      0.0416
+internacao     Random Forest       Sazonal 12m            -0.8950   -1.5014   -0.3506            True        52.3333      0.0048
+internacao Gradient Boosting          Baseline            -0.4349   -0.8463   -0.0413            True        50.0000      0.0149
+internacao           Poisson          Baseline            -0.2533   -0.8010    0.3554           False        52.6667      0.0307
+internacao       Sazonal 12m          Baseline             0.4400   -0.1133    0.9800           False        34.0000      0.1441
+
+=== POISSON: ESTRATOS (treino) ===
+       tipo estrato  linhas    media  variancia  var_sobre_media  zeros_%  maximo
+  consulta    alto    3360 126.6705 11342.5645          89.5438   0.0000     889
+  consulta   baixo    3408   0.1922     0.4112           2.1397  88.1455       8
+  consulta   medio    3312  11.9541   123.5672          10.3368   9.0882      71
+  consulta   todos   10080  46.2163  7080.6563         153.2070  32.7877     889
+internacao    alto    2400   5.9904    35.9511           6.0014   6.2083      50
+internacao   baixo    2448   0.0061     0.0061           0.9943  99.3873       1
+internacao   medio    2352   0.7024     0.9935           1.4144  56.2925       6
+internacao   todos    7200   2.2283    19.4653           8.7354  54.2500      50
+
+=== POISSON: TESTES ===
+                                       0            1
+tipo                           consulta   internacao
+linhas_treino                     10080         7200
+pearson_chi2               35501.050526  9131.389469
+gl_residuo                         9990         7130
+pearson_chi2_sobre_gl          3.553659       1.2807
+deviance_sobre_gl               2.94837     1.018367
+cameron_trivedi_alfa           0.022744     0.058357
+cameron_trivedi_t              5.365496     3.866829
+cameron_trivedi_p                   0.0     0.000111
+zeros_obs_%                   32.787698        54.25
+zeros_esperados_poisson_%     21.173259    49.719664
+zeros_obs_baixo_%              88.14554    99.387255
+zeros_obs_medio_%              9.088164    56.292517
+zeros_obs_alto_%                    0.0     6.208333
+zeros_esp_baixo_%             57.398437    85.945546
+zeros_esp_medio_%              5.378193    55.123886
+zeros_esp_alto_%               0.000001     7.473127
+
+calculando importância detalhada (reajusta os modelos)...
+  importância consulta origem 01/2026 ok
+  importância consulta origem 02/2026 ok
+  importância consulta origem 03/2026 ok
+  importância consulta origem 04/2026 ok
+  importância consulta origem 05/2026 ok
+  importância consulta origem 06/2026 ok
+  importância internacao origem 01/2026 ok
+  importância internacao origem 02/2026 ok
+  importância internacao origem 03/2026 ok
+  importância internacao origem 04/2026 ok
+  importância internacao origem 05/2026 ok
+  importância internacao origem 06/2026 ok
+
+=== IMPORTÂNCIA ===
+       tipo            modelo                  variavel    media  desvio     p05      p95  negativas_pct  peso_%
+  consulta Gradient Boosting historico (lags + medias)  49.8302  5.4419 42.7253  59.1468         0.0000     NaN
+  consulta Gradient Boosting                  media_6m  14.8408  3.6283  9.5385  19.8806         0.0000 41.5977
+  consulta Gradient Boosting                  media_3m   7.8045  3.0044  3.9918  11.8873         0.0000 21.8754
+  consulta Gradient Boosting                     lag_1   6.8751  2.1695  4.6756  10.6535         0.0000 19.2704
+  consulta Gradient Boosting                    lag_12   4.3761  2.2639  1.0886   6.8123         0.0000 12.2659
+  consulta Gradient Boosting                     lag_3   0.9727  0.6424 -0.0807   1.9908        15.0000  2.7265
+  consulta Gradient Boosting                     lag_2   0.6396  0.2942  0.0726   1.0956         0.0000  1.7929
+  consulta Gradient Boosting             especialidade   0.0900  0.1664 -0.1746   0.3501        31.6667  0.2523
+  consulta Gradient Boosting          prop_mun_ni_lag1   0.0382  0.0673 -0.0236   0.2141        20.0000  0.1072
+  consulta Gradient Boosting          idade_media_lag1   0.0373  0.0352 -0.0089   0.1039        11.6667  0.1045
+  consulta Gradient Boosting                     faixa   0.0026  0.0080 -0.0127   0.0139        25.0000  0.0072
+  consulta Gradient Boosting                       ano   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+  consulta Gradient Boosting                dias_uteis   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+  consulta Gradient Boosting                       mes   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+  consulta Gradient Boosting                 trimestre   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+  consulta Gradient Boosting        prop_feminino_lag1  -0.0048  0.0553 -0.1162   0.0718        45.0000  0.0000
+  consulta Gradient Boosting           prop_natal_lag1  -0.0180  0.0555 -0.1112   0.0751        66.6667  0.0000
+  consulta Gradient Boosting         n_municipios_lag1  -0.0180  0.0845 -0.1307   0.0785        48.3333  0.0000
+  consulta           Poisson                     lag_3 110.4510 25.1597 75.6784 143.5167         0.0000 41.3649
+  consulta           Poisson                  media_3m  68.4289  4.8725 61.7655  77.1770         0.0000 25.6272
+  consulta           Poisson                     lag_2  59.2895 14.0335 31.7506  76.6814         0.0000 22.2045
+  consulta           Poisson historico (lags + medias)  54.4615  5.7488 46.3786  62.5835         0.0000     NaN
+  consulta           Poisson                  media_6m  15.0186  6.1823  3.2931  22.3045         0.0000  5.6246
+  consulta           Poisson                    lag_12   9.0172  5.7255 -2.5368  14.7348        16.6667  3.3770
+  consulta           Poisson         n_municipios_lag1   2.7027  3.3102 -3.5232   6.7197        16.6667  1.0122
+  consulta           Poisson             especialidade   1.7588  0.9894 -0.0135   3.3564         6.6667  0.6587
+  consulta           Poisson                     faixa   0.2421  0.2941 -0.2323   0.6319        21.6667  0.0907
+  consulta           Poisson           prop_natal_lag1   0.0744  0.1139 -0.1384   0.2351        28.3333  0.0279
+  consulta           Poisson          idade_media_lag1   0.0199  0.1868 -0.2667   0.3625        50.0000  0.0074
+  consulta           Poisson                     lag_1   0.0102  1.3659 -1.8767   1.8914        50.0000  0.0038
+  consulta           Poisson        prop_feminino_lag1   0.0030  0.0107 -0.0092   0.0224        46.6667  0.0011
+  consulta           Poisson                       ano   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+  consulta           Poisson                dias_uteis   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+  consulta           Poisson                       mes   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+  consulta           Poisson                 trimestre   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+  consulta           Poisson          prop_mun_ni_lag1  -0.0059  0.0140 -0.0296   0.0151        65.0000  0.0000
+  consulta     Random Forest historico (lags + medias)  51.6862  5.5890 42.8194  59.5581         0.0000     NaN
+  consulta     Random Forest                  media_6m  22.4067  3.7653 18.2539  28.7974         0.0000 59.6256
+  consulta     Random Forest                  media_3m  12.9810  4.5979  7.5283  20.0413         0.0000 34.5433
+  consulta     Random Forest                     lag_1   1.4075  1.3668 -1.0946   2.9971        16.6667  3.7455
+  consulta     Random Forest                    lag_12   0.2872  1.7678 -2.1903   3.1196        50.0000  0.7642
+  consulta     Random Forest                     lag_3   0.1474  0.2534 -0.3138   0.5362        18.3333  0.3922
+  consulta     Random Forest                     lag_2   0.1058  0.2212 -0.2058   0.5041        31.6667  0.2815
+  consulta     Random Forest          prop_mun_ni_lag1   0.0901  0.0499  0.0035   0.1600         5.0000  0.2397
+  consulta     Random Forest             especialidade   0.0528  0.0803 -0.0862   0.1784        25.0000  0.1404
+  consulta     Random Forest           prop_natal_lag1   0.0398  0.0523 -0.0384   0.1244        23.3333  0.1060
+  consulta     Random Forest         n_municipios_lag1   0.0277  0.1342 -0.1090   0.3076        60.0000  0.0738
+  consulta     Random Forest                     faixa   0.0139  0.0290 -0.0224   0.0707        38.3333  0.0371
+  consulta     Random Forest          idade_media_lag1   0.0118  0.0643 -0.0837   0.1155        48.3333  0.0313
+  consulta     Random Forest        prop_feminino_lag1   0.0073  0.0559 -0.0836   0.0991        36.6667  0.0194
+  consulta     Random Forest                       mes  -0.0000  0.0000 -0.0000   0.0000        33.3333  0.0000
+  consulta     Random Forest                       ano  -0.0000  0.0000 -0.0000   0.0000        36.6667  0.0000
+  consulta     Random Forest                dias_uteis  -0.0000  0.0000 -0.0000   0.0000        36.6667  0.0000
+  consulta     Random Forest                 trimestre  -0.0000  0.0000 -0.0000   0.0000        35.0000  0.0000
+internacao Gradient Boosting historico (lags + medias)   2.3288  0.1413  2.1048   2.5762         0.0000     NaN
+internacao Gradient Boosting                  media_6m   1.1290  0.1293  0.8849   1.2691         0.0000 55.2056
+internacao Gradient Boosting                     lag_1   0.4263  0.0892  0.3159   0.5976         0.0000 20.8456
+internacao Gradient Boosting                  media_3m   0.3060  0.0661  0.1787   0.3908         0.0000 14.9626
+internacao Gradient Boosting                    lag_12   0.0787  0.0413  0.0240   0.1481         0.0000  3.8469
+internacao Gradient Boosting          idade_media_lag1   0.0349  0.0277 -0.0001   0.0857         6.6667  1.7054
+internacao Gradient Boosting             especialidade   0.0162  0.0147 -0.0060   0.0433        13.3333  0.7940
+internacao Gradient Boosting        prop_feminino_lag1   0.0143  0.0147 -0.0084   0.0355        20.0000  0.6980
+internacao Gradient Boosting                     lag_2   0.0140  0.0206 -0.0161   0.0484        21.6667  0.6855
+internacao Gradient Boosting         n_municipios_lag1   0.0134  0.0225 -0.0204   0.0519        23.3333  0.6574
+internacao Gradient Boosting           prop_natal_lag1   0.0064  0.0129 -0.0112   0.0245        31.6667  0.3131
+internacao Gradient Boosting                     lag_3   0.0051  0.0176 -0.0238   0.0333        43.3333  0.2491
+internacao Gradient Boosting                     faixa   0.0008  0.0024 -0.0040   0.0038        36.6667  0.0367
+internacao Gradient Boosting                       ano   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+internacao Gradient Boosting                dias_uteis   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+internacao Gradient Boosting                       mes   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+internacao Gradient Boosting                 trimestre   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+internacao Gradient Boosting          prop_mun_ni_lag1  -0.0006  0.0027 -0.0055   0.0000         8.3333  0.0000
+internacao           Poisson                  media_3m   3.3880  0.5852  2.6465   4.4657         0.0000 29.6512
+internacao           Poisson                     lag_3   3.1617  0.7997  2.0344   4.5385         0.0000 27.6704
+internacao           Poisson                     lag_2   2.3934  0.5860  1.5765   3.5410         0.0000 20.9467
+internacao           Poisson historico (lags + medias)   1.9419  0.1254  1.7592   2.1800         0.0000     NaN
+internacao           Poisson                  media_6m   1.0408  0.1229  0.8506   1.2295         0.0000  9.1088
+internacao           Poisson                     lag_1   0.8806  0.3174  0.4985   1.4821         0.0000  7.7066
+internacao           Poisson             especialidade   0.3181  0.0999  0.1732   0.4940         0.0000  2.7836
+internacao           Poisson         n_municipios_lag1   0.1303  0.0976 -0.0012   0.2592         6.6667  1.1403
+internacao           Poisson          idade_media_lag1   0.0521  0.0470 -0.0073   0.1518         8.3333  0.4559
+internacao           Poisson                    lag_12   0.0288  0.0611 -0.0557   0.1120        46.6667  0.2518
+internacao           Poisson                     faixa   0.0256  0.0293 -0.0208   0.0741        18.3333  0.2239
+internacao           Poisson           prop_natal_lag1   0.0063  0.0115 -0.0111   0.0238        30.0000  0.0556
+internacao           Poisson        prop_feminino_lag1   0.0006  0.0020 -0.0028   0.0039        41.6667  0.0052
+internacao           Poisson                       ano   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+internacao           Poisson                dias_uteis   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+internacao           Poisson                       mes   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+internacao           Poisson                 trimestre   0.0000  0.0000  0.0000   0.0000         0.0000  0.0000
+internacao           Poisson          prop_mun_ni_lag1  -0.0090  0.0222 -0.0659   0.0001        58.3333  0.0000
+internacao     Random Forest historico (lags + medias)   2.3724  0.1324  2.1689   2.5729         0.0000     NaN
+internacao     Random Forest                  media_6m   1.6800  0.1515  1.4295   1.8971         0.0000 80.4804
+internacao     Random Forest                  media_3m   0.2030  0.0749  0.1024   0.3399         0.0000  9.7270
+internacao     Random Forest                     lag_1   0.0540  0.0206  0.0218   0.0835         0.0000  2.5852
+internacao     Random Forest                    lag_12   0.0522  0.0220  0.0090   0.0825         3.3333  2.4988
+internacao     Random Forest             especialidade   0.0280  0.0151  0.0069   0.0523         3.3333  1.3404
+internacao     Random Forest        prop_feminino_lag1   0.0203  0.0158 -0.0068   0.0399        15.0000  0.9715
+internacao     Random Forest          idade_media_lag1   0.0189  0.0150 -0.0036   0.0418        11.6667  0.9053
+internacao     Random Forest                     lag_3   0.0188  0.0089  0.0068   0.0351         0.0000  0.9027
+internacao     Random Forest                     faixa   0.0096  0.0056  0.0008   0.0172         3.3333  0.4587
+internacao     Random Forest         n_municipios_lag1   0.0027  0.0093 -0.0146   0.0154        31.6667  0.1297
+internacao     Random Forest          prop_mun_ni_lag1   0.0000  0.0004 -0.0006   0.0006        48.3333  0.0003
+internacao     Random Forest                       ano  -0.0000  0.0000 -0.0000   0.0000        16.6667  0.0000
+internacao     Random Forest                 trimestre  -0.0000  0.0000 -0.0000   0.0000        25.0000  0.0000
+internacao     Random Forest                dias_uteis  -0.0000  0.0000 -0.0000   0.0000        25.0000  0.0000
+internacao     Random Forest                       mes  -0.0000  0.0000 -0.0000   0.0000        28.3333  0.0000
+internacao     Random Forest                     lag_2  -0.0002  0.0084 -0.0128   0.0129        48.3333  0.0000
+internacao     Random Forest           prop_natal_lag1  -0.0011  0.0122 -0.0194   0.0172        51.6667  0.0000
