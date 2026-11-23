@@ -115,8 +115,17 @@ def figura_1() -> None:
 # --------------------------------------------------------------------------
 
 def figura_2() -> None:
-    sz = atend.groupby(["tipo", atend["periodo"].dt.month]).size().unstack(0)
-    sz = sz / sz.mean()
+    # Só anos completos: 2026 vai até junho, e incluí-lo daria a jan-jun um ano a
+    # mais do que a jul-dez, inflando o primeiro semestre. A razão é calculada
+    # dentro de cada ano e depois promediada, para o crescimento entre anos não
+    # entrar no índice.
+    ano = atend["periodo"].dt.year
+    completo = atend[ano <= 2025]
+    mensal = completo.groupby(
+        ["tipo", completo["periodo"].dt.year.rename("ano"), completo["periodo"].dt.month.rename("mes")]
+    ).size().unstack("mes")
+    sz = mensal.div(mensal.mean(axis=1), axis=0).groupby("tipo").mean().T
+    print(sz.round(2).T.to_string())
     fig, ax = plt.subplots(figsize=(LARGURA, 2.7))
     for i, tipo in enumerate(["consulta", "internacao"]):
         ax.plot(sz.index, sz[tipo], linestyle=TRACOS[i], marker=MARCADORES[i],
@@ -127,7 +136,7 @@ def figura_2() -> None:
                         "Jul", "Ago", "Set", "Out", "Nov", "Dez"])
     ax.set_ylabel("Índice sazonal")
     ax.set_xlabel("Mês")
-    ax.legend(loc="lower left", ncol=2)
+    ax.legend(loc="upper left")
     salva(fig, "fig02-sazonalidade")
 
 

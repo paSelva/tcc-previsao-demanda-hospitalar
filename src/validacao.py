@@ -168,7 +168,24 @@ def comparacoes(a: pd.DataFrame) -> pd.DataFrame:
                 "A_melhor_em_%": 100 * (d["d"] < 0).mean(),
                 "p_wilcoxon": p_wil,
             })
-    return pd.DataFrame(linhas)
+    return ajusta_holm(pd.DataFrame(linhas))
+
+
+def ajusta_holm(comp: pd.DataFrame) -> pd.DataFrame:
+    """Valores de p de Wilcoxon ajustados por Holm, dentro de cada base.
+
+    São sete comparações por base; sem ajuste, a chance de alguma parecer
+    significativa por acaso cresce com o número de testes.
+    """
+    comp = comp.copy()
+    comp["p_holm"] = np.nan
+    for _, g in comp.groupby("tipo"):
+        ordem = g["p_wilcoxon"].sort_values()
+        m, maior = len(ordem), 0.0
+        for i, (idx, p) in enumerate(ordem.items()):
+            maior = max(maior, min(1.0, (m - i) * p))
+            comp.loc[idx, "p_holm"] = maior
+    return comp
 
 
 # --------------------------------------------------------------------------

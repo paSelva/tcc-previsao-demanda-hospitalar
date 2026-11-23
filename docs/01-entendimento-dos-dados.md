@@ -21,7 +21,7 @@ internações : data_internacao; especialidade; município; idade; sexo
 
 | Período de referência | Consultas | Internações |
 |---|---:|---:|
-| Ano de 2023 | 212.193 | 6.067 |
+| Ano de 2023 | 212.193 | 6.062 |
 | jan–mar 2024 | 49.727 | 1.642 |
 | abr–jun 2024 | 57.914 | 1.783 |
 | jul–set 2024 | 61.368 | 2.110 |
